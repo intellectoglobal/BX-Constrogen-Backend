@@ -1,0 +1,526 @@
+
+
+postgres://user1:changeme@35.175.178.225:5432/bis-erp
+https://builderiq-api.herokuapp.com/
+https://git.heroku.com/builderiq-api.git
+release: python manage.py migrate
+
+
+CITY:
+
+    GET:    http://localhost:8000/api/geo/city/
+    GET:    http://localhost:8000/api/geo/city/1
+
+    POST:   http://localhost:8000/api/geo/city/
+
+        {
+            "name":"Erode",
+            "state_key":24,
+            "company":"TEST"
+        }
+
+    PUT:   http://localhost:8000/api/geo/city/11
+    
+        {
+            "name":"Erode",
+            "state_key":24,
+            "company":"TEST"
+        }
+
+
+STATE:
+
+    GET:    http://localhost:8000/api/geo/state/
+    GET:    http://localhost:8000/api/geo/state/1
+
+    POST:   http://localhost:8000/api/geo/state/
+
+        {
+            "id":"KL",
+            "name":"Kerala"
+        }
+
+    PUT:   http://localhost:8000/api/geo/state/2
+    
+        {
+            "name":"Arunachal Pradesham"
+        }
+
+
+CLIENT:
+
+    GET:    http://localhost:8000/api/client/client/
+    GET:    http://localhost:8000/api/client/client/1001
+
+    POST:   http://localhost:8000/api/client/client/
+
+        {
+            "id":1003,
+            "name":"Test Client 3"
+        }
+
+    PUT:    http://localhost:8000/api/client/client/1001
+        {
+            "name":"Test Client 2"
+        }
+
+
+COMPANY:
+
+    GET:    http://localhost:8000/api/client/company/
+    GET:    http://localhost:8000/api/client/company/TEST
+
+    POST:   http://localhost:8000/api/client/company/
+
+        {
+            "id":"TEST3",
+            "name":"Test Company 3",
+            "client":"1003"
+        }
+
+    PUT:   http://localhost:8000/api/client/company/TEST
+
+        {
+            "name":"Test Company 3",
+            "client":"1003"
+        }
+
+
+COST CATEGORY:
+    GET:    http://localhost:8000/api/client/cost_category/?page=1
+    GET:    http://localhost:8000/api/client/cost_category/14
+
+    POST:   http://localhost:8000/api/client/cost_category/
+
+        {
+            "id": "1005",
+            "descr": "Cement Testing",
+            "client_id": "1002",
+            "company": "TEST3"
+        }
+
+    PUT:   http://localhost:8000/api/client/cost_category/14
+        {
+            "id": "1005",
+            "descr": "Cement Testing",
+            "client_id": "1002",
+            "company": "TEST3"
+        }
+    
+    DELETE: http://localhost:8000/api/client/cost_category/15
+
+
+COST CODE:
+    GET:    http://localhost:8000/api/client/cost_code/?page=1
+    GET:    hhttp://localhost:8000/api/client/cost_code/1
+
+    POST:   http://localhost:8000/api/client/cost_code/
+
+        {
+            "id":"1019",
+            "client_id":"1002",
+            "costctg_key":"1",
+            "company":"TEST"
+        }
+
+    PUT:   http://localhost:8000/api/client/cost_code/1
+
+        {
+            "id":"1019",
+            "client_id":"1002",
+            "costctg_key":"1",
+            "company":"TEST"
+        }
+
+    DELETE: http://localhost:8000/api/client/cost_code/15
+
+
+PROJECT STATUS:
+
+    GET:    http://localhost:8000/api/project/status/
+    GET:    http://localhost:8000/api/project/status/2
+    
+    POST:   http://localhost:8000/api/project/status/
+    
+    {
+        "descr":"New Project Testing",
+        "client_id":"1001",
+        "company":"TEST"
+    }
+
+    PUT:   http://localhost:8000/api/project/status/7
+    
+    {
+        "descr":"New Project Testing",
+        "client_id":"1001",
+        "company":"TEST"
+    }
+    DELETE: http://localhost:8000/api/project/status/2
+
+
+PROJECT TYPE:
+
+    GET:    http://localhost:8000/api/project/type/
+    GET:    http://localhost:8000/api/project/type/1
+
+    POST:   http://localhost:8000/api/project/type/
+
+    {
+        "id":"G+4 Test3",
+        "descr":"G+4 Test3",
+        "client_id":"1003",
+        "company":"TEST"
+    }
+
+    PUT:   http://localhost:8000/api/project/type/7
+
+    {
+        "id":"G+4 Test3",
+        "descr":"G+4 Test3",
+        "client_id":"1003",
+        "company":"TEST"
+    }
+
+    DELETE: http://localhost:8000/api/project/type/2
+
+
+PROJECT 
+
+    GET:    http://localhost:8000/api/project/project/?page=1 
+    (if required pass no of result need per page as page_size=5 by default 10 result per page)
+
+    GET:    http://localhost:8000/api/project/project/2
+
+    POST:   http://localhost:8000/api/project/project/
+
+    {
+        "id":"p-1013",
+        "name":"Homeland Estates Testing23",
+        "client_id":"1002",
+        "state_key":24,
+        "city_key":2,
+        "projtyp_key":1,
+        "projstatus_key":2,
+        "company":"TEST"
+    }
+
+    PUT:   http://localhost:8000/api/project/project/9
+
+
+    {
+        "name":"Homeland Estates Testupdated",
+        "client_id":"1001",
+        "state_key":24,
+        "city_key":2,
+        "projtyp_key":1,
+        "projstatus_key":2
+    }
+
+    DELETE: http://localhost:8000/api/project/project/2
+
+
+AMENITY 
+
+    GET:    http://localhost:8000/api/project/amenity/
+    GET:    http://localhost:8000/api/project/amenity/2
+
+    POST:   http://localhost:8000/api/project/amenity/
+    {
+            "id": "24 hour",
+            "client_id": "1004",
+            "company": "TEST"
+    }
+
+    PUT:   http://localhost:8000/api/project/amenity/7
+    {
+            "id": "24 hour",
+            "client_id": "1004",
+            "company": "TEST"
+    }
+
+
+PROJECT AMENITY 
+
+    GET:    http://localhost:8000/api/project/priect_amenity/
+    GET:    http://localhost:8000/api/project/priect_amenity/2
+
+    POST:   http://localhost:8000/api/project/priect_amenity/
+
+    {
+        "client_id": "1010",
+        "proj_key": 5,
+        "amnty_key": 4,
+        "company": "TEST"      
+    }
+
+    PUT:   http://localhost:8000/api/project/priect_amenity/8
+
+    {
+        "client_id": "1010",
+        "proj_key": 5,
+        "amnty_key": 4,
+        "company": "TEST"      
+    }
+
+
+PROJECT COST CODE 
+
+    GET:    http://localhost:8000/api/project/priect_cost_code
+    GET:    http://localhost:8000/api/project/priect_cost_code/13
+
+    POST:   http://localhost:8000/api/project/priect_cost_code/
+
+    {
+        "client_id": "1008",
+        "proj_key": 7,
+        "costcd_key": 5,
+        "company": "TEST"      
+    }
+
+    PUT:   http://localhost:8000/api/project/priect_cost_code/13
+    {
+        "client_id": "1008",
+        "proj_key": 7,
+        "costcd_key": 5,
+        "company": "TEST"      
+    }
+
+
+VENDOR TYPE
+    GET:    http://localhost:8000/api/vendor/type?page=1
+    GET:    http://localhost:8000/api/vendor/type/4
+
+    POST:   http://localhost:8000/api/vendor/type
+
+    {
+        "id":"Trade New",
+        "client_id":"1002",
+        "company":"TEST"
+    }
+
+    PUT:   http://localhost:8000/api/vendor/type/4
+    {
+        "id":"Trade Updated"
+    }
+
+    DELETE:   http://localhost:8000/api/vendor/type/4
+
+
+VENDOR GROUP
+    GET:    http://localhost:8000/api/vendor/group?page=1
+    GET:    http://localhost:8000/api/vendor/group/10
+
+    POST:   http://localhost:8000/api/vendor/group
+
+    {
+        "id":"Building Materials New 3",
+        "client_id":"1004",
+        "company":"TEST",
+        "descr":"Building Materials New Descr"
+    }
+
+    PUT:   http://localhost:8000/api/vendor/group/10
+    {
+        "id":"Building Materials updt",
+        "descr":"Building Materials New Descr updated"
+    }
+
+    DELETE : http://localhost:8000/api/vendor/group/10
+
+
+AP TERM
+    GET:    http://localhost:8000/api/vendor/ap_term/?page=1
+    GET:    http://localhost:8000/api/vendor/ap_term/3
+
+    POST:   http://localhost:8000/api/vendor/ap_term/
+
+    {
+        "id":"30D-Inv Test",
+        "client_id":"1004",
+        "company":"TEST"
+    }
+
+    PUT:   http://localhost:8000/api/vendor/ap_term/3
+    {
+        "id":"30D-Inv Test updt"
+    }
+
+    DELETE: http://localhost:8000/api/vendor/ap_term/3
+
+
+VENDOR
+    GET:    http://localhost:8000/api/vendor/vendor/?page=1
+    GET:    http://localhost:8000/api/vendor/vendor/3
+
+    POST:   http://localhost:8000/api/vendor/vendor/
+
+        {
+            "id":"Grind Ready Test2",
+            "name":"Grind Ready Test Company2",
+            "client_id":"1003",
+            "state_key":24,
+            "city_key":1,
+            "vendtyp_key":1,
+            "vendgrp_key":2,
+            "company":"TEST2"
+        }
+
+    PUT:   http://localhost:8000/api/vendor/vendor/3
+        {
+            "name":"Grind Ready Test Company",
+            "client_id":"1003",
+            "state_key":24,
+            "city_key":1,
+            "vendtyp_key":1,
+            "vendgrp_key":2
+        }
+
+    DELETE:   http://localhost:8000/api/vendor/vendor/3
+
+
+TOKEN 
+
+    POST:   http://localhost:8000/auth/token/
+    {
+        "user_name":"admin",
+        "password":"itsmeadmin"
+    }
+
+
+REFRESH 
+
+    POST:   http://localhost:8000/auth/token/refresh/
+    {
+        "refresh":"eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJ0b2tlbl90eXBlIjoicmVmcmVzaCIsImV4cCI6MTY2MTg0OTI5MCwiaWF0IjoxNjYwNTUzMjkwLCJqdGkiOiI3YTM3Y2Y3MDk3MTk0NDdlODI0NDU2MDAxNWI3NDg3ZSIsInVzZXJfaWQiOjF9.9IrQ9BEvOADY-RVyJkRluR_loptbySakh91blmPprZ4"
+    }
+
+
+USER ME
+
+    GET http://localhost:8000/auth/me/ --TOKEN_REQUIRED
+
+
+MANUFACTURER
+    GET:    http://localhost:8000/api/inventory/manufacturer/
+    GET:    http://localhost:8000/api/inventory/manufacturer/3
+
+    POST:   http://localhost:8000/api/inventory/manufacturer/
+
+        {
+            "id":"manufacturer new",
+            "client_id":"1003",
+            "company":"TEST2",
+            "name":"name"
+        }
+
+    PUT:   http://localhost:8000/api/inventory/manufacturer/3
+        {
+            "id":"manufacturer new",
+            "client_id":"1003",
+            "company":"TEST2",
+            "name":"name"
+        }
+
+    DELETE:   http://localhost:8000/api/inventory/manufacturer/3
+
+
+WAREHOUSE
+    GET:    http://localhost:8000/api/inventory/warehouse/
+    GET:    http://localhost:8000/api/inventory/warehouse/3
+
+    POST:   http://localhost:8000/api/inventory/warehouse/
+
+        {
+            "id": "TEST",
+            "name": "testing warehouse",
+            "client_id": "1001",
+            "state_key": 24,
+            "city_key": 1,
+            "company": "TEST2"
+        }
+
+    PUT:   http://localhost:8000/api/inventory/warehouse/3
+        {
+            "id": "TEST",
+            "name": "testing warehouse",
+            "client_id": "1001",
+            "state_key": 24,
+            "city_key": 1,
+            "company": "TEST2"
+        }
+
+    DELETE:   http://localhost:8000/api/inventory/warehouse/3
+
+
+ITEM TYPE
+    GET:    http://localhost:8000/api/inventory/item_type/
+    GET:    http://localhost:8000/api/inventory/item_type/3
+
+    POST:   http://localhost:8000/api/inventory/item_type/
+
+        {
+            "id": "New Type",
+            "client_id": "1001",
+            "company": "TEST2"
+        }
+
+    PUT:   http://localhost:8000/api/inventory/item_type/3
+        {
+            "id": "New Type",
+            "client_id": "1001",
+            "company": "TEST2"
+        }
+
+    DELETE:   http://localhost:8000/api/inventory/item_type/3
+
+
+ITEM UOM
+    GET:    http://localhost:8000/api/inventory/item_uom/
+    GET:    http://localhost:8000/api/inventory/item_uom/3
+
+    POST:   http://localhost:8000/api/inventory/item_uom/
+
+        {
+            "id": "Some ID Test",
+            "client_id": "1002",
+            "company": "TEST2"
+        }
+
+    PUT:   http://localhost:8000/api/inventory/item_uom/3
+        {
+            "id": "Some ID Test",
+            "client_id": "1002",
+            "company": "TEST2"
+        }
+
+    DELETE:   http://localhost:8000/api/inventory/item_uom/3
+
+
+ITEM
+    GET:    http://localhost:8000/api/inventory/item/
+    GET:    http://localhost:8000/api/inventory/item/3
+
+    POST:   http://localhost:8000/api/inventory/item/
+
+        {
+            "id": "some item",
+            "stocktype":"Y",
+            "client_id": "1002",
+            "itemtyp_key": 1,
+            "itemuom_key": 1,
+            "company": "TEST2"
+        }
+
+    PUT:   http://localhost:8000/api/inventory/item/3
+        {
+            "id": "some item",
+            "stocktype":"Y",
+            "client_id": "1002",
+            "itemtyp_key": 1,
+            "itemuom_key": 1,
+            "company": "TEST2"
+        }
+
+    DELETE:   http://localhost:8000/api/inventory/item/3
+
+

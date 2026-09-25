@@ -1,0 +1,28 @@
+INSERT INTO "builder-iq".users_appuser 
+(id, password, last_login, is_superuser, user_name, email, first_name, last_name, phone_number, profile_pic, start_date, is_active)
+VALUES
+(1, 'pbkdf2_sha256$260000$Gt4RxwuNGNBiKQykbx62dJ$Bc2f8RuUvgOightM/Rop4LqPv0sFazQSTU2oEQcr+PE=', '2023-03-11 10:01:44.494946+00', true, 'admin', 'admin@gmail.com', 'admin', 'user', '8124143757', '', '2022-07-29 16:00:13.401005+00', true),
+(2, 'pbkdf2_sha256$320000$5GbjqD2y4akjmpKs0uU1d3$hN69AlLUkpmtmKp0qPyaV9dYmdgEW1hrNizMEA5wdWA=', '2022-08-18 18:28:10.941842+00', true, 'selva', 'selvaprvn@gmail.com', 'Selva', 'K', '1231231231', '', '2022-08-18 18:26:37.676278+00', true),
+(3, '', NULL, false, 'selvapk', 'selvaprvn@hotmail.com', 'Praveen', 'K', '9789000050', '', '2022-12-17 07:17:30.224931+00', true),
+(4, '', NULL, false, 'Chales', 'fchals23@gmail.com', 'Charles', 'Francis', '8124143777', '', '2022-12-17 07:19:48.922825+00', true),
+(5, '', NULL, false, 'Vignesh', 'cloudofvignesh@gmail.com', 'Vignesh', 'R', '9087798654', '', '2022-12-17 08:55:58.699264+00', true),
+(6, '', NULL, false, 'Prem', 'prem260490@gmail.com', 'Prem Anand', 'Ramalingam', '9600971725', '', '2022-12-17 14:54:20.202564+00', true),
+(7, '', NULL, false, 'PerfectSenthil', 'thirusenthilkumar@gmail.com', 'Senthil Kumar', 'S', '9840348998', '', '2022-12-19 08:36:25.851219+00', true),
+(8, '', NULL, false, 'premigs', 'boatques@gmail.com', 'prem anand', 'igs', '9176533933', '', '2022-12-19 10:32:15.077816+00', true),
+(9, '', NULL, false, 'testing5', 'testing5@gmail.com', 'test', 'user', '8525456575', '', '2022-12-19 10:52:14.339716+00', true),
+(10, '', NULL, false, 'vimal', 'mail2vimalanand@gmail.com', 'Vimal', 'Anand', '9884762792', '', '2022-12-19 15:23:48.840096+00', true),
+(11, '', NULL, false, 'Gobinath', 'gobinath0895@gmail.com', 'Gobinath', 'V', '9597872134', '', '2022-12-20 17:47:45.655835+00', true),
+(12, '', NULL, false, 'Vignxs', 'vignxs@gmail.com', 'vignesh', 'sivakumar', '7639290579', '', '2022-12-21 16:18:17.838414+00', true),
+(13, '', NULL, false, 'ff', 'ff@ff.com', 'dd', 'dd', '1231231239', '', '2022-12-22 08:50:26.986519+00', false),
+(15, '', NULL, false, '9962533807', 'abpreddy23@gmail.com', 'basava', 'a', '9962533807', '', '2022-12-24 08:51:44.230485+00', true),
+(16, '', NULL, false, 'rahulr001', 'rahulsquads@gmail.com', 'Rahul', 'R', '7356556336', '', '2023-01-09 12:51:58.870473+00', true),
+(17, '', NULL, false, 'dineshd', 'rahulrider@gmail.com', 'Dinesh', 'D', '8508291873', '', '2023-01-17 14:06:05.030642+00', true),
+(18, '', NULL, false, 'Shyamala', 'shyamaladhanakodiprabhu@gmail.com', 'Shyamala', 'S', '9710113466', '', '2023-02-13 13:37:14.640892+00', true),
+(20, '', NULL, false, 'aprltest', 'aprltest@gmail.com', 'aprltestF', 'aprltestL', '8124143798', '', '2023-04-29 18:15:24.638158+00', false),
+(24, '', NULL, false, 'superadmin', 'superadmin@gmail.com', 'Super', 'Admin', '8124143557', '', '2023-04-29 18:50:13.930365+00', true),
+(25, '', NULL, false, 'Perfect Builders', 'perfect.bldrs@gmail.com', 'Perfect', 'Builders', '9677777548', '', '2023-06-29 12:45:14.189038+00', true),
+(28, '', NULL, false, 'Sivarams Builders and Promotors Pvt Ltd', 'gopi@gmail.com', 'Gopi', 'Promotors Pvt Ltd', '9500096960', '', '2023-07-01 05:53:22.971215+00', true),
+(29, '', NULL, false, 'Shyam', 'shyamalapandian@gmail.com', 'shyam', 'S', '6382355519', '', '2023-07-04 10:20:54.758325+00', false),
+(30, '', NULL, false, 'shyamala', 'shyamalapandian@gmail.com', 'shyamala', 's', '6382333519', '', '2023-07-04 10:24:19.940735+00', false),
+(32, '', NULL, false, 'Lokesh', 'vijayanlokesh16@gmail.com', 'Lokesh', 'Vijayan', '9381406727', '', '2023-08-02 13:44:37.145694+00', true),
+(33, '', NULL, false, 'Dev User', 'chals070494@gmail.com', 'DEV - Ignore', 'DEV - Ignore', '9962197740', '', '2023-12-24 02:15:57.386245+00', true);

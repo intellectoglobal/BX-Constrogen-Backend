@@ -1,0 +1,36 @@
+to copy items table
+
+login:
+    psql -h 100.24.133.83 -U user1 -d bis-erp -p 5432
+
+set schema :
+    SET search_path TO bis, public,"builder-iq";
+
+run the copy cmd:
+    \copy "builder-iq"."Item" ("Item_Key","Item_ID","Item_Descr","Item_ItemTyp_Key","Item_ItemUOM_Key","Item_StockType","Item_Mfr_Key","Item_Amount","Item_CreatedBy","Item_CreatedDtTm","Item_LastModifiedBy","Item_LastModifiedDtTm","Item_Company_ID","Item_Client_ID","Item_Model_Number","Item_SubType_Key","Item_ItemUOMs","Item_Gst") FROM 'D:\BUILDER\builder_backend\staticfiles\sql_queries\Item.csv' DELIMITER ',' CSV HEADER;
+
+
+SELECT setval('"builder-iq"."Amenity_Amnty_Key_seq"',6,false)
+SELECT setval('"builder-iq"."APTerms_APTerm_Key_seq"',18,false)
+SELECT setval('"builder-iq"."City_City_Key_seq"',20,false)
+SELECT setval('"builder-iq"."ClientBase_Client_ID_seq"',11,false)
+SELECT setval('"builder-iq"."Company_Company_ID_seq"',31,false)
+SELECT setval('"builder-iq"."Item_Item_Key_seq"',10829,false)
+SELECT setval('"builder-iq"."ItemSubType_ItemSubTyp_Key_seq"',1154,false)
+SELECT setval('"builder-iq"."ItemType_ItemTyp_Key_seq"',81,false)
+SELECT setval('"builder-iq"."ItemUOM_ItemUOM_Key_seq"',1518,false)
+SELECT setval('"builder-iq"."Manufacturer_Mfr_Key_seq"',401,false)
+SELECT setval('"builder-iq"."Project_Proj_Key_seq"',75,false)
+SELECT setval('"builder-iq"."ProjectBlock_ProjBlk_Key_seq"',54,false)
+SELECT setval('"builder-iq"."ProjectFloor_ProjFlr_Key_seq"',47,false)
+SELECT setval('"builder-iq"."ProjectStatus_ProjStatus_Key_seq"',29,false)
+SELECT setval('"builder-iq"."ProjectType_ProjTyp_Key_seq"',36,false)
+SELECT setval('"builder-iq"."ProjectUnit_ProjUnit_Key_seq"',58,false)
+SELECT setval('"builder-iq"."State_State_Key_seq"',36,false)
+SELECT setval('"builder-iq"."UOMType_UOMTyp_Key_seq"',278,false)
+SELECT setval('"builder-iq"."users_apppermission_id_seq"',12,false)
+SELECT setval('"builder-iq"."users_approle_id_seq"',32,false)
+SELECT setval('"builder-iq"."users_approlepermission_id_seq"',167,false)
+SELECT setval('"builder-iq"."users_appuser_id_seq"',34,false)
+SELECT setval('"builder-iq"."users_appusercompany_id_seq"',43,false)
+SELECT setval('"builder-iq"."users_appusersrole_id_seq"',61,false)

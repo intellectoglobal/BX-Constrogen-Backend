@@ -1,0 +1,136 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>OTP Verification</title>
+    <style>
+      @media only screen and (max-width: 600px) {
+        .content-padding {
+          padding: 20px 10px !important;
+        }
+        .otp-box {
+          font-size: 24px !important;
+          padding: 10px 16px !important;
+        }
+      }
+    </style>
+  </head>
+  <body
+    style="
+      margin: 0;
+      padding: 0;
+      background-color: #f5f7fa;
+      font-family: Arial, sans-serif;
+    "
+  >
+    <table
+      width="100%"
+      cellpadding="0"
+      cellspacing="0"
+      border="0"
+      bgcolor="#f5f7fa"
+    >
+      <tr>
+        <td align="center">
+          <table
+            width="100%"
+            cellpadding="0"
+            cellspacing="0"
+            border="0"
+            style="
+              max-width: 600px;
+              background-color: #ffffff;
+              border-radius: 6px;
+              overflow: hidden;
+              box-shadow: 0 0 10px rgba(0, 0, 0, 0.05);
+            "
+          >
+            <!-- Header logo -->
+            <tr>
+              <td align="center" style="padding: 15px 15px;">
+                <table cellpadding="0" cellspacing="0" border="0" align="center">
+                  <tr>
+                    <!-- Logo -->
+                    <td valign="middle" style="padding-right: 10px;">
+                      <img
+                        src="{{ constrogen_logo_url }}"
+                        alt="Constrogen Logo"
+                        style="
+                          width: 90px;
+                          height: auto;
+                          display: block;
+                        "
+                      />
+                    </td>
+
+                    <!-- Text -->
+                    <td valign="middle">
+                      <span
+                        style="
+                          font-size: 50px;
+                          color: #333333;
+                          letter-spacing: 2px;
+                        "
+                      >
+                        CONSTROGEN
+                      </span>
+                    </td>
+                  </tr>
+                </table>
+              </td>
+            </tr>
+
+            <!-- OTP section -->
+            <tr>
+              <td style="padding: 15px 15px; text-align: left">
+                <h2 style="font-size: 24px; font-weight: 600; color: #333">
+                  OTP Verification
+                </h2>
+                <p>Greetings,</p>
+                <p>Please use the OTP below to log in.</p>
+                <div
+                  style="
+                    text-align: center;
+                    font-size: 28px;
+                    font-weight: bold;
+                    padding: 12px 24px;
+                    border: 2px dashed #007bff;
+                    border-radius: 6px;
+                    margin: 20px auto;
+                    letter-spacing: 4px;
+                  "
+                >
+                  {{ otp }}
+                </div>
+                <p>
+                  This OTP is valid for a single use only. Please do not share
+                  it with anyone.
+                </p>
+              </td>
+            </tr>
+
+            <!-- Footer logo and copyright -->
+            <tr>
+              <td
+                align="center"
+                style="padding: 20px; background-color: #f0f0f0"
+              >
+                <p style="font-size: 12px; color: #888; margin: 0">
+                  &copy; {{year}}
+                  <img
+                    src="{{ intellion_icon_url }}"
+                    alt="Intellion Icon"
+                    style="height: 14px; vertical-align: middle; margin: 0 4px"
+                  />
+                  Intellion Technologies. All rights reserved.
+                </p>
+              </td>
+            </tr>
+          </table>
+        </td>
+      </tr>
+    </table>
+  </body>
+</html>
+

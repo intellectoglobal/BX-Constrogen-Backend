@@ -1,0 +1,1662 @@
+Item_Key,Item_ID,Item_Descr,Item_ItemTyp_Key,Item_ItemUOM_Key,Item_StockType,Item_Mfr_Key,Item_Amount,Item_CreatedBy,Item_CreatedDtTm,Item_LastModifiedBy,Item_LastModifiedDtTm,Item_Company_ID,Item_Client_ID,Item_Model_Number,Item_SubType_Key,Item_ItemUOMs,Item_Gst
+9168,Neutral Connector [100A ],Neutral Connector [100A ],69,,I,,,prem,,,,1,5,NULL,,1483,0
+9169,A.C Box (Standard),A.C Box (Standard),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9170,A/C Split 1 ton ,A/C Split 1 ton ,69,,I,373,,prem,,,,1,5,NULL,,1483,0
+9171,A/C Split 1.5 ton ,A/C Split 1.5 ton ,69,,I,373,,prem,,,,1,5,NULL,,1483,0
+9172,A/C Stand,A/C Stand,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9173,A4 Battery,A4 Battery,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9174,AC Metal Box With AC Socket,AC Metal Box With AC Socket,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9175,AC Socket,AC Socket,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9176,AC Split [1 ton] 1 bluestar,AC Split [1 ton] 1 bluestar,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9177,Adaptor 62A (12 Vol.),Adaptor 62A (12 Vol.),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9178,Aluminium leg [185 sqmm],Aluminium leg [185 sqmm],69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9179,Aluminium Leg [25 sqmm],Aluminium Leg [25 sqmm],69,,I,,,prem,,,,1,5,NULL,1033,1483|1484,0
+9180,Aluminium Leg [25 sqmm] ,Aluminium Leg [25 sqmm] ,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9181,Aluminium Leg [35 sqmm],Aluminium Leg [35 sqmm],69,,I,,,prem,,,,1,5,NULL,1033,1483|1484,0
+9182,Aluminium Leg [50 sqmm],Aluminium Leg [50 sqmm],69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9183,Aluminium Leg [50 sqmm] ,Aluminium Leg [50 sqmm] ,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9184,Aluminium Leg [70 sqmm],Aluminium Leg [70 sqmm],69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9185,Aluminium Wire [6sqmm],Aluminium Wire [6sqmm],69,,I,,,prem,,,,1,5,NULL,1034,1485,0
+9186,Aluminium Wire [7/16],Aluminium Wire [7/16],69,,I,,,prem,,,,1,5,NULL,1034,1484,0
+9187,Aluminium Wire [7/18),Aluminium Wire [7/18),69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9188,Aluminium Wire [7/46],Aluminium Wire [7/46],69,,I,,,prem,,,,1,5,NULL,1034,1484,0
+9189,Angle holder,Angle holder,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9190,Axe saw blade,Axe saw blade,69,,I,,,prem,,,,1,5,NULL,,1483|1486,0
+9191,Axe saw blade ,Axe saw blade ,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9192,Bell Push (6A),Bell Push (6A),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9193,Bell switch,Bell switch,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9194,Bell switch  ,Bell switch  ,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9195,Bell switch [Black],Bell switch [Black],69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9196,"Bend  [3/4""]","Bend  [3/4""]",69,,I,,,prem,,,,1,5,NULL,1036,1483,0
+9197,"Bend [1 1/2""]","Bend [1 1/2""]",69,,I,,,prem,,,,1,5,NULL,1036,1483,0
+9198,"Bend  [1""]","Bend  [1""]",69,,I,,,prem,,,,1,5,NULL,1036,1483,0
+9199,"Bend [1 1/4""]","Bend [1 1/4""]",69,,I,,,prem,,,,1,5,NULL,1036,1483,0
+9200,Blank Plate Single ,Blank Plate Single ,69,,I,374,,prem,,,,1,5,NULL,,1483,0
+9201,Bulb (500W),Bulb (500W),69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9202,Bulb (Round) [Yellow],Bulb (Round) [Yellow],69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9203,Bulb (square) [white],Bulb (square) [white],69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9204,Bulb ,Bulb ,69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9205,Bulcat Fittings,Bulcat Fittings,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9206,Bulcat Fittings (500 w),Bulcat Fittings (500 w),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9207,Bulcat Fittings (Fibre),Bulcat Fittings (Fibre),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9208,Bulcat Fittings with CFL Bulb (23 W),Bulcat Fittings with CFL Bulb (23 W),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9209,Bulcat Light with Fittings,Bulcat Light with Fittings,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9210,Button holder (straight),Button holder (straight),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9211,Buzzer (2 module),Buzzer (2 module),69,,I,375,,prem,,,,1,5,NULL,,1483,0
+9212,Cable (4 Core) [150 sqmm 1100v],Cable (4 Core) [150 sqmm 1100v],69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9213,Cable (4 Core) [185 sqmm 1100v],Cable (4 Core) [185 sqmm 1100v],69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9214,Cable (4 Core) [2.5 sqmm 1100v],Cable (4 Core) [2.5 sqmm 1100v],69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9215,Cable (4 Core) [10 sqmm 1100v],Cable (4 Core) [10 sqmm 1100v],69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9216,Cable Strip (20 x 3),Cable Strip (20 x 3),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9217,Cable Strip Insulator PVC,Cable Strip Insulator PVC,69,,I,,,prem,,,,1,5,NULL,1039,1483,0
+9218,Cable Gland (10 sqmm) [4 core],Cable Gland (10 sqmm) [4 core],69,,I,,,prem,,,,1,5,NULL,1039,1483,0
+9219,Cable Gland (2.5 sqmm) [3 core],Cable Gland (2.5 sqmm) [3 core],69,,I,,,prem,,,,1,5,NULL,1039,1483,0
+9220,Cable Gland (4 sqmm) [4 core],Cable Gland (4 sqmm) [4 core],69,,I,,,prem,,,,1,5,NULL,1039,1483,0
+9221,Cable Gland (50 sqmm) [4 core],Cable Gland (50 sqmm) [4 core],69,,I,,,prem,,,,1,5,NULL,1039,1483,0
+9222,Cable Gland [50 mm],Cable Gland [50 mm],69,,I,,,prem,,,,1,5,NULL,1039,1483,0
+9223,Cable Tie [150 mm],Cable Tie [150 mm],69,,I,,,prem,,,,1,5,NULL,1039,1486,0
+9224,Cable Tie [300 mm],Cable Tie [300 mm],69,,I,,,prem,,,,1,5,NULL,1039,1483|1486,0
+9225,Cable Wire (10 sq. mm) (4 Core),Cable Wire (10 sq. mm) (4 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9226,Cable Wire (16 sq. mm) (2 Core),Cable Wire (16 sq. mm) (2 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9227,Cable Wire (2.5 sq. mm) (2 Core),Cable Wire (2.5 sq. mm) (2 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9228,Cable Wire (2.5 sq. mm) (3 Core) ,Cable Wire (2.5 sq. mm) (3 Core) ,69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9229,Cable Wire (2.5 sq. mm) (6 Core),Cable Wire (2.5 sq. mm) (6 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9230,Cable Wire (25 sq. mm) (4 Core),Cable Wire (25 sq. mm) (4 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9231,Cable Wire (35 sq. mm) (4 Core),Cable Wire (35 sq. mm) (4 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9232,Cable Wire (4 sq. mm) (4 Core) ,Cable Wire (4 sq. mm) (4 Core) ,69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9233,Cable Wire (50 sq. mm) (4 Core),Cable Wire (50 sq. mm) (4 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9234,Cable Wire (70 sq. mm) (4 Core),Cable Wire (70 sq. mm) (4 Core),69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9235,Cable Wire (70 sq. mm) (4 Core) ,Cable Wire (70 sq. mm) (4 Core) ,69,,I,,,prem,,,,1,5,NULL,1039,1484,0
+9236,Calling Bell,Calling Bell,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9237,Calling Bell  Battery,Calling Bell  Battery,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9238,Camera (I View HD200 3.6mm IR Dome),Camera (I View HD200 3.6mm IR Dome),69,,I,377,,prem,,,,1,5,NULL,1040,1483,0
+9239,Camera Wire (CCTV){Co-Axial))3+1,Camera Wire (CCTV){Co-Axial))3+1,69,,I,,,prem,,,,1,5,NULL,1040,1484|1485,0
+9240,Camera Wire CCTV,Camera Wire CCTV,69,,I,,,prem,,,,1,5,NULL,1040,1485,0
+9241,"Casing Patty [1 ""]","Casing Patty [1 ""]",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9242,"Casing Patty [1 1/2""]","Casing Patty [1 1/2""]",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9243,"Casing Patty [1 1/4""]","Casing Patty [1 1/4""]",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9244,"Casing Patty [3/4""]","Casing Patty [3/4""]",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9245,Cat 6 Cable,Cat 6 Cable,69,,I,,,prem,,,,1,5,NULL,,1484|1485,0
+9246,Cat 6 Cable (D Link),Cat 6 Cable (D Link),69,,I,,,prem,,,,1,5,NULL,,1485,0
+9247,Cat 6 socket(RJ45),Cat 6 socket(RJ45),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9248,Ceiling Fan ,Ceiling Fan ,69,,I,378,,prem,,,,1,5,NULL,,1483,0
+9249,Ceiling Hose,Ceiling Hose,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9250,CFL bulb,CFL bulb,69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9251,CFL Bulb (23 W),CFL Bulb (23 W),69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9252,CFL bulb [15 A ],CFL bulb [15 A ],69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9253,CFL bulb 14W,CFL bulb 14W,69,,I,,,prem,,,,1,5,NULL,1037,1483,0
+9254,Chandiliar Light,Chandiliar Light,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9255,Choke,Choke,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9256,"Chokes 3""","Chokes 3""",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9257,"Clamp [1 1/4""]","Clamp [1 1/4""]",69,,I,,,prem,,,,1,5,NULL,1041,1483,0
+9258,"Clamp [1""]","Clamp [1""]",69,,I,,,prem,,,,1,5,NULL,1041,1483|1486|1487,0
+9259,"Clamp [3/4""]","Clamp [3/4""]",69,,I,,,prem,,,,1,5,NULL,1041,1483|1486|1487,0
+9260,"Coaches Screw (1 1/2"")","Coaches Screw (1 1/2"")",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9261,"Coaches Screw (2 1/2"")","Coaches Screw (2 1/2"")",69,,I,,,prem,,,,1,5,NULL,1042,1488|1483,0
+9262,"Coaches Screw (2"" x 10)","Coaches Screw (2"" x 10)",69,,I,,,prem,,,,1,5,NULL,1042,1489|1483,0
+9263,"Coaches Screw (2"")","Coaches Screw (2"")",69,,I,,,prem,,,,1,5,NULL,1042,1483|1489,0
+9264,"Coaches Screw (3"")","Coaches Screw (3"")",69,,I,,,prem,,,,1,5,NULL,1042,1483|1489,0
+9265,"Coaches Screw (4"")","Coaches Screw (4"")",69,,I,,,prem,,,,1,5,NULL,1042,1489|1483,0
+9266,"Coaches Screw (5"")","Coaches Screw (5"")",69,,I,,,prem,,,,1,5,NULL,1042,1483|1489,0
+9267,"Coaches Screw (6"")","Coaches Screw (6"")",69,,I,,,prem,,,,1,5,NULL,1042,1489|1483,0
+9268,Combi Socket (Square Pin) [15A],Combi Socket (Square Pin) [15A],69,,I,,,prem,,,,1,5,NULL,,1483,0
+9269,Combi Socket (Square Pin) [6A],Combi Socket (Square Pin) [6A],69,,I,,,prem,,,,1,5,NULL,,1483,0
+9270,Copper Leg [10 sqmm] ,Copper Leg [10 sqmm] ,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9271,Copper Wire,Copper Wire,69,,I,,,prem,,,,1,5,NULL,1034,1484|1489,0
+9272,Copper wire (18kg),Copper wire (18kg),69,,I,,,prem,,,,1,5,NULL,1034,1484|1489,0
+9273,Copper wire (8kg),Copper wire (8kg),69,,I,,,prem,,,,1,5,NULL,1034,1484|1490|1489,0
+9274,Copper Wire 2.5sqmm (4 Core),Copper Wire 2.5sqmm (4 Core),69,,I,,,prem,,,,1,5,NULL,1034,1484,0
+9275,Cotton Tap roll,Cotton Tap roll,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9276,"Coupling [3/4""]","Coupling [3/4""]",69,,I,,,prem,,,,1,5,NULL,1043,1483,0
+9277,"Coupling [1""]","Coupling [1""]",69,,I,,,prem,,,,1,5,NULL,1043,1483,0
+9278,Cover Plate (2M),Cover Plate (2M),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9279,Cover plate (3M),Cover plate (3M),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9280,Cutout 200A,Cutout 200A,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9281,Cutout 32A,Cutout 32A,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9282,D.B box (6 Way),D.B box (6 Way),69,,I,380,,prem,,,,1,5,NULL,1044,1483,0
+9283,D.B box (8 Way),D.B box (8 Way),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9284,D.B box (32A),D.B box (32A),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9285,D.B. Box  Indicator 16 A,D.B. Box  Indicator 16 A,69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9286,D.B. Box 12 way ( With Door),D.B. Box 12 way ( With Door),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9287,D.B. Box 2 way (40 A),D.B. Box 2 way (40 A),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9288,D.B. Box 32 A Fuse carrier 8 way,D.B. Box 32 A Fuse carrier 8 way,69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9289,D.B. Box 4 way (40 A),D.B. Box 4 way (40 A),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9290,D.B. Box 4 way (40 A) ,D.B. Box 4 way (40 A) ,69,,I,380,,prem,,,,1,5,NULL,1044,1483,0
+9291,D.B. Box 6 way roll 40A,D.B. Box 6 way roll 40A,69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9292,D.B. Box 63 A,D.B. Box 63 A,69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9293,D.B. Box 63 A Fuse unit 8 way,D.B. Box 63 A Fuse unit 8 way,69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9294,D.B. Box 63 A Fuse carrier 8 way  ,D.B. Box 63 A Fuse carrier 8 way  ,69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9295,D.B. Box 6way ( With Door),D.B. Box 6way ( With Door),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9296,D.B.Box (6 way) [40A],D.B.Box (6 way) [40A],69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9297,D.B.Box (8 Way) [40 A],D.B.Box (8 Way) [40 A],69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9298,D.B.Box Double Door ,D.B.Box Double Door ,69,,I,380,,prem,,,,1,5,NULL,1044,1483,0
+9299,D.B.Box Single Door (10 Way),D.B.Box Single Door (10 Way),69,,I,,,prem,,,,1,5,NULL,1044,1483,0
+9300,D.B.Box Single Door (8 Way) ,D.B.Box Single Door (8 Way) ,69,,I,380,,prem,,,,1,5,NULL,1044,1483,0
+9301,DB Indicator 40A (Switch Type),DB Indicator 40A (Switch Type),69,,I,,,prem,,,,1,5,NULL,1045,1483,0
+9302,DB Indicators (Blue),DB Indicators (Blue),69,,I,,,prem,,,,1,5,NULL,1045,1483,0
+9303,DB Indicators (Green),DB Indicators (Green),69,,I,,,prem,,,,1,5,NULL,1045,1483,0
+9304,DB Indicators (Red),DB Indicators (Red),69,,I,,,prem,,,,1,5,NULL,1045,1483,0
+9305,DB Indicators (Yellow),DB Indicators (Yellow),69,,I,,,prem,,,,1,5,NULL,1045,1483,0
+9306,Dimmer Light (2 Module),Dimmer Light (2 Module),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9307,Dimmer R 1M Tiny 450W,Dimmer R 1M Tiny 450W,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9308,DVR (I Discover HD5CH V2.0),DVR (I Discover HD5CH V2.0),69,,I,377,,prem,,,,1,5,NULL,,1483,0
+9309,Earth pipe 6ft,Earth pipe 6ft,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9310,Earthlink (3 Pole),Earthlink (3 Pole),69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9311,Earthlink (6 Pole),Earthlink (6 Pole),69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9312,Earthlink (8 Pole),Earthlink (8 Pole),69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9313,Earthlink 200 A,Earthlink 200 A,69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9314,Earthlink 32A,Earthlink 32A,69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9315,Earthlink 63A,Earthlink 63A,69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9316,Earthlink 6A,Earthlink 6A,69,,I,,,prem,,,,1,5,NULL,1046,1483,0
+9317,Earthpipe (4 feet),Earthpipe (4 feet),69,,I,,,prem,,,,1,5,NULL,1047,1483,0
+9318,Earthpipe (5 feet),Earthpipe (5 feet),69,,I,,,prem,,,,1,5,NULL,1047,1483,0
+9319,Earthpipe (8 feet),Earthpipe (8 feet),69,,I,,,prem,,,,1,5,NULL,1047,1483,0
+9320,"EB, Green 3 Phase Auto Changeover Switch","EB, Green 3 Phase Auto Changeover Switch",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9321,Electrode with Solution (Chemical Pipe),Electrode with Solution (Chemical Pipe),69,,I,,,prem,,,,1,5,NULL,,1489|1483,0
+9322,Exhaust Fan,Exhaust Fan,69,,I,,,prem,,,,1,5,NULL,1048,1483,0
+9323,"Exhaust Fan [9""]","Exhaust Fan [9""]",69,,I,378,,prem,,,,1,5,NULL,1048,1483,0
+9324,"Exhaust Fan (6"" EF VF)","Exhaust Fan (6"" EF VF)",69,,I,381,,prem,,,,1,5,NULL,1048,1483,0
+9325,"Exhaust Fan 4 1/2""","Exhaust Fan 4 1/2""",69,,I,,,prem,,,,1,5,NULL,1048,1483,0
+9326,"Exhaust Fan 9""","Exhaust Fan 9""",69,,I,,,prem,,,,1,5,NULL,1048,1483,0
+9327,Fall Ceiling Chandelier Light,Fall Ceiling Chandelier Light,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9328,Fall Ceiling Light (15w),Fall Ceiling Light (15w),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9329,"Fan (16"" WF Windflo 1950)","Fan (16"" WF Windflo 1950)",69,,I,378,,prem,,,,1,5,NULL,1049,1483,0
+9330,"Fan (48"" CF RVR HS BR 1480) W/O Regulator","Fan (48"" CF RVR HS BR 1480) W/O Regulator",69,,I,378,,prem,,,,1,5,NULL,1049,1483,0
+9331,Fan (High Speed),Fan (High Speed),69,,I,378,,prem,,,,1,5,NULL,1049,1483,0
+9332,"Fan (16"" WF Swing Platina)","Fan (16"" WF Swing Platina)",69,,I,382,,prem,,,,1,5,NULL,1049,1483,0
+9333,"Fan box (Deep) [1""]","Fan box (Deep) [1""]",69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9334,Fan Bracket,Fan Bracket,69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9335,Fan Clamp,Fan Clamp,69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9336,Fan dimmer socket,Fan dimmer socket,69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9337,Fan Reapier,Fan Reapier,69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9338,Fan regulator (1 module),Fan regulator (1 module),69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9339,Fan regulator (1 module) [Black],Fan regulator (1 module) [Black],69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9340,Fan regulator (2 module),Fan regulator (2 module),69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9341,"Fan Rod [1""]","Fan Rod [1""]",69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9342,Fan Rod ( Down),Fan Rod ( Down),69,,I,,,prem,,,,1,5,NULL,1049,1491|1483,0
+9343,Fan Rod (2 feet),Fan Rod (2 feet),69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9344,Fan Rod (2 1/2 feet),Fan Rod (2 1/2 feet),69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9345,Fan rod (3 feet),Fan rod (3 feet),69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9346,Fan Rod [1 1/2 feet],Fan Rod [1 1/2 feet],69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9347,Fan Rod [1 1/4 feet],Fan Rod [1 1/4 feet],69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9348,Fan Rod [1 1/4 feet] With Broket Set,Fan Rod [1 1/4 feet] With Broket Set,69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9349,Fan Round Sheet Heavy,Fan Round Sheet Heavy,69,,I,,,prem,,,,1,5,NULL,1049,1483,0
+9350,"Flexible hose 1""","Flexible hose 1""",69,,I,,,prem,,,,1,5,NULL,,1483|1484,0
+9351,"Flexible hose 1/2""","Flexible hose 1/2""",69,,I,,,prem,,,,1,5,NULL,,1484,0
+9352,"Flexible hose 3/4""","Flexible hose 3/4""",69,,I,,,prem,,,,1,5,NULL,,1484,0
+9353,Focus Light (200w) ,Focus Light (200w) ,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9354,Focus Light (500w),Focus Light (500w),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9355,Foot Lamp Plate (2M),Foot Lamp Plate (2M),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9356,Foot Lamp Plate (3W) (3 module),Foot Lamp Plate (3W) (3 module),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9357,Foot Lamp Plate (3W) (3 module) (Without Plate),Foot Lamp Plate (3W) (3 module) (Without Plate),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9358,Foot Lamp Plate (3W) (3 module) (Without Plate) [Black],Foot Lamp Plate (3W) (3 module) (Without Plate) [Black],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9359,Foot Lamp Plate (4M),Foot Lamp Plate (4M),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9360,Fuse Carrier 100A,Fuse Carrier 100A,69,,I,,,prem,,,,1,5,NULL,1050,1483,0
+9361,Fuse Carrier 200A,Fuse Carrier 200A,69,,I,,,prem,,,,1,5,NULL,1050,1483,0
+9362,Fuse carrier 32A,Fuse carrier 32A,69,,I,,,prem,,,,1,5,NULL,1050,1483,0
+9363,Fuse carrier 36A,Fuse carrier 36A,69,,I,,,prem,,,,1,5,NULL,1050,1483,0
+9364,Fuse carrier 63A,Fuse carrier 63A,69,,I,,,prem,,,,1,5,NULL,1050,1483|1486,0
+9365,Gang box,Gang box,69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9366,Gang box (1 + 1),Gang box (1 + 1),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9367,Gang box (1 Way),Gang box (1 Way),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9368,Gang box (2 + 1),Gang box (2 + 1),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9369,Gang box (2 + 2),Gang box (2 + 2),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9370,Gang box (3 + 2),Gang box (3 + 2),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9371,Gang box (3 + 3),Gang box (3 + 3),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9372,Gang box (3 Way),Gang box (3 Way),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9373,Gang box (4 + 1),Gang box (4 + 1),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9374,Gang box (4 + 3),Gang box (4 + 3),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9375,Gang box (4 + 4),Gang box (4 + 4),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9376,Gang Box (1+1),Gang Box (1+1),69,,I,,,prem,,,,1,5,NULL,1051,1483,0
+9377,Gate Light,Gate Light,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9378,Gate Light [S075],Gate Light [S075],69,,I,383,,prem,,,,1,5,NULL,1038,1483,0
+9379,Gate Light [Floor Mount Type],Gate Light [Floor Mount Type],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9380,Gate Light [SN 25],Gate Light [SN 25],69,,I,384,,prem,,,,1,5,NULL,1038,1483,0
+9381,Generator,Generator,69,,I,,,prem,,,,1,5,NULL,,1492|1483,0
+9382,GenSet,GenSet,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9383,Pipe 4 feet,Pipe 4 feet,69,,I,,,prem,,,,1,5,NULL,1052,1491|1483,0
+9384,Pipe 5 feet,Pipe 5 feet,69,,I,,,prem,,,,1,5,NULL,,1483|1491,0
+9385,"Plug 1/2""","Plug 1/2""",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9386,wire,wire,69,,I,,,prem,,,,1,5,NULL,1034,1484|1489|1490,0
+9387,wire (18kg),wire (18kg),69,,I,,,prem,,,,1,5,NULL,1034,1489,0
+9388,Hacksaw blade,Hacksaw blade,69,,I,,,prem,,,,1,5,NULL,1053,1483|1487,0
+9389,Hacksaw blade [Doubleside],Hacksaw blade [Doubleside],69,,I,,,prem,,,,1,5,NULL,1053,1483,0
+9390,"Hose 1"" (Grey)","Hose 1"" (Grey)",69,,I,,,prem,,,,1,5,NULL,,1484,0
+9391,"Hose pipe 1/2""","Hose pipe 1/2""",69,,I,,,prem,,,,1,5,NULL,,1483|1484,0
+9392,"Hose pipe 3/4""","Hose pipe 3/4""",69,,I,,,prem,,,,1,5,NULL,,1484|1485,0
+9393,Indicator clip,Indicator clip,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9394,Indicator Switch (15 A),Indicator Switch (15 A),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9395,Installation,Installation,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9396,Insulation Tap Roll,Insulation Tap Roll,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9397,Insulator,Insulator,69,,I,,,prem,,,,1,5,NULL,,1483|1486,0
+9398,Inverter,Inverter,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9399,Isolator 2 pole (40 A),Isolator 2 pole (40 A),69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9400,Isolator 4 pole (40 A),Isolator 4 pole (40 A),69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9401,Isolator 4 pole (63 A),Isolator 4 pole (63 A),69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9402,Isolator 4 pole 100A,Isolator 4 pole 100A,69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9403,Isolator 4 way [PVC],Isolator 4 way [PVC],69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9404,Isolator 40A (2 way),Isolator 40A (2 way),69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9405,Isolator 40A (4 way),Isolator 40A (4 way),69,,I,,,prem,,,,1,5,NULL,1054,1483,0
+9406,Hylam sheet 10 x 12,Hylam sheet 10 x 12,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9407,Hylam sheet 10 x 4,Hylam sheet 10 x 4,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9408,Hylam sheet 10 x 6,Hylam sheet 10 x 6,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9409,Hylam sheet 12 x 6,Hylam sheet 12 x 6,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9410,Hylam sheet 12 x 8,Hylam sheet 12 x 8,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9411,Hylam sheet 15 x 6,Hylam sheet 15 x 6,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9412,Hylam sheet 15 x 8,Hylam sheet 15 x 8,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9413,Hylam sheet 21 x 10,Hylam sheet 21 x 10,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9414,Hylam sheet 4 x 4,Hylam sheet 4 x 4,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9415,Hylam sheet 6 x 4,Hylam sheet 6 x 4,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9416,Hylam sheet 8 x 4,Hylam sheet 8 x 4,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9417,Hylam sheet 8 x 6,Hylam sheet 8 x 6,69,,I,,,prem,,,,1,5,NULL,1055,1483,0
+9418,"Junction box  3/4"" 1 way","Junction box  3/4"" 1 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9419,"Junction box  3/4"" 2 way","Junction box  3/4"" 2 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9420,"Junction box  3/4"" 3 way","Junction box  3/4"" 3 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9421,"Junction box  3/4"" 4 way","Junction box  3/4"" 4 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9422,"Junction box (Deep)   3/4"" 4 way","Junction box (Deep)   3/4"" 4 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9423,"Junction box (Deep)  1"" 4 way","Junction box (Deep)  1"" 4 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9424,"Junction box (Deep)  3/4"" 1 way","Junction box (Deep)  3/4"" 1 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9425,"Junction box (Deep)  3/4"" 2 way","Junction box (Deep)  3/4"" 2 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9426,"Junction box (Deep)  3/4"" 3 way","Junction box (Deep)  3/4"" 3 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9427,"Junction box (Deep) 1 1/4 "" 4way","Junction box (Deep) 1 1/4 "" 4way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9428,"Junction box (Deep) 1"" 1 way","Junction box (Deep) 1"" 1 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9429,"Junction box (Deep) 1"" 2 way","Junction box (Deep) 1"" 2 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9430,"Junction box (Deep) 1"" 3 way","Junction box (Deep) 1"" 3 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9431,"Junction box 1""  4 way (Flat)","Junction box 1""  4 way (Flat)",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9432,"Junction box 1"" 1 way","Junction box 1"" 1 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9433,"Junction box 1"" 2 way","Junction box 1"" 2 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9434,"Junction box 1"" 3 way","Junction box 1"" 3 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9435,"Junction box 1"" 4 way","Junction box 1"" 4 way",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9436,"Junction box 11/2 "" 4 way( Flat)","Junction box 11/2 "" 4 way( Flat)",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9437,"Junction box 11/4 "" 4 way Flat)","Junction box 11/4 "" 4 way Flat)",69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9438,Junction box 8 way,Junction box 8 way,69,,I,,,prem,,,,1,5,NULL,1056,1483,0
+9439,LED [Fatting Luker] (18 W) (4 feet),LED [Fatting Luker] (18 W) (4 feet),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9440,LED 3mm,LED 3mm,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9441,LED Bulb [5 W],LED Bulb [5 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9442,LED Bulb [9 W],LED Bulb [9 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9443,LED Button Light [1 W] ,LED Button Light [1 W] ,69,,I,385,,prem,,,,1,5,NULL,1038,1483,0
+9444,LED Choke,LED Choke,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9445,LED Fitting (3W),LED Fitting (3W),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9446,LED Fitting Clamp,LED Fitting Clamp,69,,I,,,prem,,,,1,5,NULL,1038,1483|1493,0
+9447,LED Fittings [12 W],LED Fittings [12 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9448,LED Fittings [20 W],LED Fittings [20 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9449,LED Fittings [22 W],LED Fittings [22 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9450,LED Fittings [36 W],LED Fittings [36 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9451,LED Fittings [6 W],LED Fittings [6 W],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9452,LED Indicator Leg (D. B. Box),LED Indicator Leg (D. B. Box),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9453,LED Light,LED Light,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9454,LED Light (3 Module),LED Light (3 Module),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9455,LED Panel (15W),LED Panel (15W),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9456,LED Round Light [3 W] ,LED Round Light [3 W] ,69,,I,386,,prem,,,,1,5,NULL,1038,1483,0
+9457,LED Square Light [10 W] ,LED Square Light [10 W] ,69,,I,386,,prem,,,,1,5,NULL,1038,1483,0
+9458,LED Square Light [15 W] ,LED Square Light [15 W] ,69,,I,386,,prem,,,,1,5,NULL,1038,1483,0
+9459,LED Square Light [22 W] ,LED Square Light [22 W] ,69,,I,386,,prem,,,,1,5,NULL,1038,1483,0
+9460,LED- STRIP- LIGHTE- WHITE-PINK-B,LED- STRIP- LIGHTE- WHITE-PINK-B,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9461,LED Tube Light [24 W] ,LED Tube Light [24 W] ,69,,I,386,,prem,,,,1,5,NULL,1038,1483,0
+9462,Leg 10 sqmm ,Leg 10 sqmm ,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9463,Leg 16 sqmm,Leg 16 sqmm,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9464,Leg 25 sqmm,Leg 25 sqmm,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9465,Leg 35 sqmm,Leg 35 sqmm,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9466,Leg 50 sqmm,Leg 50 sqmm,69,,I,,,prem,,,,1,5,NULL,1033,1483,0
+9467,Main board,Main board,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9468,MCB (10 A),MCB (10 A),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9469,MCB (16 A),MCB (16 A),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9470,MCB (16 A) ,MCB (16 A) ,69,,I,387,,prem,,,,1,5,NULL,1057,1483,0
+9471,MCB (16 A) 2 Pole (C Series),MCB (16 A) 2 Pole (C Series),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9472,MCB (16 A) 3 Pole (C Series),MCB (16 A) 3 Pole (C Series),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9473,MCB (2 pole) (10 ams),MCB (2 pole) (10 ams),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9474,MCB (2 pole) (40 ams),MCB (2 pole) (40 ams),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9475,MCB (20 A),MCB (20 A),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9476,MCB (20 A) ,MCB (20 A) ,69,,I,387,,prem,,,,1,5,NULL,1057,1483,0
+9477,MCB (25 A),MCB (25 A),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9478,MCB (25 A) ,MCB (25 A) ,69,,I,387,,prem,,,,1,5,NULL,1057,1483,0
+9479,MCB (25 A) 4 Pole (C Series),MCB (25 A) 4 Pole (C Series),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9480,MCB (4 pole) (20 ams),MCB (4 pole) (20 ams),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9481,MCB (4 pole) (40 ams),MCB (4 pole) (40 ams),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9482,MCB (4 pole) (63 ams),MCB (4 pole) (63 ams),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9483,MCB (6 A),MCB (6 A),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9484,MCB (Single Pole),MCB (Single Pole),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9485,MCB 40A (2 pole),MCB 40A (2 pole),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9486,MCB Box 1 way,MCB Box 1 way,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9487,MCB Box 2 pole,MCB Box 2 pole,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9488,MCB Box 2 way,MCB Box 2 way,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9489,MCB box 4 way,MCB box 4 way,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9490,MCB box 4 way (Long body),MCB box 4 way (Long body),69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9491,MCB Box 4 way Double Door,MCB Box 4 way Double Door,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9492,MCB Box 6 way,MCB Box 6 way,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9493,MCB box 8 way,MCB box 8 way,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9494,MCB Distribution Board (4- Pole) [SD 12 X 8],MCB Distribution Board (4- Pole) [SD 12 X 8],69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9495,MCB dummy,MCB dummy,69,,I,,,prem,,,,1,5,NULL,1057,1483,0
+9496,Metal box (2 module) ,Metal box (2 module) ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9497,Metal box (2 module) with Plate,Metal box (2 module) with Plate,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9498,Metal box (3 module) ,Metal box (3 module) ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9499,Metal box 1 module,Metal box 1 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9500,Metal box 12 module,Metal box 12 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9501,Metal Box 12 module ,Metal Box 12 module ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9502,Metal box 16 module,Metal box 16 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9503,Metal box 2 module,Metal box 2 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9504,Metal Box 2 module ,Metal Box 2 module ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9505,Metal box 3 module,Metal box 3 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9506,Metal Box 3 module ,Metal Box 3 module ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9507,Metal box 4 module,Metal box 4 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9508,Metal Box 4 module ,Metal Box 4 module ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9509,Metal box 6 module,Metal box 6 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9510,Metal Box 6 module ,Metal Box 6 module ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9511,Metal box 8 module,Metal box 8 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9512,Metal Box 8 module ,Metal Box 8 module ,69,,I,374,,prem,,,,1,5,NULL,1058,1483,0
+9513,Metal box 9 module,Metal box 9 module,69,,I,,,prem,,,,1,5,NULL,1058,1483,0
+9514,Metal box 9 module ,Metal box 9 module ,69,,I,388,,prem,,,,1,5,NULL,1058,1483,0
+9515,Metal Plate (2 module) ,Metal Plate (2 module) ,69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9516,Metal Plate (3 module) ,Metal Plate (3 module) ,69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9517,Metal plate 1 module,Metal plate 1 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9518,Metal Plate 1 module ,Metal Plate 1 module ,69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9519,Metal plate 1 module [Black],Metal plate 1 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9520,Metal plate 1 module ,Metal plate 1 module ,69,,I,388,,prem,,,,1,5,NULL,1059,1483,0
+9521,Metal plate 12 module,Metal plate 12 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9522,Metal plate 12 module ,Metal plate 12 module ,69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9523,Metal plate 12 module [Black],Metal plate 12 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9524,Metal plate 16 module,Metal plate 16 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9525,Metal plate 2 module,Metal plate 2 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9526,Metal plate 2 module (4 x 3),Metal plate 2 module (4 x 3),69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9527,Metal plate 2 module ,Metal plate 2 module ,69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9528,Metal plate 2 module [Black],Metal plate 2 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9529,Metal plate 3 module,Metal plate 3 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9530,Metal plate 3 module ,Metal plate 3 module ,69,,I,389,,prem,,,,1,5,NULL,1059,1483,0
+9531,Metal plate 3 module [Black],Metal plate 3 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9532,Metal plate 4 module,Metal plate 4 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9533,Metal plate 4 module ,Metal plate 4 module ,69,,I,389,,prem,,,,1,5,NULL,1059,1483,0
+9534,Metal plate 4 module [Black],Metal plate 4 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9535,Metal plate 6 module,Metal plate 6 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9536,Metal plate 6 module ,Metal plate 6 module ,69,,I,390,,prem,,,,1,5,NULL,1059,1483,0
+9537,Metal plate 6 module [Black],Metal plate 6 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9538,Metal plate 8 module,Metal plate 8 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9539,Metal plate 8 module ,Metal plate 8 module ,69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9540,Metal plate 8 module [Black],Metal plate 8 module [Black],69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9541,Metal plate 9 module,Metal plate 9 module,69,,I,,,prem,,,,1,5,NULL,1059,1483,0
+9542,Metal plate 9 module ,Metal plate 9 module ,69,,I,388,,prem,,,,1,5,NULL,1059,1483,0
+9543,Metal Plate With Box  (3 module),Metal Plate With Box  (3 module),69,,I,374,,prem,,,,1,5,NULL,1059,1483,0
+9544,"Metal screw (1 1/2"")","Metal screw (1 1/2"")",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9545,"Metal screw (1"")","Metal screw (1"")",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9546,"Metal screw (1/2"")","Metal screw (1/2"")",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9547,"Metal screw (1/2"") 7 No","Metal screw (1/2"") 7 No",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9548,"Metal screw (1/2"") 8 No","Metal screw (1/2"") 8 No",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9549,"Metal screw (13 x10 H) 1/2""","Metal screw (13 x10 H) 1/2""",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9550,"Metal screw (2 1/2"")","Metal screw (2 1/2"")",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9551,"Metal screw (2"")","Metal screw (2"")",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9552,"Metal screw (3"")","Metal screw (3"")",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9553,"Metal screw (3/4"" H) 19x19","Metal screw (3/4"" H) 19x19",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9554,"Metal screw (3/4"")","Metal screw (3/4"")",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9555,Motor Starter,Motor Starter,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9556,Multi Cable Shielded (6 Core),Multi Cable Shielded (6 Core),69,,I,,,prem,,,,1,5,NULL,,1484,0
+9557,"Nail (2 1/2"")","Nail (2 1/2"")",69,,I,,,prem,,,,1,5,NULL,,1489,0
+9558,"Nail (2"" )","Nail (2"" )",69,,I,,,prem,,,,1,5,NULL,,1489|1483,0
+9559,North West A/c Top  (25A),North West A/c Top  (25A),69,,I,,,prem,,,,1,5,NULL,1060,1483,0
+9560,North West Plate ( 2 module),North West Plate ( 2 module),69,,I,,,prem,,,,1,5,NULL,1060,1483,0
+9561,North West Plate A/C Socket,North West Plate A/C Socket,69,,I,,,prem,,,,1,5,NULL,1060,1483,0
+9562,North West Plate A/C Socket and Top (25A) (3 module),North West Plate A/C Socket and Top (25A) (3 module),69,,I,,,prem,,,,1,5,NULL,1060,1483|1493,0
+9563,North West Plate A/C Socket and Top (25A) (3 module)(without plug),North West Plate A/C Socket and Top (25A) (3 module)(without plug),69,,I,,,prem,,,,1,5,NULL,1060,1483,0
+9564,North West Plate A/C Top,North West Plate A/C Top,69,,I,,,prem,,,,1,5,NULL,1060,1483,0
+9565,North West Socket (25A),North West Socket (25A),69,,I,,,prem,,,,1,5,NULL,1060,1483,0
+9566,Nuterlink 200A,Nuterlink 200A,69,,I,,,prem,,,,1,5,NULL,1061,1483,0
+9567,Nuterlink 32A,Nuterlink 32A,69,,I,,,prem,,,,1,5,NULL,1061,1483,0
+9568,Nuterlink 63A,Nuterlink 63A,69,,I,,,prem,,,,1,5,NULL,1061,1483,0
+9569,Panel Board Box,Panel Board Box,69,,I,,,prem,,,,1,5,NULL,,1483|1493,0
+9570,Patti (45 x 45 ),Patti (45 x 45 ),69,,I,,,prem,,,,1,5,NULL,1062,1494,0
+9571,Patti (65 x 65),Patti (65 x 65),69,,I,,,prem,,,,1,5,NULL,1062,1494,0
+9572,Patti (75 x 75),Patti (75 x 75),69,,I,,,prem,,,,1,5,NULL,1062,1494,0
+9573,Phase Selector Switch box [1 Phase],Phase Selector Switch box [1 Phase],69,,I,,,prem,,,,1,5,NULL,,1483,0
+9574,Pin Top (3 pins) (25 Ams),Pin Top (3 pins) (25 Ams),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9575,Pin Top (3 pins) (Multi),Pin Top (3 pins) (Multi),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9576,Pin Type Clip (10 Sqmm),Pin Type Clip (10 Sqmm),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9577,Pin Type Clip (16 Sqmm),Pin Type Clip (16 Sqmm),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9578,PinTop(3 pins) (5 Ams),PinTop(3 pins) (5 Ams),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9579,Pintype Legs (6 sqmm),Pintype Legs (6 sqmm),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9580,"Pipe [1""]","Pipe [1""]",69,,I,,,prem,,,,1,5,NULL,1052,1491,0
+9581,"Pipe [3/4""]","Pipe [3/4""]",69,,I,,,prem,,,,1,5,NULL,1052,1495|1483,0
+9582,"Pipe [1 1/2 ""] (Light)","Pipe [1 1/2 ""] (Light)",69,,I,,,prem,,,,1,5,NULL,1052,1483,0
+9583,"Pipe  [1""] (Heavy)","Pipe  [1""] (Heavy)",69,,I,,,prem,,,,1,5,NULL,1052,1483|1495,0
+9584,"Pipe [1""] (Light)","Pipe [1""] (Light)",69,,I,,,prem,,,,1,5,NULL,1052,1483,0
+9585,"Pipe [3/4""] (Light)","Pipe [3/4""] (Light)",69,,I,,,prem,,,,1,5,NULL,1052,1495|1483,0
+9586,"Pipe [1 1/4""]","Pipe [1 1/4""]",69,,I,,,prem,,,,1,5,NULL,1052,1483,0
+9587,"Pipe [1 1/4""] Light","Pipe [1 1/4""] Light",69,,I,,,prem,,,,1,5,NULL,1052,1483,0
+9588,Plain Sheet (10 X 4),Plain Sheet (10 X 4),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9589,Plain Sheet (10 X 6),Plain Sheet (10 X 6),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9590,Plain Sheet (12 X 4),Plain Sheet (12 X 4),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9591,Plain Sheet (12 X 6),Plain Sheet (12 X 6),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9592,Plain Sheet (12 X 8),Plain Sheet (12 X 8),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9593,Plain Sheet (15 X 6),Plain Sheet (15 X 6),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9594,Plain Sheet (15 X 8),Plain Sheet (15 X 8),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9595,Plain Sheet (6 X 4),Plain Sheet (6 X 4),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9596,Plain Sheet (8 X 12),Plain Sheet (8 X 12),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9597,Plain Sheet (8 X 4),Plain Sheet (8 X 4),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9598,Plain Sheet (8 X 6),Plain Sheet (8 X 6),69,,I,,,prem,,,,1,5,NULL,1063,1483,0
+9599,Plug ,Plug ,69,,I,,,prem,,,,1,5,NULL,1064,1486|1487,0
+9600,Plug Top (15 Ams),Plug Top (15 Ams),69,,I,,,prem,,,,1,5,NULL,1064,1483,0
+9601,Plug Top (25 Ams),Plug Top (25 Ams),69,,I,,,prem,,,,1,5,NULL,1064,1483,0
+9602,Plug Top (25 Ams) [Black],Plug Top (25 Ams) [Black],69,,I,,,prem,,,,1,5,NULL,1064,1483,0
+9603,Plug Top (5 Ams),Plug Top (5 Ams),69,,I,,,prem,,,,1,5,NULL,1064,1483,0
+9604,Plug wood,Plug wood,69,,I,,,prem,,,,1,5,NULL,1064,1496|1486|1483,0
+9605,Plug Wood (6mm) ,Plug Wood (6mm) ,69,,I,,,prem,,,,1,5,NULL,1064,1483|1486,0
+9606,Plug Wood (6mm) (Small),Plug Wood (6mm) (Small),69,,I,,,prem,,,,1,5,NULL,1064,1486,0
+9607,Projector Remote Service,Projector Remote Service,69,,I,,,prem,,,,1,5,NULL,,1492,0
+9608,Punal Pipe (5 feet),Punal Pipe (5 feet),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9609,Punal pipe (6 feet),Punal pipe (6 feet),69,,I,,,prem,,,,1,5,NULL,,1483|1495,0
+9610,PVC Box (2 module),PVC Box (2 module),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9611,PVC Box (6 module),PVC Box (6 module),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9612,PVC Box (8 module),PVC Box (8 module),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9613,PVC Box 4 module (Romo),PVC Box 4 module (Romo),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9614,"Ramo Screw [2 1/2 ""]","Ramo Screw [2 1/2 ""]",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9615,RCCB (2 pole) (40 ams),RCCB (2 pole) (40 ams),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9616,RCCB (4 pole) (40 ams),RCCB (4 pole) (40 ams),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9617,RCCB (4 pole) (63 ams),RCCB (4 pole) (63 ams),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9618,Rotatar Switch 40 A,Rotatar Switch 40 A,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9619,Rotatar Switch 63 A,Rotatar Switch 63 A,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9620,Rotater (Changer) 40A 3 phase,Rotater (Changer) 40A 3 phase,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9621,Rotator Switch Box 1 way (Double Door),Rotator Switch Box 1 way (Double Door),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9622,Round Sheet ,Round Sheet ,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9623,Round sheet dummy,Round sheet dummy,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9624,Round sheet Heavy,Round sheet Heavy,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9625,S.S. Commender,S.S. Commender,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9626,S.S. Commender and Gang box,S.S. Commender and Gang box,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9627,S.S. Commender and Gang box ,S.S. Commender and Gang box ,69,,I,391,,prem,,,,1,5,NULL,,1483,0
+9628,"Screw (1 1/2"")","Screw (1 1/2"")",69,,I,,,prem,,,,1,5,NULL,,1487|1483,0
+9629,"Screw (2 1/2"")","Screw (2 1/2"")",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9630,Shealing Fan,Shealing Fan,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9631,Shealing Fan ,Shealing Fan ,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9632,Single stand 1 sqmm,Single stand 1 sqmm,69,,I,,,prem,,,,1,5,NULL,,1485|1484,0
+9633,Single stand wire 1/18,Single stand wire 1/18,69,,I,,,prem,,,,1,5,NULL,,1485|1484,0
+9634,Sink cock (Aligners),Sink cock (Aligners),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9635,Socket (15A) ,Socket (15A) ,69,,I,374,,prem,,,,1,5,NULL,1065,1483,0
+9636,Socket (25 A),Socket (25 A),69,,I,392,,prem,,,,1,5,NULL,1065,1483,0
+9637,Socket (25 A) ,Socket (25 A) ,69,,I,389,,prem,,,,1,5,NULL,1065,1483,0
+9638,Socket (25 A) [Black],Socket (25 A) [Black],69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9639,Socket (6A) ,Socket (6A) ,69,,I,374,,prem,,,,1,5,NULL,1065,1483,0
+9640,Socket (AC Board),Socket (AC Board),69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9641,Socket 15 A,Socket 15 A,69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9642,Socket 15 A ,Socket 15 A ,69,,I,388,,prem,,,,1,5,NULL,1065,1483,0
+9643,Socket 16 A,Socket 16 A,69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9644,Socket 16 A ,Socket 16 A ,69,,I,387,,prem,,,,1,5,NULL,1065,1483,0
+9645,Socket 16 A [Black],Socket 16 A [Black],69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9646,Socket 20A [2 Module],Socket 20A [2 Module],69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9647,Socket 20A 1 way,Socket 20A 1 way,69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9648,Socket 5A,Socket 5A,69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9649,Socket 5A ,Socket 5A ,69,,I,374,,prem,,,,1,5,NULL,1065,1483|1486,0
+9650,Socket 6A,Socket 6A,69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9651,Socket 6A ,Socket 6A ,69,,I,387,,prem,,,,1,5,NULL,1065,1483,0
+9652,Socket 6A [Black],Socket 6A [Black],69,,I,,,prem,,,,1,5,NULL,1065,1483,0
+9653,Solution ,Solution ,69,,I,,,prem,,,,1,5,NULL,,1497|1483,0
+9654,Solution (100 ml ),Solution (100 ml ),69,,I,,,prem,,,,1,5,NULL,1066,1483,0
+9655,Solution (250 ml ),Solution (250 ml ),69,,I,,,prem,,,,1,5,NULL,1066,1483,0
+9656,Spark Light 3W LED,Spark Light 3W LED,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9657,Spasher 4MM,Spasher 4MM,69,,I,,,prem,,,,1,5,NULL,,1483|1486,0
+9658,Speaker Wire,Speaker Wire,69,,I,,,prem,,,,1,5,NULL,,1485|1484,0
+9659,Speaker Wire (90 meter),Speaker Wire (90 meter),69,,I,,,prem,,,,1,5,NULL,,1485,0
+9660,Speaker Wire ,Speaker Wire ,69,,I,376,,prem,,,,1,5,NULL,,1485,0
+9661,spring,spring,69,,I,,,prem,,,,1,5,NULL,,1487,0
+9662,Stabilizer V Guard  V W R 400 use,Stabilizer V Guard  V W R 400 use,69,,I,,,prem,,,,1,5,NULL,,1483|1484|1489|1495,0
+9663,"Star Screw ( 2 1/2"" ) [Black]","Star Screw ( 2 1/2"" ) [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9664,"Star Screw ( 2"" ) [Black]","Star Screw ( 2"" ) [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9665,"Star Screw ( 3"" ) [Black]","Star Screw ( 3"" ) [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9666,"Star Screw ( 3/4"" ) [Black]","Star Screw ( 3/4"" ) [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9667,"Star Screw (1 1/2"" ) [Black]","Star Screw (1 1/2"" ) [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9668,"Star Screw (1 1/4"") [Black]","Star Screw (1 1/4"") [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9669,"Star Screw (1 1/4"") [White]","Star Screw (1 1/4"") [White]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9670,"Star Screw (1"") [Black]","Star Screw (1"") [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9671,"Star Screw (1"") [White]","Star Screw (1"") [White]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9672,"Star Screw (1/2"") [Black]","Star Screw (1/2"") [Black]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9673,"Star Screw (3/4"") [White]","Star Screw (3/4"") [White]",69,,I,,,prem,,,,1,5,NULL,1042,1483|1487,0
+9674,"Star ScrewPta 1 1/2""X4","Star ScrewPta 1 1/2""X4",69,,I,,,prem,,,,1,5,NULL,1042,1483,0
+9675,Stay wire,Stay wire,69,,I,,,prem,,,,1,5,NULL,,1484|1489,0
+9676,Step Regulator,Step Regulator,69,,I,387,,prem,,,,1,5,NULL,,1483,0
+9677,Street Angle Clamp,Street Angle Clamp,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9678,Street Light Fittings,Street Light Fittings,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9679,Street Light Pipe,Street Light Pipe,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9680,Street Light Pipe (4 feet),Street Light Pipe (4 feet),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9681,Street Light Pipe (5 feet) with Fittings,Street Light Pipe (5 feet) with Fittings,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9682,Switch (15A) ,Switch (15A) ,69,,I,374,,prem,,,,1,5,NULL,1035,1483,0
+9683,Switch (15A) with indicator,Switch (15A) with indicator,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9684,Switch (6A) ,Switch (6A) ,69,,I,374,,prem,,,,1,5,NULL,1035,1483,0
+9685,Switch (DB) 32A,Switch (DB) 32A,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9686,Switch (DB) 32A [Black],Switch (DB) 32A [Black],69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9687,Switch [Phase Selector] (63 A),Switch [Phase Selector] (63 A),69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9688,Switch 1 way 10A ,Switch 1 way 10A ,69,,I,374,,prem,,,,1,5,NULL,1035,1483,0
+9689,Switch 15A,Switch 15A,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9690,Switch 15A ,Switch 15A ,69,,I,388,,prem,,,,1,5,NULL,1035,1483,0
+9691,Switch 15A 2 way,Switch 15A 2 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9692,Switch 16A ,Switch 16A ,69,,I,388,,prem,,,,1,5,NULL,1035,1483,0
+9693,Switch 16A 1 way,Switch 16A 1 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9694,Switch 16ams 2 way,Switch 16ams 2 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9695,Switch 2 way 10A ,Switch 2 way 10A ,69,,I,374,,prem,,,,1,5,NULL,1035,1483,0
+9696,Switch 20A 1 way,Switch 20A 1 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9697,Switch 5A,Switch 5A,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9698,Switch 5A ,Switch 5A ,69,,I,388,,prem,,,,1,5,NULL,1035,1483,0
+9699,Switch 5A 2 way,Switch 5A 2 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9700,Switch 5A 2 way ,Switch 5A 2 way ,69,,I,374,,prem,,,,1,5,NULL,1035,1483,0
+9701,Switch 6A,Switch 6A,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9702,Switch 6A ,Switch 6A ,69,,I,389,,prem,,,,1,5,NULL,1035,1483,0
+9703,Switch 6A 1 way,Switch 6A 1 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9704,Switch 6A 1 way [Black],Switch 6A 1 way [Black],69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9705,Switch 6A 2 way,Switch 6A 2 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9706,Switch 6A 2 way ,Switch 6A 2 way ,69,,I,389,,prem,,,,1,5,NULL,1035,1483,0
+9707,Switch 6A 2 way [Black],Switch 6A 2 way [Black],69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9708,Switch A/C (2 pole) (32 Ams),Switch A/C (2 pole) (32 Ams),69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9709,Switch Dummy 8M (Tresa Glossy Plate White) ,Switch Dummy 8M (Tresa Glossy Plate White) ,69,,I,374,,prem,,,,1,5,NULL,1035,1483,0
+9710,Switch dummy plate,Switch dummy plate,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9711,Switch dummy plate ,Switch dummy plate ,69,,I,387,,prem,,,,1,5,NULL,1035,1483,0
+9712,Switch dummy plate [Black],Switch dummy plate [Black],69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9713,Switch with Gang Box(15 A),Switch with Gang Box(15 A),69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9714,Switch with indicator 15A,Switch with indicator 15A,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9715,Switch with indicator 16A [Black],Switch with indicator 16A [Black],69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9716,Switch with indicator 16A ,Switch with indicator 16A ,69,,I,393,,prem,,,,1,5,NULL,1035,1483,0
+9717,Switch with indicator 16A 1 way,Switch with indicator 16A 1 way,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9718,Switch with indicator 20A 2ways,Switch with indicator 20A 2ways,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9719,Switch with indicator 32A,Switch with indicator 32A,69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9720,Switch with Key Ring Tag (R 32A D.P),Switch with Key Ring Tag (R 32A D.P),69,,I,,,prem,,,,1,5,NULL,1035,1483,0
+9721,System Power Supply (12 volts 1 Amp for CCTV),System Power Supply (12 volts 1 Amp for CCTV),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9722,Tap roll,Tap roll,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9723,Tea expenses,Tea expenses,69,,I,,,prem,,,,1,5,NULL,,1492,0
+9724,Telephone Jack (Rj 11),Telephone Jack (Rj 11),69,,I,,,prem,,,,1,5,NULL,1067,1483,0
+9725,Telephone Jack (Rj 11) [Black],Telephone Jack (Rj 11) [Black],69,,I,,,prem,,,,1,5,NULL,1067,1483,0
+9726,Telephone socket,Telephone socket,69,,I,,,prem,,,,1,5,NULL,1067,1483,0
+9727,Telephone wire,Telephone wire,69,,I,,,prem,,,,1,5,NULL,1067,1485|1484,0
+9728,Telephone wire (2 pin),Telephone wire (2 pin),69,,I,,,prem,,,,1,5,NULL,1067,1485|1484,0
+9729,Telephone wire (90 Meter),Telephone wire (90 Meter),69,,I,,,prem,,,,1,5,NULL,1067,1485,0
+9730,Television socket,Television socket,69,,I,,,prem,,,,1,5,NULL,1068,1483,0
+9731,Television wire,Television wire,69,,I,,,prem,,,,1,5,NULL,1068,1485|1484,0
+9732,Television wire (Polycab),Television wire (Polycab),69,,I,,,prem,,,,1,5,NULL,1068,1485,0
+9733,TEST ITEM,TEST ITEM,69,,I,,,prem,,,,1,5,NULL,,1489|1487|1494,0
+9734,Top 3 pin (15 A),Top 3 pin (15 A),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9735,Top 3 pin (5 A),Top 3 pin (5 A),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9736,Tresa Glossy Plate White R 2M,Tresa Glossy Plate White R 2M,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9737,Trunk (45 X 25),Trunk (45 X 25),69,,I,,,prem,,,,1,5,NULL,1069,1495,0
+9738,Trunk (45 X 45),Trunk (45 X 45),69,,I,,,prem,,,,1,5,NULL,1069,1483|1484,0
+9739,Trunk (75 X 75),Trunk (75 X 75),69,,I,,,prem,,,,1,5,NULL,1069,1484|1495,0
+9740,Trunk  [100 X 50],Trunk  [100 X 50],69,,I,,,prem,,,,1,5,NULL,1069,1484,0
+9741,Trunk  [65 X 65],Trunk  [65 X 65],69,,I,,,prem,,,,1,5,NULL,1069,1483,0
+9742,Trunk  [75 X 75],Trunk  [75 X 75],69,,I,,,prem,,,,1,5,NULL,1069,1483,0
+9743,Tube light,Tube light,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9744,Tube Light (LED Unbreakable),Tube Light (LED Unbreakable),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9745,Tube Light (LED Unbreakable) [Warm White],Tube Light (LED Unbreakable) [Warm White],69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9746,Tube Light 36W,Tube Light 36W,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9747,Tube light bulb,Tube light bulb,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9748,Tube Light Patty,Tube Light Patty,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9749,Tube light set,Tube light set,69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9750,Tube Light Side Holder (Old Type),Tube Light Side Holder (Old Type),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9751,Tubelight  led fitting (2feet),Tubelight  led fitting (2feet),69,,I,394,,prem,,,,1,5,NULL,1038,1483,0
+9752,Tubelight  led fitting (4feet) (Bright),Tubelight  led fitting (4feet) (Bright),69,,I,,,prem,,,,1,5,NULL,1038,1483,0
+9753,Tubelight  led fitting (4feet),Tubelight  led fitting (4feet),69,,I,394,,prem,,,,1,5,NULL,1038,1483,0
+9754,"U clamp 1 1/4""","U clamp 1 1/4""",69,,I,,,prem,,,,1,5,NULL,,1483|1493,0
+9755,"U clamp 2 1/2""","U clamp 2 1/2""",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9756,"U clamp 3/4"" ","U clamp 3/4"" ",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9757,"U clamp set 1 1/2""","U clamp set 1 1/2""",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9758,"U clamp set 1""","U clamp set 1""",69,,I,,,prem,,,,1,5,NULL,,1483,0
+9759,UPS,UPS,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9760,Vibrator (2 Meter),Vibrator (2 Meter),69,,I,,,prem,,,,1,5,NULL,,1483,0
+9761,Wall cutter blade,Wall cutter blade,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9762,Washer,Washer,69,,I,,,prem,,,,1,5,NULL,,1483|1489|1490,0
+9763,Washer 6 mm,Washer 6 mm,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9764,washer,washer,69,,I,,,prem,,,,1,5,NULL,,1489|1483|1490,0
+9765,washer(plain),washer(plain),69,,I,,,prem,,,,1,5,NULL,,1483|1498,0
+9766,Water Heater (10 L) ,Water Heater (10 L) ,69,,I,395,,prem,,,,1,5,NULL,,1483,0
+9767,Water Heater ,Water Heater ,69,,I,396,,prem,,,,1,5,NULL,,1483,0
+9768,Water Proof Tap roll ,Water Proof Tap roll ,69,,I,,,prem,,,,1,5,NULL,,1483,0
+9769,Wire (1.5 sq. mm) (2Core),Wire (1.5 sq. mm) (2Core),69,,I,,,prem,,,,1,5,NULL,1034,1485,0
+9770,Wire 1 sqmm,Wire 1 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1485,0
+9771,Wire 1 sqmm (90 mtr),Wire 1 sqmm (90 mtr),69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9772,Wire 1 sqmm ,Wire 1 sqmm ,69,,I,397,,prem,,,,1,5,NULL,1034,1485,0
+9773,Wire 1.5 sqmm,Wire 1.5 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1485,0
+9774,Wire 1.5 sqmm (90 mtr),Wire 1.5 sqmm (90 mtr),69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9775,Wire 1.5 sqmm ,Wire 1.5 sqmm ,69,,I,397,,prem,,,,1,5,NULL,1034,1485,0
+9776,Wire 10 sqmm,Wire 10 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1484|1485,0
+9777,Wire 16 sqmm,Wire 16 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1484|1485,0
+9778,Wire 2.5 sqmm,Wire 2.5 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1485,0
+9779,Wire 2.5 sqmm (4 Core),Wire 2.5 sqmm (4 Core),69,,I,,,prem,,,,1,5,NULL,1034,1484,0
+9780,Wire 2.5 sqmm ,Wire 2.5 sqmm ,69,,I,397,,prem,,,,1,5,NULL,1034,1485,0
+9781,Wire 2.5 sqmm [90 mtr],Wire 2.5 sqmm [90 mtr],69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9782,Wire 4 sqmm,Wire 4 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1485,0
+9783,Wire 4 sqmm (2 core),Wire 4 sqmm (2 core),69,,I,,,prem,,,,1,5,NULL,1034,1484,0
+9784,Wire 4 sqmm ,Wire 4 sqmm ,69,,I,397,,prem,,,,1,5,NULL,1034,1485,0
+9785,Wire 4 sqmm [90 mtr],Wire 4 sqmm [90 mtr],69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9786,Wire 6 sqmm,Wire 6 sqmm,69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9787,Wire 6 sqmm (2 core),Wire 6 sqmm (2 core),69,,I,,,prem,,,,1,5,NULL,1034,1484,0
+9788,Wire 6 sqmm ,Wire 6 sqmm ,69,,I,397,,prem,,,,1,5,NULL,1034,1485,0
+9789,Wire 6 sqmm [90 mtr],Wire 6 sqmm [90 mtr],69,,I,,,prem,,,,1,5,NULL,1034,1485|1484,0
+9790,wood box  15 x 6,wood box  15 x 6,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9791,Wood box 10 x 4,Wood box 10 x 4,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9792,Wood box 10 x 6,Wood box 10 x 6,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9793,Wood Box 10 x 8,Wood Box 10 x 8,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9794,Wood box 12 x 4,Wood box 12 x 4,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9795,Wood box 12 x 6,Wood box 12 x 6,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9796,Wood box 12 x 8,Wood box 12 x 8,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9797,Wood box 15 X 8,Wood box 15 X 8,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9798,Wood box 16 x 6,Wood box 16 x 6,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9799,Wood box 24 x 6,Wood box 24 x 6,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9800,Wood box 4 x 4,Wood box 4 x 4,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9801,Wood box 6 x 4,Wood box 6 x 4,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9802,Wood box 8 x 4,Wood box 8 x 4,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9803,Wood box 8 x 6,Wood box 8 x 6,69,,I,,,prem,,,,1,5,NULL,1070,1483,0
+9804,"Wooden  screw (1 1/2"")","Wooden  screw (1 1/2"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9805,"Wooden  screw (1 1/4"")","Wooden  screw (1 1/4"")",69,,I,,,prem,,,,1,5,NULL,1071,1483|1489,0
+9806,"Wooden  screw (1 3/4"")","Wooden  screw (1 3/4"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9807,"Wooden  screw (1"")","Wooden  screw (1"")",69,,I,,,prem,,,,1,5,NULL,1071,1483|1487,0
+9808,"Wooden  screw (2 1/2"")","Wooden  screw (2 1/2"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9809,"Wooden  screw (2"")","Wooden  screw (2"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9810,"Wooden  screw (3"")","Wooden  screw (3"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9811,"Wooden  screw (3/4"")","Wooden  screw (3/4"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9812,Wooden Board 1 1/2 x 2,Wooden Board 1 1/2 x 2,69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9813,Wooden Board 2 X 1 1/2,Wooden Board 2 X 1 1/2,69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9814,Wooden Board 2 x 2,Wooden Board 2 x 2,69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9815,"Wooden screw (3"")","Wooden screw (3"")",69,,I,,,prem,,,,1,5,NULL,1071,1483,0
+9816,Capacitor 75 MFD,Capacitor 75 MFD,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9817,"Air Cowl [SWR] (1 1/2"") || (50 mm)","Air Cowl [SWR] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1072,1499,0
+9818,"Air Cowl [SWR] (110 mm) || (4"")","Air Cowl [SWR] (110 mm) || (4"")",70,,I,,,prem,,,,1,5,NULL,1072,1499,0
+9819,"Air Cowl [SWR] (2 1/2"") || (75 mm)","Air Cowl [SWR] (2 1/2"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1072,1499,0
+9820,"Air Cowl [SWR] (2"") [63mm]","Air Cowl [SWR] (2"") [63mm]",70,,I,,,prem,,,,1,5,NULL,1072,1499,0
+9821,Air Filter,Air Filter,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9822,Air Filter [Jet Compressor],Air Filter [Jet Compressor],70,,I,,,prem,,,,1,5,NULL,,1499,0
+9823,"Anchor Fastner Boltnut (10mmX2 1/2"")","Anchor Fastner Boltnut (10mmX2 1/2"")",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9824,"Anchor Fastner Boltnut (3/8 X 3"")","Anchor Fastner Boltnut (3/8 X 3"")",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9825,Anchor Fastner Boltnut (8mm),Anchor Fastner Boltnut (8mm),70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9826,"Anchor Fastner Boltnut [10mm x 2""]","Anchor Fastner Boltnut [10mm x 2""]",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9827,Angle Valve  Euclid (G2307A1),Angle Valve  Euclid (G2307A1),70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9828,Angle Valve (Crust) (G3153A1),Angle Valve (Crust) (G3153A1),70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9829,Angle Valve (Edge) (G4807A1),Angle Valve (Edge) (G4807A1),70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9830,Angle Valve (Jade) (G0253A1),Angle Valve (Jade) (G0253A1),70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9831,Angle Valve 80158 (Kohler),Angle Valve 80158 (Kohler),70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9832,Angle Valve 90 x1/2 mm Roca,Angle Valve 90 x1/2 mm Roca,70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9833,Angle Valve Agate(G0607A1),Angle Valve Agate(G0607A1),70,,I,,,prem,,,,1,5,NULL,1074,1499,0
+9834,Automatic Motor System Fixing,Automatic Motor System Fixing,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9835,Axe Saw Blade,Axe Saw Blade,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9836,"Ball Valve (1 1/2"") [ UPVC]","Ball Valve (1 1/2"") [ UPVC]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9837,"Ball Valve (1 1/2"") [CPVC]","Ball Valve (1 1/2"") [CPVC]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9838,"Ball Valve (1 1/2"") || (50 mm) (PVC)","Ball Valve (1 1/2"") || (50 mm) (PVC)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9839,"Ball Valve (1 1/2"") || (50 mm) [Plain] (Prince)","Ball Valve (1 1/2"") || (50 mm) [Plain] (Prince)",70,,I,398,,prem,,,,1,5,NULL,1075,1499,0
+9840,"Ball Valve (1 1/2"") || (50plummm) (PVC)","Ball Valve (1 1/2"") || (50plummm) (PVC)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9841,"Ball Valve (1 1/2"") || (63mm) (PVC)","Ball Valve (1 1/2"") || (63mm) (PVC)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9842,"Ball Valve (1 1/4"" ) (Brass)","Ball Valve (1 1/4"" ) (Brass)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9843,"Ball Valve (1 1/4"" ) (Prince)","Ball Valve (1 1/4"" ) (Prince)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9844,"Ball Valve (1 1/4"" ) PVC Plain [40mm Krishika]","Ball Valve (1 1/4"" ) PVC Plain [40mm Krishika]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9845,"Ball Valve (1 1/4"") [ UPVC]","Ball Valve (1 1/4"") [ UPVC]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9846,"Ball Valve (1"" ) PVC [32mm Prince]","Ball Valve (1"" ) PVC [32mm Prince]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9847,"Ball Valve (1"" ) PVC Plain [32mm Krishika]","Ball Valve (1"" ) PVC Plain [32mm Krishika]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9848,"Ball Valve (2"" ) [Prince]","Ball Valve (2"" ) [Prince]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9849,"Ball Valve (2"" ) || (63 mm)","Ball Valve (2"" ) || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9850,"Ball Valve (2"" ) || (63 mm) [Plain]","Ball Valve (2"" ) || (63 mm) [Plain]",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9851,"Ball Valve (2"") [63mm] (Prince)","Ball Valve (2"") [63mm] (Prince)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9852,"Ball Valve (2"")(UPVC) [63mm] (Aqualife)","Ball Valve (2"")(UPVC) [63mm] (Aqualife)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9853,"Ball Valve [ UPVC] (Ordinary) (1"")","Ball Valve [ UPVC] (Ordinary) (1"")",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9854,"Ball Valve [Brass] ( 1/2"" )","Ball Valve [Brass] ( 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9855,"Ball Valve [Brass] (1"" )","Ball Valve [Brass] (1"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9856,"Ball Valve [CPVC] (1 1/4"" )","Ball Valve [CPVC] (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9857,"Ball Valve [CPVC] (1"" )","Ball Valve [CPVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9858,"Ball Valve [CPVC] (3/4"" ) (ASH)","Ball Valve [CPVC] (3/4"" ) (ASH)",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9859,"Ball Valve [PVC] (1"" )","Ball Valve [PVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9860,"Ball Valve [PVC] (1/2"" )","Ball Valve [PVC] (1/2"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9861,"Ball Valve [PVC] (3/4"" )","Ball Valve [PVC] (3/4"" )",70,,I,,,prem,,,,1,5,NULL,1075,1499,0
+9862,"Bar Angle 1""","Bar Angle 1""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9863,"Bar Angle 12""","Bar Angle 12""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9864,"Bar Angle 15""","Bar Angle 15""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9865,"Bar Angle 18""","Bar Angle 18""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9866,"Bar Angle 24""","Bar Angle 24""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9867,"Bar Angle 30""","Bar Angle 30""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9868,"Bar Angle 4""","Bar Angle 4""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9869,"Bar Angle 6""","Bar Angle 6""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9870,"Bar Angle 9""","Bar Angle 9""",70,,I,,,prem,,,,1,5,NULL,1076,1499,0
+9871,Bar Clamp,Bar Clamp,70,,I,,,prem,,,,1,5,NULL,1041,1500|1499,0
+9872,Bar Clamp (1 x 1 1/4),Bar Clamp (1 x 1 1/4),70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+9873,"Bar Nipple  ss (1/2"")","Bar Nipple  ss (1/2"")",70,,I,,,prem,,,,1,5,NULL,1077,1499,0
+9874,"Bar Nipple (1 1/4"")","Bar Nipple (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1077,1499,0
+9875,"Bar Nipple (1"" )","Bar Nipple (1"" )",70,,I,,,prem,,,,1,5,NULL,1077,1499,0
+9876,"Bar Nipple [GI] (1"")","Bar Nipple [GI] (1"")",70,,I,,,prem,,,,1,5,NULL,1077,1499,0
+9877,"Bar Nipple [GI] (1/2"")","Bar Nipple [GI] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1077,1499,0
+9878,Bath Spout with Divertor (G2328A1)  Euclid,Bath Spout with Divertor (G2328A1)  Euclid,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9879,Bearing,Bearing,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9880,Belt [B40],Belt [B40],70,,I,,,prem,,,,1,5,NULL,,1499,0
+9881,Belt [B49],Belt [B49],70,,I,,,prem,,,,1,5,NULL,,1499,0
+9882,Bend (1 1/2),Bend (1 1/2),70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9883,"Bend (1"")","Bend (1"")",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9884,"Bend (2 1/2"")","Bend (2 1/2"")",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9885,"Bend (2 1/2"") [SWR] (75 mm) [Door]","Bend (2 1/2"") [SWR] (75 mm) [Door]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9886,"Bend (2"")","Bend (2"")",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9887,"Bend (3/4"")","Bend (3/4"")",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9888,"Bend [CPVC] (3/4"")","Bend [CPVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9889,"Bend [PVC] (1 1/2"") || (50 mm) (15 kg)","Bend [PVC] (1 1/2"") || (50 mm) (15 kg)",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9890,"Bend [PVC] (1 1/4"") || (40 mm)","Bend [PVC] (1 1/4"") || (40 mm)",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9891,"Bend [PVC] (1 1/4"") || (40 mm) [15 kg]","Bend [PVC] (1 1/4"") || (40 mm) [15 kg]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9892,"Bend [PVC] (1"") || (32 mm) (15 kg)","Bend [PVC] (1"") || (32 mm) (15 kg)",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9893,Bend [PVC] (19mm),Bend [PVC] (19mm),70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9894,"Bend [PVC] (2 1/2"") [6 kg]","Bend [PVC] (2 1/2"") [6 kg]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9895,Bend [PVC] (25mm),Bend [PVC] (25mm),70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9896,"Bend [PVC] (3/4"")","Bend [PVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9897,"Bend [PVC] (4"") [6 kg Heavy]","Bend [PVC] (4"") [6 kg Heavy]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9898,Bend [PVC] || (32 mm) (15 kg),Bend [PVC] || (32 mm) (15 kg),70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9899,"Bend [SWR] (2 1/2"") [75mm Plain]","Bend [SWR] (2 1/2"") [75mm Plain]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9900,"Bend [SWR] (2 1/2"") [75mm Shoe]","Bend [SWR] (2 1/2"") [75mm Shoe]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9901,"Bend [SWR] (4"") [110mm Door]","Bend [SWR] (4"") [110mm Door]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9902,"Bend [SWR] (4"") [110mm Plain]","Bend [SWR] (4"") [110mm Plain]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9903,"Bend [SWR] (4"") [110mm Shoe]","Bend [SWR] (4"") [110mm Shoe]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9904,"Bend [SWR] (4"") [75mm Door}","Bend [SWR] (4"") [75mm Door}",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9905,"Bend [SWR] (4"") [75mm Plain]","Bend [SWR] (4"") [75mm Plain]",70,,I,,,prem,,,,1,5,NULL,1078,1499,0
+9906,Bib Cock (CP Nozzle) (10730),Bib Cock (CP Nozzle) (10730),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9907,Bib Cock (Crust) [G3104A1],Bib Cock (Crust) [G3104A1],70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9908,Bib Cock (JD) [G0204A1],Bib Cock (JD) [G0204A1],70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9909,Bib Cock Jade,Bib Cock Jade,70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9910,Bib Cock Jade Long Body (G0206A1),Bib Cock Jade Long Body (G0206A1),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9911,Bib Cock Jade Two  Way (G0234A1),Bib Cock Jade Two  Way (G0234A1),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9912,Bib Cock Tap,Bib Cock Tap,70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9913,Bib Cock Two Way Agate(G0634A1),Bib Cock Two Way Agate(G0634A1),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9914,Bib Cock Two Way Roca Escudra [RT5A9320CA1],Bib Cock Two Way Roca Escudra [RT5A9320CA1],70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9915,Bib Cock with Areator (Edge) [G4880A1],Bib Cock with Areator (Edge) [G4880A1],70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9916,Bib Cock with Hoe Connector [Aura]  (G1169A1),Bib Cock with Hoe Connector [Aura]  (G1169A1),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9917,Bib Cock with Hoe Connector Nova (G1669A),Bib Cock with Hoe Connector Nova (G1669A),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9918,Bib Cock with Nozzle (JD) [G0279A1] (Washingmachine),Bib Cock with Nozzle (JD) [G0279A1] (Washingmachine),70,,I,,,prem,,,,1,5,NULL,1079,1499,0
+9919,"Bire Nipple (3/4 "")","Bire Nipple (3/4 "")",70,,I,,,prem,,,,1,5,NULL,,1499,0
+9920,Bolt (Clamp),Bolt (Clamp),70,,I,,,prem,,,,1,5,NULL,1073,1501,0
+9921,"Bolt (Clamp) [U] (1"")","Bolt (Clamp) [U] (1"")",70,,I,,,prem,,,,1,5,NULL,1073,1500|1501,0
+9922,"Bolt (GI) 3/4"" (DB Screw)","Bolt (GI) 3/4"" (DB Screw)",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9923,Bolt Nut,Bolt Nut,70,,I,,,prem,,,,1,5,NULL,1073,1499|1503|1502,0
+9924,"Bolt Nut (1/4"" X 1"")","Bolt Nut (1/4"" X 1"")",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9925,Bolt Nut (3/8),Bolt Nut (3/8),70,,I,,,prem,,,,1,5,NULL,1073,1500|1499|1501|1502,0
+9926,"Bolt Nut (U) 2 1/2""","Bolt Nut (U) 2 1/2""",70,,I,,,prem,,,,1,5,NULL,1073,1500|1499,0
+9927,"Bolt Nut (U) 4""","Bolt Nut (U) 4""",70,,I,,,prem,,,,1,5,NULL,1073,1500,0
+9928,Bolt Nut 16MM,Bolt Nut 16MM,70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9929,"Bolt nut 4""  ""U""","Bolt nut 4""  ""U""",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9930,Bolt Nut 6MM,Bolt Nut 6MM,70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9931,"Bolt Nut 6mm x 4""","Bolt Nut 6mm x 4""",70,,I,,,prem,,,,1,5,NULL,1073,1499|1501,0
+9932,Bolt Nut 8MM,Bolt Nut 8MM,70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9933,Bolt Nut Washer,Bolt Nut Washer,70,,I,,,prem,,,,1,5,NULL,1073,1499|1500|1501,0
+9934,"Bolt Nut Washer (1"")","Bolt Nut Washer (1"")",70,,I,,,prem,,,,1,5,NULL,1073,1499|1500,0
+9935,"Bolt Nut Washer (1/4"" X 1"")","Bolt Nut Washer (1/4"" X 1"")",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9936,"Bolt Nut Washer (6MM) (3"")","Bolt Nut Washer (6MM) (3"")",70,,I,,,prem,,,,1,5,NULL,1073,1499|1501,0
+9937,"Bolt Nut Washer 6mm x 2 1/2""","Bolt Nut Washer 6mm x 2 1/2""",70,,I,,,prem,,,,1,5,NULL,1073,1499|1501,0
+9938,"Bolt Nut Washer 6mm x 4""","Bolt Nut Washer 6mm x 4""",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9939,"Bolt Nut Washer 6mm x 5""","Bolt Nut Washer 6mm x 5""",70,,I,,,prem,,,,1,5,NULL,1073,1499|1501,0
+9940,"Boltnut [Anchor] (12 mm X 6"")","Boltnut [Anchor] (12 mm X 6"")",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+9941,"Bore Clamp  (1 1/4 "" X 1"")","Bore Clamp  (1 1/4 "" X 1"")",70,,I,,,prem,,,,1,5,NULL,1041,1499|1502,0
+9942,Bore Clamp (1 x 1 1/4),Bore Clamp (1 x 1 1/4),70,,I,,,prem,,,,1,5,NULL,1041,1500|1499,0
+9943,Bore Clamp (1 x 1/2),Bore Clamp (1 x 1/2),70,,I,,,prem,,,,1,5,NULL,1041,1500|1499,0
+9944,Bore Clamp (3 phase),Bore Clamp (3 phase),70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+9945,"Bore Clamp Set with BoltNut (1"" X 1 1/4 "")","Bore Clamp Set with BoltNut (1"" X 1 1/4 "")",70,,I,,,prem,,,,1,5,NULL,1041,1502,0
+9946,"Bottle Trap Light 12"" Vertical pipe (T3203A1)","Bottle Trap Light 12"" Vertical pipe (T3203A1)",70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+9947,Bottle Trap Pile (1 feet),Bottle Trap Pile (1 feet),70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+9948,Box Spanner,Box Spanner,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9949,Box Spanner Rode,Box Spanner Rode,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9950,"Bracket Paa 6""","Bracket Paa 6""",70,,I,,,prem,,,,1,5,NULL,,1499,0
+9951,"Brass Screw with washer  21/2""","Brass Screw with washer  21/2""",70,,I,,,prem,,,,1,5,NULL,,1499,0
+9952,Broket (Corner Wash Basin),Broket (Corner Wash Basin),70,,I,,,prem,,,,1,5,NULL,,1502,0
+9953,Bush (1 1/2 x 1 1/4),Bush (1 1/2 x 1 1/4),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9954,Bush (1 1/2 x1),Bush (1 1/2 x1),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9955,Bush (1 1/4  X  3/4),Bush (1 1/4  X  3/4),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9956,Bush (1 X 3/4),Bush (1 X 3/4),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9957,"Bush [4""] Closet","Bush [4""] Closet",70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9958,Bush [CPVC] (1 1/2  X 1 1/4 ) || (50 X 40 mm),Bush [CPVC] (1 1/2  X 1 1/4 ) || (50 X 40 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9959,Bush [CPVC] (1 1/2  X 1) || (50 X 32 mm),Bush [CPVC] (1 1/2  X 1) || (50 X 32 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9960,Bush [CPVC] (2 X 1 1/2 ) || (63 X 50 mm),Bush [CPVC] (2 X 1 1/2 ) || (63 X 50 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9961,Bush [CPVC] (4 X 2) || (110 X 63 mm),Bush [CPVC] (4 X 2) || (110 X 63 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9962,Bush [PVC] (1 1/2  X 1 ) || (50 X 32 mm),Bush [PVC] (1 1/2  X 1 ) || (50 X 32 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9963,Bush [PVC] (1 1/4  X 1 1/2),Bush [PVC] (1 1/4  X 1 1/2),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9964,Bush [PVC] (1 1/4  X 1),Bush [PVC] (1 1/4  X 1),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9965,Bush [PVC] (2   X 1 ) || (63 X 32 mm),Bush [PVC] (2   X 1 ) || (63 X 32 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9966,Bush [PVC] (2 1/2  X 1 1/2) || (75 X 50 mm),Bush [PVC] (2 1/2  X 1 1/2) || (75 X 50 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9967,Bush [PVC] (2 1/2  X 2) || (75 X 63 mm),Bush [PVC] (2 1/2  X 2) || (75 X 63 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9968,Bush [PVC] (2 1/2) || (75 mm),Bush [PVC] (2 1/2) || (75 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9969,Bush [UPVC] (1 1/2  X 1 ) || (50 X 32 mm),Bush [UPVC] (1 1/2  X 1 ) || (50 X 32 mm),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9970,Bush [UPVC] (1 1/4  X 1),Bush [UPVC] (1 1/4  X 1),70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9971,"Bush [UPVC] (2""X 1 1/4"" )","Bush [UPVC] (2""X 1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9972,"Bush 1""","Bush 1""",70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+9973,"C.P. Waste Coupling (1 1/4 "")","C.P. Waste Coupling (1 1/4 "")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+9974,Cable (300 mm),Cable (300 mm),70,,I,,,prem,,,,1,5,NULL,1039,1499,0
+9975,Cable Tie [PVC],Cable Tie [PVC],70,,I,,,prem,,,,1,5,NULL,1039,1499|1504,0
+9976,Capacitor (100-120) MFD 75 uF,Capacitor (100-120) MFD 75 uF,70,,I,,,prem,,,,1,5,NULL,1082,1499,0
+9977,Capacitor (25 MFD),Capacitor (25 MFD),70,,I,,,prem,,,,1,5,NULL,1082,1499,0
+9978,Capacitor (30 MFD),Capacitor (30 MFD),70,,I,,,prem,,,,1,5,NULL,1082,1499,0
+9979,Capacitor (36 MFD),Capacitor (36 MFD),70,,I,,,prem,,,,1,5,NULL,1082,1499,0
+9980,Cardiff Hush Seat Cover White [E8112],Cardiff Hush Seat Cover White [E8112],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9981,Cardiff Wall Hung Cistern Lid Fitting Set white [C0770],Cardiff Wall Hung Cistern Lid Fitting Set white [C0770],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9982,Cardiff Wall Hung white [C0264),Cardiff Wall Hung white [C0264),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9983,Cardiff Wall Hung white [C0270],Cardiff Wall Hung white [C0270],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9984,Cark with Slot Wire Assemply,Cark with Slot Wire Assemply,70,,I,,,prem,,,,1,5,NULL,,1499,0
+9985,Cascade Coupled Closet (Floor mount) [C0232],Cascade Coupled Closet (Floor mount) [C0232],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+9986,Cascade Coupled Closet (Floor mount) [C0232] (Off-White),Cascade Coupled Closet (Floor mount) [C0232] (Off-White),70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+9987,Cascade Nxt / F/M  Seat Cover W [E8300],Cascade Nxt / F/M  Seat Cover W [E8300],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+9988,Cascade Nxt / F/M Cistern Lid Fittings W [C0765],Cascade Nxt / F/M Cistern Lid Fittings W [C0765],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+9989,Cascade Nxt Closet Outlet (Cyban set),Cascade Nxt Closet Outlet (Cyban set),70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+9990,Cascade Wall Hung  Cistern Lid Fittings W [C0771],Cascade Wall Hung  Cistern Lid Fittings W [C0771],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9991,Cascade Wall Hung [C0208],Cascade Wall Hung [C0208],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9992,"Check Valve (1"" )","Check Valve (1"" )",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+9993,Cistem Odeon Kohler(17663),Cistem Odeon Kohler(17663),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9994,Cistern Fitting Set White [Niagara] [C0767],Cistern Fitting Set White [Niagara] [C0767],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9995,Cistern Set Off-White (F/M) C0765,Cistern Set Off-White (F/M) C0765,70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9996,Cistern Set White (F/M) (EB12099),Cistern Set White (F/M) (EB12099),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9997,Cistern Set White (F/M) C0765,Cistern Set White (F/M) C0765,70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9998,Cistern Set White (W/H) C0771,Cistern Set White (W/H) C0771,70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+9999,"Clamp (Bore) (1  "" X 1/2 "")","Clamp (Bore) (1  "" X 1/2 "")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10000,"Clamp (Bore) (1 1/4 "" X 1 "")","Clamp (Bore) (1 1/4 "" X 1 "")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10001,"Clamp [GI] (2"")","Clamp [GI] (2"")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10002,"Clamp [S.S] (1 1/4 "")","Clamp [S.S] (1 1/4 "")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10003,"Clamp [S.S] (1"")","Clamp [S.S] (1"")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10004,"Clamp [S.S] (1/2 "")","Clamp [S.S] (1/2 "")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10005,"Clamp 6"" ""PA""","Clamp 6"" ""PA""",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10006,Clamp set (seat cover),Clamp set (seat cover),70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10007,Closet [Floor mount] (EWC white],Closet [Floor mount] (EWC white],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10008,Closet Pal Single Piece Suite (C844L),Closet Pal Single Piece Suite (C844L),70,,I,,,prem,,,,1,5,NULL,1084,1499|1504,0
+10009,Closet Sybon set (Slime line),Closet Sybon set (Slime line),70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10010,Closet White 110mm [Niagara] [C0262],Closet White 110mm [Niagara] [C0262],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10011,Compressor Air Distributor,Compressor Air Distributor,70,,I,,,prem,,,,1,5,NULL,1086,1499,0
+10012,Compressor Air Filter,Compressor Air Filter,70,,I,,,prem,,,,1,5,NULL,1086,1499,0
+10013,Compressor Assembly,Compressor Assembly,70,,I,,,prem,,,,1,5,NULL,1086,1499,0
+10014,Compressor Belt,Compressor Belt,70,,I,,,prem,,,,1,5,NULL,1086,1499,0
+10015,Compressor MotorBelt (36A),Compressor MotorBelt (36A),70,,I,,,prem,,,,1,5,NULL,1086,1499,0
+10016,Concealed Body 3/4 (G5053A1),Concealed Body 3/4 (G5053A1),70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10017,Concealed Dual Flush Valve 32mm[T3307A1],Concealed Dual Flush Valve 32mm[T3307A1],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10018,"Concealed Stop Cock  (1/2"" ) (Ashirvad)","Concealed Stop Cock  (1/2"" ) (Ashirvad)",70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10019,"Concealed Valve [CPVC] (3/4"")","Concealed Valve [CPVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10020,"Connection Hose (2 "")","Connection Hose (2 "")",70,,I,,,prem,,,,1,5,NULL,1087,1499|1502|1505,0
+10021,Connection Hose 1.5Ft[T9912],Connection Hose 1.5Ft[T9912],70,,I,,,prem,,,,1,5,NULL,1087,1499,0
+10022,Connection Hose 2 Ft [T991999],Connection Hose 2 Ft [T991999],70,,I,,,prem,,,,1,5,NULL,1087,1499|1502,0
+10023,"Connection Tube (1 1/2 "") (Hot Water)","Connection Tube (1 1/2 "") (Hot Water)",70,,I,,,prem,,,,1,5,NULL,1088,1499,0
+10024,"Connection Tube (1/2 "")","Connection Tube (1/2 "")",70,,I,,,prem,,,,1,5,NULL,1088,1499,0
+10025,"Connection Tube (2 "")","Connection Tube (2 "")",70,,I,,,prem,,,,1,5,NULL,1088,1499,0
+10026,"Connection Tube (3"")","Connection Tube (3"")",70,,I,,,prem,,,,1,5,NULL,1088,1499,0
+10027,Connection Tube Washer,Connection Tube Washer,70,,I,,,prem,,,,1,5,NULL,1088,1499,0
+10028,Corner Wash Basin broket,Corner Wash Basin broket,70,,I,,,prem,,,,1,5,NULL,1089,1499|1502,0
+10029,Corner Wash Basin White (400 X 400mm) (C0408),Corner Wash Basin White (400 X 400mm) (C0408),70,,I,,,prem,,,,1,5,NULL,1089,1499,0
+10030,Corner Wash Basin White (400X400mm),Corner Wash Basin White (400X400mm),70,,I,,,prem,,,,1,5,NULL,1089,1499,0
+10031,"Coupler [CPVC] (1 1/2"") || (50 mm)","Coupler [CPVC] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10032,"Coupler [CPVC] (1 1/4"") || (32 mm)","Coupler [CPVC] (1 1/4"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10033,"Coupler [CPVC] (1"") || (32 mm)","Coupler [CPVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10034,"Coupler [CPVC] (3/4"")","Coupler [CPVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10035,"Coupler [CPVC] (4"") || (110 mm)","Coupler [CPVC] (4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10036,"Coupler [PVC] (1"") || (32 mm)","Coupler [PVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10037,"Coupler [UPVC] (1 1/4"") || (32 mm)","Coupler [UPVC] (1 1/4"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10038,"Coupler [UPVC] (1"") || (32 mm)","Coupler [UPVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10039,"Coupler [UPVC] (2"") || (63mm)","Coupler [UPVC] (2"") || (63mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10040,"Coupler 6 Kg [PVC] (5"") || (140 mm)","Coupler 6 Kg [PVC] (5"") || (140 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10041,"Coupling (1 "")","Coupling (1 "")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10042,"Coupling (1 1/4"")","Coupling (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10043,"Coupling (4"")","Coupling (4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10044,"Coupling (CPVC) (3/4"")","Coupling (CPVC) (3/4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499|1503,0
+10045,"Coupling [GI] ( 1 1/4"" )","Coupling [GI] ( 1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10046,"Coupling [GI] ( 1"" )","Coupling [GI] ( 1"" )",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10047,"Coupling [GI] ( 1/2"" )","Coupling [GI] ( 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10048,"Coupling [GI] (3/4"")","Coupling [GI] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10049,"Coupling [PVC] (1 1/4"") [40mm]","Coupling [PVC] (1 1/4"") [40mm]",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10050,"Coupling [PVC] (1"") || (32 mm)","Coupling [PVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10051,"Coupling [PVC] (11/2 "" ) || (50 mm)","Coupling [PVC] (11/2 "" ) || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10052,"Coupling [PVC] (2 1/2"" ) || (75 mm)","Coupling [PVC] (2 1/2"" ) || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10053,"Coupling [PVC] (2"" ) || (63 mm)","Coupling [PVC] (2"" ) || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10054,"Coupling [PVC] (3/4"")","Coupling [PVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10055,"Coupling [PVC] (3/4"") [Long]","Coupling [PVC] (3/4"") [Long]",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10056,CP Flange,CP Flange,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10057,Crowd Paste,Crowd Paste,70,,I,,,prem,,,,1,5,NULL,,1506|1499,0
+10058,Crust  Health Faucet (T9961A),Crust  Health Faucet (T9961A),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10059,Crust Bath Spout  [G3127A1],Crust Bath Spout  [G3127A1],70,,I,,,prem,,,,1,5,NULL,1091,1499,0
+10060,Crust Bath Spout With Divertor [G2328A1)Euclid,Crust Bath Spout With Divertor [G2328A1)Euclid,70,,I,,,prem,,,,1,5,NULL,1091,1499,0
+10061,Crust Bath Spout With Divertor [G3128A1] (PARRY),Crust Bath Spout With Divertor [G3128A1] (PARRY),70,,I,,,prem,,,,1,5,NULL,1091,1499,0
+10062,Crust Tall Pillar Tap [G3164A1],Crust Tall Pillar Tap [G3164A1],70,,I,,,prem,,,,1,5,NULL,1092,1499|1502,0
+10063,Cute Single Piece Suit Closet (Floor mount) [C896046],Cute Single Piece Suit Closet (Floor mount) [C896046],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10064,Cutting Machine Carban,Cutting Machine Carban,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10065,"D Water Motor [Fire Hose] [2 1/2""]","D Water Motor [Fire Hose] [2 1/2""]",70,,I,,,prem,,,,1,5,NULL,1093,1505,0
+10066,D Water Motor [Float Valve Change],D Water Motor [Float Valve Change],70,,I,,,prem,,,,1,5,NULL,1093,1499,0
+10067,"D Water Motor Hose [2""]","D Water Motor Hose [2""]",70,,I,,,prem,,,,1,5,NULL,1093,1500,0
+10068,Divertor,Divertor,70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10069,Divertor (Concealed) [G5051A1] (PARRY),Divertor (Concealed) [G5051A1] (PARRY),70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10070,Divertor (Concealed) Single Lever (G5051A1),Divertor (Concealed) Single Lever (G5051A1),70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10071,Divertor [Tipton] Fault,Divertor [Tipton] Fault,70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10072,Divertor Body [Crust Ultra High]  [G4887A1],Divertor Body [Crust Ultra High]  [G4887A1],70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10073,Divertor Upper Trim [Crust Ultra High]  [G3185A1],Divertor Upper Trim [Crust Ultra High]  [G3185A1],70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10074,Divertor Upper Trim [G2350A!)Euclid,Divertor Upper Trim [G2350A!)Euclid,70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10075,Divertor Upper Trim [G3150A1] (PARRY),Divertor Upper Trim [G3150A1] (PARRY),70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10076,Divertor Body 882 (Kohler),Divertor Body 882 (Kohler),70,,I,,,prem,,,,1,5,NULL,1094,1499,0
+10077,"Door Bush 1""","Door Bush 1""",70,,I,,,prem,,,,1,5,NULL,1081,1499,0
+10078,"Trap ( 1 1/2"") || (50 mm) (4 way)","Trap ( 1 1/2"") || (50 mm) (4 way)",70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10079,"Trap ( 2  1/2"") || (75 mm) (1 way)","Trap ( 2  1/2"") || (75 mm) (1 way)",70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10080,"Trap ( 2  1/2"") || (75 mm) (4 way)","Trap ( 2  1/2"") || (75 mm) (4 way)",70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10081,"Trap ( 2  1/2"") || (75 mm) (Nani)","Trap ( 2  1/2"") || (75 mm) (Nani)",70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10082,"Trap (4 "") || (110 mm) (4 way)","Trap (4 "") || (110 mm) (4 way)",70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10083,Earth Pipe Bolt Nut,Earth Pipe Bolt Nut,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10084,Eden Single Piece Closet (Floor mount) [C896346],Eden Single Piece Closet (Floor mount) [C896346],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10085,Elbow (1 x  1/2) [Threaded],Elbow (1 x  1/2) [Threaded],70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10086,Elbow (1 x  3/4) [Pasted],Elbow (1 x  3/4) [Pasted],70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10087,"Elbow (10 KG) [PVC - H] (2"") || (63 mm)","Elbow (10 KG) [PVC - H] (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10088,"Elbow (2"")","Elbow (2"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10089,Elbow (PVC) (1 1/2) (32 X 1/2),Elbow (PVC) (1 1/2) (32 X 1/2),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10090,Elbow (PVC) (3/4  X 1/2),Elbow (PVC) (3/4  X 1/2),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10091,Elbow (UPVC (1 x  1/2),Elbow (UPVC (1 x  1/2),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10092,"Elbow [CPVC] ( 1"") [ASH]","Elbow [CPVC] ( 1"") [ASH]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10093,"Elbow [CPVC] ( 3/4"")","Elbow [CPVC] ( 3/4"")",70,,I,,,prem,,,,1,5,NULL,1095,1499|1503,0
+10094,"Elbow [CPVC] (1 1/2"")|| (50 mm)","Elbow [CPVC] (1 1/2"")|| (50 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10095,"Elbow [CPVC] (1 1/4"")|| (40 mm)","Elbow [CPVC] (1 1/4"")|| (40 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10096,Elbow [CPVC] (3/4  x  1/2),Elbow [CPVC] (3/4  x  1/2),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10097,Elbow [CPVC] (3/4  x  1/2) [Brass Thread],Elbow [CPVC] (3/4  x  1/2) [Brass Thread],70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10098,"Elbow [GI] (1 1/2"" )","Elbow [GI] (1 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10099,"Elbow [GI] (1 1/4"")","Elbow [GI] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10100,Elbow [GI] (1 x  1/2),Elbow [GI] (1 x  1/2),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10101,"Elbow [GI] (1"")","Elbow [GI] (1"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10102,"Elbow [GI] (1/2"")","Elbow [GI] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10103,Elbow [GI] (3/4  X 1),Elbow [GI] (3/4  X 1),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10104,Elbow [GI](1 X 3/4),Elbow [GI](1 X 3/4),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10105,Elbow [GI](3/4  X 1/2),Elbow [GI](3/4  X 1/2),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10106,"Elbow [GI](3/4"")","Elbow [GI](3/4"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10107,"Elbow [PVC] ( 1"") || (32 mm)","Elbow [PVC] ( 1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10108,"Elbow [PVC] (1 1/2"") || (50 mm)","Elbow [PVC] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10109,"Elbow [PVC] (1 1/4"")","Elbow [PVC] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10110,"Elbow [PVC] (1 1/4"")|| (40 mm)","Elbow [PVC] (1 1/4"")|| (40 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10111,"Elbow [PVC] (1 X 1/2"") (Brass) SUP","Elbow [PVC] (1 X 1/2"") (Brass) SUP",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10112,"Elbow [PVC] (1 X 3/4"")","Elbow [PVC] (1 X 3/4"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10113,"Elbow [PVC] (2 1/2"") || (75 mm)","Elbow [PVC] (2 1/2"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10114,"Elbow [PVC] (2"")","Elbow [PVC] (2"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10115,"Elbow [PVC] (2"") [10 kg] (63 mm)","Elbow [PVC] (2"") [10 kg] (63 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10116,"Elbow [PVC] (2"") || (63 mm)","Elbow [PVC] (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10117,"Elbow [PVC] (3"") || (90 mm)","Elbow [PVC] (3"") || (90 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10118,"Elbow [PVC] (3/4"") (25mm)","Elbow [PVC] (3/4"") (25mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10119,"Elbow [PVC] (4"") || (110 mm)","Elbow [PVC] (4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10120,"Elbow [PVC] (4"") || (110 mm) 10 KG[Heavy]","Elbow [PVC] (4"") || (110 mm) 10 KG[Heavy]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10121,"Elbow [PVC] (4"") || (110 mm) 6 KG [Plain]","Elbow [PVC] (4"") || (110 mm) 6 KG [Plain]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10122,"Elbow [PVC] (5"") || (140 mm)","Elbow [PVC] (5"") || (140 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10123,Elbow [PVC] 25mm),Elbow [PVC] 25mm),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10124,Elbow [Reducing]  (32 X 25),Elbow [Reducing]  (32 X 25),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10125,"Elbow [Reducing] (25 X 20"")","Elbow [Reducing] (25 X 20"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10126,"Elbow [SWR] ( 1 1/2"") || (50 mm) [Door Bend]","Elbow [SWR] ( 1 1/2"") || (50 mm) [Door Bend]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10127,"Elbow [SWR] ( 2 1/2"") || (75 mm)","Elbow [SWR] ( 2 1/2"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10128,"Elbow [SWR] ( 2 1/2"") || (75 mm)[ Plain Bend]","Elbow [SWR] ( 2 1/2"") || (75 mm)[ Plain Bend]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10129,"Elbow [SWR] (2 1/2"") || (75 mm) [Door Bend]","Elbow [SWR] (2 1/2"") || (75 mm) [Door Bend]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10130,"Elbow [SWR] (4"") || (110 mm) [Door Bend]","Elbow [SWR] (4"") || (110 mm) [Door Bend]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10131,"Elbow [SWR] (4"") || (110 mm) [Plain Bend]","Elbow [SWR] (4"") || (110 mm) [Plain Bend]",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10132,Elbow [Thread]  (32 X 20),Elbow [Thread]  (32 X 20),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10133,"Elbow [UPVC] ( 1"") || (32 mm)","Elbow [UPVC] ( 1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10134,"Elbow [UPVC] (1 1/2"")","Elbow [UPVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10135,"Elbow [UPVC] (1 1/4"")|| (40 mm)","Elbow [UPVC] (1 1/4"")|| (40 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10136,"Elbow [UPVC] (2"") || (63 mm)","Elbow [UPVC] (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10137,Elbow Thread (32 X 20),Elbow Thread (32 X 20),70,,I,,,prem,,,,1,5,NULL,1095,1499,0
+10138,"End Cap  (UPVC) (1"" )Sch 80","End Cap  (UPVC) (1"" )Sch 80",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10139,"End Cap (2"")","End Cap (2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10140,"End Cap [CPVC] (1"")","End Cap [CPVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10141,"End Cap [CPVC] (1/2"")","End Cap [CPVC] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10142,"End Cap [CPVC] 3/4""","End Cap [CPVC] 3/4""",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10143,"End Cap [PVC] ( 1/2"")","End Cap [PVC] ( 1/2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10144,"End Cap [PVC] (1 1/2"")","End Cap [PVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10145,"End Cap [PVC] (1 1/4"")","End Cap [PVC] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10146,"End Cap [PVC] (1"") || (32 mm)","End Cap [PVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10147,"End Cap [PVC] (2 1/2"")","End Cap [PVC] (2 1/2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10148,"End Cap [PVC] (2"")","End Cap [PVC] (2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10149,"End Cap [PVC] (2"") [63mm]","End Cap [PVC] (2"") [63mm]",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10150,"End Cap [PVC] (3"")","End Cap [PVC] (3"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10151,"End Cap [PVC] (3/4"")","End Cap [PVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10152,"End Cap [PVC] (4"")","End Cap [PVC] (4"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10153,"End Cap [UPVC] (1"")","End Cap [UPVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10154,"End Cap [UPVC] (2"")","End Cap [UPVC] (2"")",70,,I,,,prem,,,,1,5,NULL,1096,1499,0
+10155,"End Plug [CPVC] 1/2""","End Plug [CPVC] 1/2""",70,,I,,,prem,,,,1,5,NULL,1097,1499,0
+10156,Engine oil 20/40,Engine oil 20/40,70,,I,,,prem,,,,1,5,NULL,1098,1506,0
+10157,Ewc Connector [1046327],Ewc Connector [1046327],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10158,"Ext. Nipple (1 1/2"")","Ext. Nipple (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1099,1499,0
+10159,"Ext. Nipple (1"")","Ext. Nipple (1"")",70,,I,,,prem,,,,1,5,NULL,1099,1499,0
+10160,"Ext. Nipple (2"")","Ext. Nipple (2"")",70,,I,,,prem,,,,1,5,NULL,1099,1499,0
+10161,"Ext. Nipple (3"")","Ext. Nipple (3"")",70,,I,,,prem,,,,1,5,NULL,1099,1499,0
+10162,"Ext. Nipple (6"")","Ext. Nipple (6"")",70,,I,,,prem,,,,1,5,NULL,1099,1499,0
+10163,Fan Adaptor (Floor Mount Bush),Fan Adaptor (Floor Mount Bush),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10164,Filter Forum,Filter Forum,70,,I,,,prem,,,,1,5,NULL,1100,1499,0
+10165,Filter Forum (Pillar Cock),Filter Forum (Pillar Cock),70,,I,,,prem,,,,1,5,NULL,1100,1499,0
+10166,Filter Forum (Spout),Filter Forum (Spout),70,,I,,,prem,,,,1,5,NULL,1100,1499,0
+10167,Filter Forum SS [Parryware],Filter Forum SS [Parryware],70,,I,,,prem,,,,1,5,NULL,1100,1499,0
+10168,"Fisher Bolt Nut 6""","Fisher Bolt Nut 6""",70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+10169,Fisher Bolt Nut (Wall Mount) 16MM,Fisher Bolt Nut (Wall Mount) 16MM,70,,I,,,prem,,,,1,5,NULL,1073,1502|1499,0
+10170,Fisher Bolt Nut (washbasin),Fisher Bolt Nut (washbasin),70,,I,,,prem,,,,1,5,NULL,1073,1502,0
+10171,Fisher Bolt Nut 10MM,Fisher Bolt Nut 10MM,70,,I,,,prem,,,,1,5,NULL,1073,1502|1499,0
+10172,Fisher Bolt Nut 10MM (SS),Fisher Bolt Nut 10MM (SS),70,,I,,,prem,,,,1,5,NULL,1073,1499|1502,0
+10173,Fisher Bolt Set (Sumo)(C8152),Fisher Bolt Set (Sumo)(C8152),70,,I,,,prem,,,,1,5,NULL,1073,1499,0
+10174,"Flange Set  (1"")","Flange Set  (1"")",70,,I,,,prem,,,,1,5,NULL,1101,1499,0
+10175,"Flange Set (1/2"")","Flange Set (1/2"")",70,,I,,,prem,,,,1,5,NULL,1101,1499,0
+10176,"Flange Set (11/4"")","Flange Set (11/4"")",70,,I,,,prem,,,,1,5,NULL,1101,1499,0
+10177,"Flange Washer (1 1/4"" )","Flange Washer (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1101,1499,0
+10178,"Flange Washer (1"" )","Flange Washer (1"" )",70,,I,,,prem,,,,1,5,NULL,1101,1499,0
+10179,Floor Mount Cistern Lid Fittings W [Indus]  [C0769],Floor Mount Cistern Lid Fittings W [Indus]  [C0769],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10180,Floor Mount Closet White [Indus] (C0215),Floor Mount Closet White [Indus] (C0215),70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10181,Floor Mountain Cistern Lid fitting  White (Cardiff) [C0764],Floor Mountain Cistern Lid fitting  White (Cardiff) [C0764],70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10182,Floor Mounting Closet White (Cardiff)(C0283,Floor Mounting Closet White (Cardiff)(C0283,70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10183,"Floor Valve [Brass] (1"" )","Floor Valve [Brass] (1"" )",70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10184,FloorMount Closet With Seat Cover,FloorMount Closet With Seat Cover,70,,I,,,prem,,,,1,5,NULL,1084,1499,0
+10185,Flush Tank  Blue (PVC),Flush Tank  Blue (PVC),70,,I,,,prem,,,,1,5,NULL,1102,1499,0
+10186,Flush Tank (PVC),Flush Tank (PVC),70,,I,,,prem,,,,1,5,NULL,1102,1499,0
+10187,Flush Tank [Nova Slimline] [E83251C],Flush Tank [Nova Slimline] [E83251C],70,,I,,,prem,,,,1,5,NULL,1102,1499,0
+10188,Flush Tank White,Flush Tank White,70,,I,,,prem,,,,1,5,NULL,1102,1499,0
+10189,Foot Valve (CRI),Foot Valve (CRI),70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10190,"Foot Valve [Jet] (1 1/2"")","Foot Valve [Jet] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10191,"Foot Valve [PVC] (1 "")","Foot Valve [PVC] (1 "")",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10192,Foundation Bolt Nut,Foundation Bolt Nut,70,,I,,,prem,,,,1,5,NULL,1073,1502|1499,0
+10193,"Foundation Bolt Nut (6"")","Foundation Bolt Nut (6"")",70,,I,,,prem,,,,1,5,NULL,1073,1502|1499,0
+10194,Fourway Trap [ SWR] (110 X75),Fourway Trap [ SWR] (110 X75),70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10195,"FTA  [PVC] (1 1/2"")","FTA  [PVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10196,"FTA  [PVC] (1 1/2"") [50mm]","FTA  [PVC] (1 1/2"") [50mm]",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10197,"FTA [CPVC] (3/4""  x  1/2"")","FTA [CPVC] (3/4""  x  1/2"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10198,"FTA [CPVC] (3/4"")","FTA [CPVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10199,FTA [PVC]  (32 X 20 mm),FTA [PVC]  (32 X 20 mm),70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10200,FTA [PVC] (1 1/4 x 3/4),FTA [PVC] (1 1/4 x 3/4),70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10201,"FTA [PVC] (1 1/4"" )","FTA [PVC] (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10202,FTA [PVC] (1 X  3/4 ) || (32 X 25 mm),FTA [PVC] (1 X  3/4 ) || (32 X 25 mm),70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10203,FTA [PVC] (1 x 1/2),FTA [PVC] (1 x 1/2),70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10204,"FTA [PVC] (1"" )","FTA [PVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10205,"FTA [PVC] (1"" x 1 1/2"")","FTA [PVC] (1"" x 1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10206,"FTA [PVC] (3/4""  x  1/2"")","FTA [PVC] (3/4""  x  1/2"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10207,"FTA [PVC] (3/4"")","FTA [PVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10208,FTA [PVC] (32 X 1/2),FTA [PVC] (32 X 1/2),70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10209,"FTA [UPVC] (1 1/2"")","FTA [UPVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10210,"FTA [UPVC] (1 1/4"" )","FTA [UPVC] (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10211,"FTA [UPVC] (1"" x 1 1/2"")","FTA [UPVC] (1"" x 1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10212,"FTA [UPVC] (1"")","FTA [UPVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1103,1499,0
+10213,G.I .Mesh  (D Water Motor),G.I .Mesh  (D Water Motor),70,,I,,,prem,,,,1,5,NULL,,1507,0
+10214,"Gate Valve Brass (1"")","Gate Valve Brass (1"")",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10215,"Grating (3"") [SS]","Grating (3"") [SS]",70,,I,,,prem,,,,1,5,NULL,1104,1499|1502,0
+10216,Grating [125mm] Round  Plain [41335],Grating [125mm] Round  Plain [41335],70,,I,,,prem,,,,1,5,NULL,1104,1499,0
+10217,"Grating with hole (5"")","Grating with hole (5"")",70,,I,,,prem,,,,1,5,NULL,1104,1499,0
+10218,"Grating with hole (5"") SS(Cockroach)","Grating with hole (5"") SS(Cockroach)",70,,I,,,prem,,,,1,5,NULL,1104,1499|1502,0
+10219,"Grating without (5"")","Grating without (5"")",70,,I,,,prem,,,,1,5,NULL,1104,1499|1502,0
+10220,"Grating without hole 5""SS(Cockroach )","Grating without hole 5""SS(Cockroach )",70,,I,,,prem,,,,1,5,NULL,1104,1499|1502,0
+10221,"Gully [PVC] (4"")","Gully [PVC] (4"")",70,,I,,,prem,,,,1,5,NULL,1105,1499,0
+10222,"Gully [PVC] (5"")","Gully [PVC] (5"")",70,,I,,,prem,,,,1,5,NULL,1105,1499,0
+10223,Gully Trap [ ASH - SWR] (110 X 110),Gully Trap [ ASH - SWR] (110 X 110),70,,I,,,prem,,,,1,5,NULL,1105,1499,0
+10224,Half Pedestal(19085D-00 Patio/odeon),Half Pedestal(19085D-00 Patio/odeon),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10225,Hand Shower [Sliding Kit] [T9980A1],Hand Shower [Sliding Kit] [T9980A1],70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10226,Health Faucet,Health Faucet,70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10227,Health Faucet (Crust) (E8342A1),Health Faucet (Crust) (E8342A1),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10228,Health Faucet (Neo) (E8352A1),Health Faucet (Neo) (E8352A1),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10229,Health Faucet (Ovalo) (E8371A1),Health Faucet (Ovalo) (E8371A1),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10230,Health Faucet (Slimeline) (T9940A1),Health Faucet (Slimeline) (T9940A1),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10231,Health Faucet [Prime] [E8383A1],Health Faucet [Prime] [E8383A1],70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10232,Health Faucet [PVC] (Splash ABS Gun) (T9805A1),Health Faucet [PVC] (Splash ABS Gun) (T9805A1),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10233,Health faucet 12927(Kohler),Health faucet 12927(Kohler),70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10234,Health Faucet Handle,Health Faucet Handle,70,,I,,,prem,,,,1,5,NULL,1090,1499,0
+10235,"Hose ( 1 "" )","Hose ( 1 "" )",70,,I,,,prem,,,,1,5,NULL,1107,1505|1508,0
+10236,"Hose ( 1 1/4"" )","Hose ( 1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10237,"Hose ( 1 1/4"" ) (waste)","Hose ( 1 1/4"" ) (waste)",70,,I,,,prem,,,,1,5,NULL,1107,1509|1499,0
+10238,"Hose ( 1 1/4"" ) [180 feet]","Hose ( 1 1/4"" ) [180 feet]",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10239,"Hose ( 1"" ) (Section)","Hose ( 1"" ) (Section)",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10240,"Hose ( 1/2 "" )","Hose ( 1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10241,"Hose ( 2"" ) (Section)","Hose ( 2"" ) (Section)",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10242,"Hose ( 3"" - 400 meter)","Hose ( 3"" - 400 meter)",70,,I,,,prem,,,,1,5,NULL,1107,1509,0
+10243,"Hose ( 3/4"" )","Hose ( 3/4"" )",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10244,"Hose (3"" - 400 meter)","Hose (3"" - 400 meter)",70,,I,,,prem,,,,1,5,NULL,1107,1509,0
+10245,"Hose (Dewatering) 2"" pvc","Hose (Dewatering) 2"" pvc",70,,I,,,prem,,,,1,5,NULL,1107,1505|1500,0
+10246,"Hose [Black] (1 1/4"")","Hose [Black] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1509|1505|1510,0
+10247,"Hose [Black] (1"")","Hose [Black] (1"")",70,,I,,,prem,,,,1,5,NULL,1107,1509|1505|1510,0
+10248,"Hose [Black] (1/2"")","Hose [Black] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1107,1499|1505,0
+10249,"Hose [Black] (3/4"")","Hose [Black] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1505|1509,0
+10250,"Hose [Green] (1"")","Hose [Green] (1"")",70,,I,,,prem,,,,1,5,NULL,1107,1509,0
+10251,"Hose [Green] (1/2"")","Hose [Green] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1107,1505,0
+10252,"Hose [Green] (3/4"" )","Hose [Green] (3/4"" )",70,,I,,,prem,,,,1,5,NULL,1107,1509,0
+10253,"Hose Clamp ( 1/2 "" )","Hose Clamp ( 1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10254,"Hose Clamp (1 1/4"")","Hose Clamp (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10255,"Hose Clamp (1"")","Hose Clamp (1"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10256,"Hose Clamp (3/4"")","Hose Clamp (3/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10257,"Hose Clip ( 1/2"" )","Hose Clip ( 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10258,"Hose Clip (1 1/4"")","Hose Clip (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10259,"Hose Clip (1 1/4"") [SS]","Hose Clip (1 1/4"") [SS]",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10260,"Hose Clip (1"" )","Hose Clip (1"" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10261,"Hose Clip (1"" ) [SS]","Hose Clip (1"" ) [SS]",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10262,"Hose Clip (3/4"")","Hose Clip (3/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10263,"Hose Joint Nipple (1"")","Hose Joint Nipple (1"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10264,"Hose Joint Nipple SS (1 1/4"")","Hose Joint Nipple SS (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10265,"Hose Nipple (1 1/4"")","Hose Nipple (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10266,"Hose Nipple (1"" )","Hose Nipple (1"" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10267,"Hose Nipple (1/2 "" )","Hose Nipple (1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10268,"Hose Nipple [GI] (3/4"" )","Hose Nipple [GI] (3/4"" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10269,"Hose Nipple [SS] (1 "" )","Hose Nipple [SS] (1 "" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10270,"Hose Nipple [SS] (1 1/4"" )","Hose Nipple [SS] (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10271,"Hose Nipple [SS] (1/2 "" )","Hose Nipple [SS] (1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10272,Indian Closet,Indian Closet,70,,I,,,prem,,,,1,5,NULL,1108,1499,0
+10273,Indian Closet Ivory,Indian Closet Ivory,70,,I,,,prem,,,,1,5,NULL,1108,1499,0
+10274,Indian Closet white (C0116),Indian Closet white (C0116),70,,I,,,prem,,,,1,5,NULL,1108,1499,0
+10275,Indian Closet white [C0117],Indian Closet white [C0117],70,,I,,,prem,,,,1,5,NULL,1108,1499,0
+10276,Indian Closet With P Trap,Indian Closet With P Trap,70,,I,,,prem,,,,1,5,NULL,1108,1499|1502,0
+10277,Indian Closet With P Trap  (Brown),Indian Closet With P Trap  (Brown),70,,I,,,prem,,,,1,5,NULL,1108,1499,0
+10278,Indian Closet With S Trap,Indian Closet With S Trap,70,,I,,,prem,,,,1,5,NULL,1108,1499,0
+10279,"Inner Thread Dummy (1/2"")","Inner Thread Dummy (1/2"")",70,,I,,,prem,,,,1,5,NULL,,1499,0
+10280,Jet Assemble Set (1 1/4 X 1),Jet Assemble Set (1 1/4 X 1),70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10281,Jet Assembly Unit (Motor Set),Jet Assembly Unit (Motor Set),70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10282,"Jet Clamp 1/2"" x 1","Jet Clamp 1/2"" x 1",70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10283,Jet Motor Angle,Jet Motor Angle,70,,I,,,prem,,,,1,5,NULL,1109,1500,0
+10284,Jet Motor Top Cap (1 HP),Jet Motor Top Cap (1 HP),70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10285,Jet Net,Jet Net,70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10286,"Jet Nipple (1 1/4"" )","Jet Nipple (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10287,Jet Nipple (1 x  1/2 ),Jet Nipple (1 x  1/2 ),70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10288,"Jet Nipple (1"")","Jet Nipple (1"")",70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10289,Jet Nozzle (6.5mm Plastic),Jet Nozzle (6.5mm Plastic),70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10290,Jet Valayam,Jet Valayam,70,,I,,,prem,,,,1,5,NULL,1109,1499,0
+10291,Koches Screw,Koches Screw,70,,I,,,prem,,,,1,5,NULL,1042,1499,0
+10292,Linea plus concealed cistern [E812099],Linea plus concealed cistern [E812099],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10293,Linea plus push plate soft chrome[E8219A1],Linea plus push plate soft chrome[E8219A1],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10294,"Long Shower Arm 24"" (T9949A1)","Long Shower Arm 24"" (T9949A1)",70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10295,M.Seal,M.Seal,70,,I,,,prem,,,,1,5,NULL,1110,1499,0
+10296,M.Seal (100 gm),M.Seal (100 gm),70,,I,,,prem,,,,1,5,NULL,1110,1499|1504,0
+10297,"Metal Bit  (1 1/2"" ) || (36 mm)","Metal Bit  (1 1/2"" ) || (36 mm)",70,,I,,,prem,,,,1,5,NULL,1111,1499,0
+10298,Motor Air Filter,Motor Air Filter,70,,I,,,prem,,,,1,5,NULL,1112,1499,0
+10299,Motor Angle,Motor Angle,70,,I,,,prem,,,,1,5,NULL,1112,1502,0
+10300,"Motor Angle (1 1/4 "")","Motor Angle (1 1/4 "")",70,,I,,,prem,,,,1,5,NULL,1112,1502|1499,0
+10301,Motor Angle (1 1/4 feet),Motor Angle (1 1/4 feet),70,,I,,,prem,,,,1,5,NULL,1112,1500|1499,0
+10302,"Motor Angle 1""","Motor Angle 1""",70,,I,,,prem,,,,1,5,NULL,1112,1502,0
+10303,Motor Angle Set with BoltNut,Motor Angle Set with BoltNut,70,,I,,,prem,,,,1,5,NULL,1112,1502,0
+10304,Motor Cover ( 1 HP),Motor Cover ( 1 HP),70,,I,,,prem,,,,1,5,NULL,1112,1499,0
+10305,"MTA [CPVC] (1 1/2"" )","MTA [CPVC] (1 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10306,"MTA [CPVC] (1 1/4"")","MTA [CPVC] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10307,"MTA [CPVC] (1"" )","MTA [CPVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10308,"MTA [CPVC] (3/4"" )","MTA [CPVC] (3/4"" )",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10309,"MTA [CPVC] (3/4"" X 1/2"")","MTA [CPVC] (3/4"" X 1/2"")",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10310,"MTA [CPVC] (3/4"" X 1/2"") [Brass R]","MTA [CPVC] (3/4"" X 1/2"") [Brass R]",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10311,"MTA [CPVC] (3/4"" X 1/2"") [Brass Thread]","MTA [CPVC] (3/4"" X 1/2"") [Brass Thread]",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10312,"MTA [CPVC] (3/4"" X 1/2"") [Reducer]","MTA [CPVC] (3/4"" X 1/2"") [Reducer]",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10313,"MTA [PVC] (1 1/2"")","MTA [PVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10314,"MTA [PVC] (1 1/2"") [50mm]","MTA [PVC] (1 1/2"") [50mm]",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10315,"MTA [PVC] (1 1/4"")","MTA [PVC] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10316,"MTA [PVC] (1 1/4"") [40mm]","MTA [PVC] (1 1/4"") [40mm]",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10317,"MTA [PVC] (1"") || (32 mm)","MTA [PVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10318,"MTA [PVC] (3/4"")","MTA [PVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10319,"MTA [UPVC] (1 1/4"")","MTA [UPVC] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10320,"MTA [UPVC] (1"" )","MTA [UPVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1113,1499,0
+10321,Multi-Flow hand Shower 100mm (T9983A1),Multi-Flow hand Shower 100mm (T9983A1),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10322,Multi-Flow hand Shower 80mm (T9982A1),Multi-Flow hand Shower 80mm (T9982A1),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10323,Nail (U),Nail (U),70,,I,,,prem,,,,1,5,NULL,1114,1500|1499,0
+10324,"Nail( 2 1/2"")","Nail( 2 1/2"")",70,,I,,,prem,,,,1,5,NULL,1114,1500|1499,0
+10325,"Nipple (12 feet) (1/2"")","Nipple (12 feet) (1/2"")",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10326,"Nipple (3 feet) (1/2"")","Nipple (3 feet) (1/2"")",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10327,"Nipple (6 feet) (1/2"")","Nipple (6 feet) (1/2"")",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10328,"Nipple (9 feet) (1/2"")","Nipple (9 feet) (1/2"")",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10329,"Nipple [GI] (1"")","Nipple [GI] (1"")",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10330,"Nipple [UPVC] (1"")","Nipple [UPVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10331,"Nipple GI (  1/2"") (3 feet)","Nipple GI (  1/2"") (3 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10332,"Nipple GI (  1/2"") (48feet)","Nipple GI (  1/2"") (48feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10333,"Nipple GI ( 1 1/2"") (12 feet)","Nipple GI ( 1 1/2"") (12 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10334,"Nipple GI ( 1/2"") (4feet)","Nipple GI ( 1/2"") (4feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10335,"Nipple GI (1 1/2"") (6 feet)","Nipple GI (1 1/2"") (6 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10336,"Nipple GI (1/2"") (12 feet)","Nipple GI (1/2"") (12 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10337,"Nipple GI (1/2"") (18 feet)","Nipple GI (1/2"") (18 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10338,"Nipple GI (1/2"") (24 feet)","Nipple GI (1/2"") (24 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10339,"Nipple GI (1/2"") (6 feet)","Nipple GI (1/2"") (6 feet)",70,,I,,,prem,,,,1,5,NULL,1115,1499,0
+10340,"Non Return valve 1 1/2""","Non Return valve 1 1/2""",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10341,"Non Return valve 1""","Non Return valve 1""",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10342,Non Return valve 3/4,Non Return valve 3/4,70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10343,Nozzle Valve tri (Viking) [10730],Nozzle Valve tri (Viking) [10730],70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10344,Nut,Nut,70,,I,,,prem,,,,1,5,NULL,,1504,0
+10345,"Offset (2"")","Offset (2"")",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10346,"Offset (4 KG) [PVC] (2 1/2"") || (75 mm)","Offset (4 KG) [PVC] (2 1/2"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10347,"Offset (4 KG) [PVC] 4"") || (110 mm)","Offset (4 KG) [PVC] 4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10348,"Offset (4"")","Offset (4"")",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10349,"Offset (6 KG) [PVC] (2 1/2"") || (75 mm)","Offset (6 KG) [PVC] (2 1/2"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10350,"Offset (6 KG) [PVC] 4"") || (110 mm)","Offset (6 KG) [PVC] 4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10351,"Offset [CPVC] (3/4"")","Offset [CPVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1116,1499,0
+10352,Oil,Oil,70,,I,,,prem,,,,1,5,NULL,1098,1506,0
+10353,Oil (20 x40),Oil (20 x40),70,,I,,,prem,,,,1,5,NULL,1098,1506|1499|1511,0
+10354,Oil (20 x40) MAK,Oil (20 x40) MAK,70,,I,,,prem,,,,1,5,NULL,1098,1506|1499,0
+10355,Oil (25 x 40),Oil (25 x 40),70,,I,,,prem,,,,1,5,NULL,1098,1506,0
+10356,P Trap White [C2104],P Trap White [C2104],70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10357,P-Trap,P-Trap,70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10358,P-Trap white(C2104),P-Trap white(C2104),70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10359,Pedestal ( full) for Wash Basin Cardiff (C0375),Pedestal ( full) for Wash Basin Cardiff (C0375),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10360,Pillar Cock,Pillar Cock,70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10361,Pillar Cock (Alpha) [G2722A1],Pillar Cock (Alpha) [G2722A1],70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10362,Pillar Cock (Crust) (G3102A1),Pillar Cock (Crust) (G3102A1),70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10363,Pillar Cock (Edge) [G4864A1],Pillar Cock (Edge) [G4864A1],70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10364,Pillar Cock (Jade) [Swan Neck] [G0268A1],Pillar Cock (Jade) [Swan Neck] [G0268A1],70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10365,Pillar Cock (JD) (G0202A1),Pillar Cock (JD) (G0202A1),70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10366,Pillar Cock [Smart High Neck] (G3764A1),Pillar Cock [Smart High Neck] (G3764A1),70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10367,Pillar Cock Agate (G0666A1),Pillar Cock Agate (G0666A1),70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10368,Pillar Cock Euclid (G2302A1),Pillar Cock Euclid (G2302A1),70,,I,,,prem,,,,1,5,NULL,1118,1499|1504,0
+10369,Pillar Cock Single Roca (RT5A4221COB),Pillar Cock Single Roca (RT5A4221COB),70,,I,,,prem,,,,1,5,NULL,1118,1499,0
+10370,"Pipe  [UPVC]  (1 1/2"")  ||  (50 mm)","Pipe  [UPVC]  (1 1/2"")  ||  (50 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1510|1499|1512,0
+10371,"Pipe [CPVC]  (4"")  || (110 mm)","Pipe [CPVC]  (4"")  || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10372,"Pipe [CPVC] (1 1/2""  - 5 Meter)","Pipe [CPVC] (1 1/2""  - 5 Meter)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10373,"Pipe [CPVC] (1 1/4 ""  - 5 Meter)","Pipe [CPVC] (1 1/4 ""  - 5 Meter)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10374,"Pipe [CPVC] (1""  - 5 Meter)","Pipe [CPVC] (1""  - 5 Meter)",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10375,"Pipe [CPVC] (1"" )","Pipe [CPVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1052,1499|1510,0
+10376,"Pipe [CPVC] (3/4""  - 2 Meter)","Pipe [CPVC] (3/4""  - 2 Meter)",70,,I,,,prem,,,,1,5,NULL,1052,1505|1499|1510,0
+10377,"Pipe [CPVC] (3/4""  - 3 Meter)","Pipe [CPVC] (3/4""  - 3 Meter)",70,,I,,,prem,,,,1,5,NULL,1052,1499|1512,0
+10378,"Pipe [CPVC] (3/4""  - 5 Meter)","Pipe [CPVC] (3/4""  - 5 Meter)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10379,"Pipe [GI] (1"")","Pipe [GI] (1"")",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10380,"Pipe [GI] (1/2"" - 10 feet)","Pipe [GI] (1/2"" - 10 feet)",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10381,"Pipe [GI] (1/2"")","Pipe [GI] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1505,0
+10382,"Pipe [GI] (2"")","Pipe [GI] (2"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1505|1499,0
+10383,"Pipe [GI] (4"" X 3/4"")","Pipe [GI] (4"" X 3/4"")",70,,I,,,prem,,,,1,5,NULL,1052,1499,0
+10384,"Pipe [PVC] (1 1/2"")","Pipe [PVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510,0
+10385,"Pipe [PVC] (1 1/4"" - 1 feet)","Pipe [PVC] (1 1/4"" - 1 feet)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510,0
+10386,"Pipe [PVC] (1 1/4"")","Pipe [PVC] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510|1505,0
+10387,"Pipe [PVC] (1"" - 1 feet)","Pipe [PVC] (1"" - 1 feet)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510|1505,0
+10388,"Pipe [PVC] (1"")","Pipe [PVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510|1500|1505,0
+10389,"Pipe [PVC] (1/2"")","Pipe [PVC] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1052,1510|1505,0
+10390,"Pipe [PVC] (2 1/2"")","Pipe [PVC] (2 1/2"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510,0
+10391,"Pipe [PVC] (2"")","Pipe [PVC] (2"")",70,,I,,,prem,,,,1,5,NULL,1052,1510|1512,0
+10392,"Pipe [PVC] (3/4"")","Pipe [PVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1052,1510|1512|1499,0
+10393,"Pipe [PVC] (4"")","Pipe [PVC] (4"")",70,,I,,,prem,,,,1,5,NULL,1052,1510|1512,0
+10394,"Pipe [PVC] (5"" - 10 feet)","Pipe [PVC] (5"" - 10 feet)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510,0
+10395,"Pipe [PVC] (5"")","Pipe [PVC] (5"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510|1505|1499,0
+10396,"Pipe [PVC] (6"")","Pipe [PVC] (6"")",70,,I,,,prem,,,,1,5,NULL,1052,1512|1510,0
+10397,"Pipe [PVC] (7"")","Pipe [PVC] (7"")",70,,I,,,prem,,,,1,5,NULL,1052,1510|1512|1499,0
+10398,"Pipe [UPVC] (1 1/4 "")","Pipe [UPVC] (1 1/4 "")",70,,I,,,prem,,,,1,5,NULL,1052,1499|1512|1510,0
+10399,"Pipe [UPVC] (1"")","Pipe [UPVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1052,1505|1512|1510|1499,0
+10400,"Pipe 10 kg [PVC]   (2"") || (63 mm)","Pipe 10 kg [PVC]   (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510,0
+10401,"Pipe 10kg [PVC]  (1 1/2"")  ||  (50 mm)","Pipe 10kg [PVC]  (1 1/2"")  ||  (50 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510,0
+10402,"Pipe 15 kg [UPVC]   (2"") || (63 mm)","Pipe 15 kg [UPVC]   (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10403,"Pipe 15kg  [PVC] (1"")","Pipe 15kg  [PVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10404,"Pipe 15kg [PVC]  (1 "")  ||  (32 mm)","Pipe 15kg [PVC]  (1 "")  ||  (32 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10405,"Pipe 15kg [PVC]  (1 1/2"")  ||  (50 mm)","Pipe 15kg [PVC]  (1 1/2"")  ||  (50 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10406,"Pipe 15kg [PVC]  (1 1/4 "")  ||  (40 mm)","Pipe 15kg [PVC]  (1 1/4 "")  ||  (40 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1505,0
+10407,"Pipe 15kg [UPVC]  (1 "")  ||  (32 mm)","Pipe 15kg [UPVC]  (1 "")  ||  (32 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10408,"Pipe 4kg [PVC]  (2 1/2"")  || (75 mm)","Pipe 4kg [PVC]  (2 1/2"")  || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510,0
+10409,"Pipe 4kg [PVC]  (4"")  || (110 mm)","Pipe 4kg [PVC]  (4"")  || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510,0
+10410,"Pipe 4kg [PVC]  (5 "")  || (130 mm)","Pipe 4kg [PVC]  (5 "")  || (130 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10411,"Pipe 4kg [PVC]  (5 1/2"")  || (140 mm)","Pipe 4kg [PVC]  (5 1/2"")  || (140 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10412,"Pipe 6kg  [PVC] (10"") || (250 mm)","Pipe 6kg  [PVC] (10"") || (250 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10413,"Pipe 6kg  [PVC] (3"") || (75 mm)","Pipe 6kg  [PVC] (3"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499,0
+10414,"Pipe 6kg  [PVC] (4"") || (110 mm)","Pipe 6kg  [PVC] (4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510,0
+10415,"Pipe 6kg [PVC]  (2 1/2"" ) || (75 mm)","Pipe 6kg [PVC]  (2 1/2"" ) || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512|1499|1510,0
+10416,"Pipe 6kg [PVC]  (5 "")  || (130 mm)","Pipe 6kg [PVC]  (5 "")  || (130 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1510|1512,0
+10417,"Pipe 6kg [PVC]  (5"")  || (140 mm)","Pipe 6kg [PVC]  (5"")  || (140 mm)",70,,I,,,prem,,,,1,5,NULL,1052,1512,0
+10418,"Pipe Nipple  [GI] (1/2 x 3"" )","Pipe Nipple  [GI] (1/2 x 3"" )",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10419,Pipe Nipple (1 x  1/2),Pipe Nipple (1 x  1/2),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10420,"Pipe Nipple (1"" - 1 feet)","Pipe Nipple (1"" - 1 feet)",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10421,"Pipe Nipple (1"" - 6 feet)","Pipe Nipple (1"" - 6 feet)",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10422,"Pipe Nipple (1/2"" - 1 feet)","Pipe Nipple (1/2"" - 1 feet)",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10423,"Pipe Nipple (1/2"" - 2 feet)","Pipe Nipple (1/2"" - 2 feet)",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10424,Pipe Nipple [GI] (1 1/2  x 6),Pipe Nipple [GI] (1 1/2  x 6),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10425,Pipe Nipple [GI] (1 1/2  x 9),Pipe Nipple [GI] (1 1/2  x 9),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10426,Pipe Nipple [GI] (1 1/4 x 1/2 ),Pipe Nipple [GI] (1 1/4 x 1/2 ),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10427,Pipe Nipple [GI] (1 1/4 x 6 ),Pipe Nipple [GI] (1 1/4 x 6 ),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10428,Pipe Nipple [GI] (1 x 12 ),Pipe Nipple [GI] (1 x 12 ),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10429,Pipe Nipple [GI] (1 x 3 ),Pipe Nipple [GI] (1 x 3 ),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10430,Pipe Nipple [GI] (1 x 4 ),Pipe Nipple [GI] (1 x 4 ),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10431,Pipe Nipple [GI] (1 x 9 ),Pipe Nipple [GI] (1 x 9 ),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10432,"Pipe Nipple [GI] (1""  x  6"" )","Pipe Nipple [GI] (1""  x  6"" )",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10433,Pipe Nipple [GI] (1/2  x 9),Pipe Nipple [GI] (1/2  x 9),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10434,"Pipe Nipple [GI] (1/2 X 12"")","Pipe Nipple [GI] (1/2 X 12"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10435,Pipe Nipple [GI] (1/2 X 15),Pipe Nipple [GI] (1/2 X 15),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10436,Pipe Nipple [GI] (1/2 X 18),Pipe Nipple [GI] (1/2 X 18),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10437,Pipe Nipple [GI] (1/2 X 2),Pipe Nipple [GI] (1/2 X 2),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10438,"Pipe Nipple [GI] (1/2 X 24"")","Pipe Nipple [GI] (1/2 X 24"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10439,Pipe Nipple [GI] (1/2 X 3),Pipe Nipple [GI] (1/2 X 3),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10440,Pipe Nipple [GI] (1/2 X 30),Pipe Nipple [GI] (1/2 X 30),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10441,"Pipe Nipple [GI] (1/2 X 36"")","Pipe Nipple [GI] (1/2 X 36"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10442,Pipe Nipple [GI] (1/2 X 4),Pipe Nipple [GI] (1/2 X 4),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10443,"Pipe Nipple [GI] (1/2 X 48"")","Pipe Nipple [GI] (1/2 X 48"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10444,"Pipe Nipple [GI] (1/2 X 5"")","Pipe Nipple [GI] (1/2 X 5"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10445,Pipe Nipple [GI] (1/2 X 6),Pipe Nipple [GI] (1/2 X 6),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10446,"Pipe Nipple [GI] (1/2 X 60"")","Pipe Nipple [GI] (1/2 X 60"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10447,Pipe Nipple [GI] (1/2 X 9),Pipe Nipple [GI] (1/2 X 9),70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10448,"Pipe Nipple [GI] (1/2"" - 3 feet)","Pipe Nipple [GI] (1/2"" - 3 feet)",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10449,"Pipe Nipple [GI] (1/2"" - 8 feet)","Pipe Nipple [GI] (1/2"" - 8 feet)",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10450,"Pipe Nipple [GI] (1/2"" X 6"")","Pipe Nipple [GI] (1/2"" X 6"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10451,"Pipe Nipple [GI] (2"" )","Pipe Nipple [GI] (2"" )",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10452,"Pipe Nipple [GI] (2"" x 9"")","Pipe Nipple [GI] (2"" x 9"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10453,"Pipe Nipple [GI] (3/4 X 6"")","Pipe Nipple [GI] (3/4 X 6"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10454,"Pipe Nipple [SS] (1 1/2"")","Pipe Nipple [SS] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10455,"Pipe Nipple [SS] (1 1/4"")","Pipe Nipple [SS] (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10456,"Pipe Nipple [SS] (1"")","Pipe Nipple [SS] (1"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10457,"Pipe Nipple [SS] (1/2"")","Pipe Nipple [SS] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10458,"Pipe Nipple [SS] (2 1/2"")","Pipe Nipple [SS] (2 1/2"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10459,"Pipe Nipple [SS] (2"")","Pipe Nipple [SS] (2"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10460,"Pipe Nipple [SS] (3"")","Pipe Nipple [SS] (3"")",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10461,"Pipe Nipple 1 1/4""  X 18","Pipe Nipple 1 1/4""  X 18",70,,I,,,prem,,,,1,5,NULL,1119,1499,0
+10462,"Plug [GI] (1"" X1/2"")","Plug [GI] (1"" X1/2"")",70,,I,,,prem,,,,1,5,NULL,1120,1499,0
+10463,"Plug [GI] (1"")","Plug [GI] (1"")",70,,I,,,prem,,,,1,5,NULL,1120,1499,0
+10464,"Plug [GI] (1/2"")","Plug [GI] (1/2"")",70,,I,,,prem,,,,1,5,NULL,1120,1499,0
+10465,Plumbing Net,Plumbing Net,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10466,Presser KG Valve [Jet Motor],Presser KG Valve [Jet Motor],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10467,Pump Set [Besten Brand] (1 HP) (Multi Stage),Pump Set [Besten Brand] (1 HP) (Multi Stage),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10468,Push plate Round cchrome (CB 8220A1)  Linear Plus,Push plate Round cchrome (CB 8220A1)  Linear Plus,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10469,Qube plus single piece suite white[C849F],Qube plus single piece suite white[C849F],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10470,Quiet Close Toilet Seat Odeon Kohle-(8827),Quiet Close Toilet Seat Odeon Kohle-(8827),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10471,Rack Bolt Installation(Washbasin) [1213309],Rack Bolt Installation(Washbasin) [1213309],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10472,Rag Bolt [C8083],Rag Bolt [C8083],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10473,Rain Shower MM Square 203 (73199),Rain Shower MM Square 203 (73199),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10474,Rain Shower Square SS 200 mm (T9975A1),Rain Shower Square SS 200 mm (T9975A1),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10475,Reducer  Bush [UPVC] (2 X 1) || (63  X 32 mm),Reducer  Bush [UPVC] (2 X 1) || (63  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10476,"Reducer ( 1  1/2 X 1 1/4"" )","Reducer ( 1  1/2 X 1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10477,"Reducer ( 1  1/2 X 1 1/4"" ) [Waste Hose]","Reducer ( 1  1/2 X 1 1/4"" ) [Waste Hose]",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10478,"Reducer ( 1  1/2 X 1 1/4"" {sink coupling})","Reducer ( 1  1/2 X 1 1/4"" {sink coupling})",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10479,"Reducer ( 1 X 1 1/4"" )","Reducer ( 1 X 1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10480,"Reducer ( 1 X 3/4"")","Reducer ( 1 X 3/4"")",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10481,"Reducer (1 x 1/2"")","Reducer (1 x 1/2"")",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10482,"Reducer [GI] (1 1/4 X 1"")","Reducer [GI] (1 1/4 X 1"")",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10483,"Reducer [GI] (1 X 1/2"")","Reducer [GI] (1 X 1/2"")",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10484,"Reducer [PVC]  (2  1/2  X 1  1/2"") || (75 mm X 50 mm)","Reducer [PVC]  (2  1/2  X 1  1/2"") || (75 mm X 50 mm)",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10485,"Reducer [PVC]  (2  X  1  1/2"") || (63 mm X 50 mm)","Reducer [PVC]  (2  X  1  1/2"") || (63 mm X 50 mm)",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10486,"Reducer [PVC]  (5"" X 4"") || (140 mm X 110 mm)","Reducer [PVC]  (5"" X 4"") || (140 mm X 110 mm)",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10487,Reducer [PVC] (1 1/2  x  1),Reducer [PVC] (1 1/2  x  1),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10488,Reducer [PVC] (1 1/2 X 1) || (50  X 32 mm),Reducer [PVC] (1 1/2 X 1) || (50  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10489,Reducer [PVC] (2 1/2 X 1 1/2) || (75  X 50),Reducer [PVC] (2 1/2 X 1 1/2) || (75  X 50),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10490,Reducer [PVC] (2 1/2 X 1) || (75  X 50),Reducer [PVC] (2 1/2 X 1) || (75  X 50),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10491,Reducer [PVC] (2 1/2 X 2) || (75  X 63 mm),Reducer [PVC] (2 1/2 X 2) || (75  X 63 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10492,Reducer [PVC] (2 X 1 1/2) || (63 X 50 mm),Reducer [PVC] (2 X 1 1/2) || (63 X 50 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10493,Reducer [PVC] (2 X 1) || (63  X 32 mm),Reducer [PVC] (2 X 1) || (63  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10494,Reducer [PVC] (4 X 1 1/2) || (110  X 50 mm),Reducer [PVC] (4 X 1 1/2) || (110  X 50 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10495,Reducer [PVC] (4 X 2 ) || (110  X 63 mm),Reducer [PVC] (4 X 2 ) || (110  X 63 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10496,Reducer [PVC] (4 X 2 1/2) || (110  X 75 mm),Reducer [PVC] (4 X 2 1/2) || (110  X 75 mm),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10497,Reducer [PVC] (4 x 3),Reducer [PVC] (4 x 3),70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10498,"Reducer [UPVC] (1"" X 3/4"" ) (32 x25mm)","Reducer [UPVC] (1"" X 3/4"" ) (32 x25mm)",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10499,"Reducer 3""X2 1/2""","Reducer 3""X2 1/2""",70,,I,,,prem,,,,1,5,NULL,1122,1499,0
+10500,"Reducer Bush [CPVC] (1"" X 3/4"" ) ( 32 X25mm)","Reducer Bush [CPVC] (1"" X 3/4"" ) ( 32 X25mm)",70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10501,"Reducer Bush [CPVC] (11/4"" X 3/4"" ) ( 32 X25mm)","Reducer Bush [CPVC] (11/4"" X 3/4"" ) ( 32 X25mm)",70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10502,"Reducer Bush [CPVC] (3/4"" X 3/4"" )","Reducer Bush [CPVC] (3/4"" X 3/4"" )",70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10503,Reducer Bush [PVC] (1 1/2 X 1 1/4) || (50  X 40 mm),Reducer Bush [PVC] (1 1/2 X 1 1/4) || (50  X 40 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10504,Reducer Bush [PVC] (1 1/4 X 1) || (40  X 32 mm),Reducer Bush [PVC] (1 1/4 X 1) || (40  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10505,Reducer Bush [PVC] (2 1/2 X 1 1/2) || (75  X 50 mm),Reducer Bush [PVC] (2 1/2 X 1 1/2) || (75  X 50 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10506,Reducer Bush [PVC] (2 1/2 X 1) || (75  X 32 mm),Reducer Bush [PVC] (2 1/2 X 1) || (75  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10507,"Reducer Bush [PVC] (2"" X 1 1/2"") || (63  X 50 mm)","Reducer Bush [PVC] (2"" X 1 1/2"") || (63  X 50 mm)",70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10508,Reducer Bush [PVC] 1 1/2 X 1) || (50  X 32 mm),Reducer Bush [PVC] 1 1/2 X 1) || (50  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10509,Reducer Bush [UPVC] (2 X 1) || (63  X 32 mm),Reducer Bush [UPVC] (2 X 1) || (63  X 32 mm),70,,I,,,prem,,,,1,5,NULL,1121,1499,0
+10510,"RFTA (1"" X 1/2"") Brass Star","RFTA (1"" X 1/2"") Brass Star",70,,I,,,prem,,,,1,5,NULL,1123,1499,0
+10511,"RFTA [CPVC] (3/4"" X 1/2"")","RFTA [CPVC] (3/4"" X 1/2"")",70,,I,,,prem,,,,1,5,NULL,1123,1499,0
+10512,"RMTA [CPVC] (3/4"" X 1/2"")","RMTA [CPVC] (3/4"" X 1/2"")",70,,I,,,prem,,,,1,5,NULL,1124,1499,0
+10513,Rod [SS] (Tank Welding),Rod [SS] (Tank Welding),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10514,Rope (Nylon),Rope (Nylon),70,,I,,,prem,,,,1,5,NULL,1125,1505,0
+10515,Rope [P P] [10mm],Rope [P P] [10mm],70,,I,,,prem,,,,1,5,NULL,1125,1500|1505,0
+10516,Rope [PVC],Rope [PVC],70,,I,,,prem,,,,1,5,NULL,1125,1505,0
+10517,S - Trap,S - Trap,70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10518,S. Trap Closet white E.W.C Elite (C0297),S. Trap Closet white E.W.C Elite (C0297),70,,I,,,prem,,,,1,5,NULL,1080,1499,0
+10519,S.I. Basin Mixer July (Kohler) Hot & Cold with connectiom tube [16027],S.I. Basin Mixer July (Kohler) Hot & Cold with connectiom tube [16027],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10520,S.S.Flat Flange (Viking) (12914),S.S.Flat Flange (Viking) (12914),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10521,Saddle  [PVC] (4 X 3/4 ),Saddle  [PVC] (4 X 3/4 ),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10522,"Screw [Brass] (2"")","Screw [Brass] (2"")",70,,I,,,prem,,,,1,5,NULL,1042,1499,0
+10523,"Screw [Brass] (3"")","Screw [Brass] (3"")",70,,I,,,prem,,,,1,5,NULL,1042,1499,0
+10524,"Screw [Wooden] (2"")","Screw [Wooden] (2"")",70,,I,,,prem,,,,1,5,NULL,1042,1499|1504,0
+10525,"Screw 1 1/2"" (PTA)","Screw 1 1/2"" (PTA)",70,,I,,,prem,,,,1,5,NULL,1042,1499,0
+10526,"Screw 1"" (self threaded)","Screw 1"" (self threaded)",70,,I,,,prem,,,,1,5,NULL,1042,1499,0
+10527,"Screw 2"" (PTA)","Screw 2"" (PTA)",70,,I,,,prem,,,,1,5,NULL,1042,1499,0
+10528,"Screw 3/4"" (PTA)","Screw 3/4"" (PTA)",70,,I,,,prem,,,,1,5,NULL,1042,1499|1513,0
+10529,Seat Cover and Flush Fittings (C8016),Seat Cover and Flush Fittings (C8016),70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10530,Seat Cover and Flush Fittings (C8017),Seat Cover and Flush Fittings (C8017),70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10531,Seat Cover and Flush Fittings (C8300),Seat Cover and Flush Fittings (C8300),70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10532,Seat Cover and Flush Fittings (E8300),Seat Cover and Flush Fittings (E8300),70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10533,Seat Cover and Flush Fittings (E8300) [Off-White],Seat Cover and Flush Fittings (E8300) [Off-White],70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10534,Seat Cover Boltnut (Western Bathroom),Seat Cover Boltnut (Western Bathroom),70,,I,,,prem,,,,1,5,NULL,1126,1499|1502,0
+10535,Seat Cover Hush White (Cardiff) [C8112),Seat Cover Hush White (Cardiff) [C8112),70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10536,Seat cover white Durasheen Hush [E8292],Seat cover white Durasheen Hush [E8292],70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10537,Seat cover white Durasheen Hush [E8299],Seat cover white Durasheen Hush [E8299],70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10538,Seat cover white Roca Nexo(RE80N612461),Seat cover white Roca Nexo(RE80N612461),70,,I,,,prem,,,,1,5,NULL,1126,1499|1504,0
+10539,Seat cover white Solid  [E8094],Seat cover white Solid  [E8094],70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10540,Seat cover white Solid Plus Regular [E8306],Seat cover white Solid Plus Regular [E8306],70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10541,Seat cover white Solid Soft N [E83561C],Seat cover white Solid Soft N [E83561C],70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10542,Seat Covers White Standard(E8071),Seat Covers White Standard(E8071),70,,I,,,prem,,,,1,5,NULL,1126,1499,0
+10543,Shellac,Shellac,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10544,"Shoe [CPVC] (1 1/2"")","Shoe [CPVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10545,"Shoe [CPVC] (4"") || (110 mm)","Shoe [CPVC] (4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10546,"Shoe [PVC] (1"")","Shoe [PVC] (1"")",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10547,"Shoe [PVC] (4"")","Shoe [PVC] (4"")",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10548,"Shoe [PVC] (5"")","Shoe [PVC] (5"")",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10549,"Shoe [PVC] [1 1/4""] [40mm - 45 degree]","Shoe [PVC] [1 1/4""] [40mm - 45 degree]",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10550,"Shoe [SWR] Bend  (1  1/2"" ) || (50 mm)","Shoe [SWR] Bend  (1  1/2"" ) || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10551,"Shoe [SWR] Bend (10"" ) || (250 mm)","Shoe [SWR] Bend (10"" ) || (250 mm)",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10552,"Shoe [SWR] Bend (2  1/2"") || (75 mm)","Shoe [SWR] Bend (2  1/2"") || (75 mm)",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10553,"Shoe [SWR] Bend (2"")","Shoe [SWR] Bend (2"")",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10554,"Shoe [SWR] Bend (4"" ) || (110 mm)","Shoe [SWR] Bend (4"" ) || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10555,"Shoe [SWR] Bend (4"" ) || (110 mm) 45""","Shoe [SWR] Bend (4"" ) || (110 mm) 45""",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10556,"Shoe [UPVC] (1 "")","Shoe [UPVC] (1 "")",70,,I,,,prem,,,,1,5,NULL,1127,1499,0
+10557,Shower (Single Flow) [T9985A1],Shower (Single Flow) [T9985A1],70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10558,Shower Arm 16346 (Kohler),Shower Arm 16346 (Kohler),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10559,Shower Set,Shower Set,70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10560,Shower Square 300mm(Rain){T9992A1},Shower Square 300mm(Rain){T9992A1},70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10561,"Shower Square Arm 9"" [T9955A1","Shower Square Arm 9"" [T9955A1",70,,I,,,prem,,,,1,5,NULL,1106,1499|1502,0
+10562,Shower with Arm and Flange (Single Flow) [T9984A1],Shower with Arm and Flange (Single Flow) [T9984A1],70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10563,Single Flow Hand Shower (T9902A1),Single Flow Hand Shower (T9902A1),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10564,Single Flow hand Shower 80mm (T9981A),Single Flow hand Shower 80mm (T9981A),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10565,Single Flow Hand Shower with Arm  (T9984A1),Single Flow Hand Shower with Arm  (T9984A1),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10566,Single Flow Overhead Shower (T9901A),Single Flow Overhead Shower (T9901A),70,,I,,,prem,,,,1,5,NULL,1106,1499,0
+10567,Single Flow Overhead Shower [T9985A1],Single Flow Overhead Shower [T9985A1],70,,I,,,prem,,,,1,5,NULL,1106,1499|1502,0
+10568,Sink,Sink,70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10569,"Sink (Big Bowl ) 24""x 18"" Carysil","Sink (Big Bowl ) 24""x 18"" Carysil",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10570,"Sink (Butterfly) (24"" X 18"" X 8"")","Sink (Butterfly) (24"" X 18"" X 8"")",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10571,"Sink (Butterfly) (24"" X 18"" X 9"")","Sink (Butterfly) (24"" X 18"" X 9"")",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10572,"Sink [Carysil Vivaidi D100L _Black] (36"" X 18"" X 9"") [Corn Flake]","Sink [Carysil Vivaidi D100L _Black] (36"" X 18"" X 9"") [Corn Flake]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10573,"Sink [Carysil Vivaidi D100L] (36"" X 18"" X 9"") [Corn Flake]","Sink [Carysil Vivaidi D100L] (36"" X 18"" X 9"") [Corn Flake]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10574,"Sink [Carysil Waltz] (31"" X 20"" X 9"") [Corn Flake]","Sink [Carysil Waltz] (31"" X 20"" X 9"") [Corn Flake]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10575,"Sink [Carysil] (24"" X 18"" X 8"") [Corn Flake]","Sink [Carysil] (24"" X 18"" X 8"") [Corn Flake]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10576,"Sink [Carysil] (24"" X 18"" X 8"") [Nera]","Sink [Carysil] (24"" X 18"" X 8"") [Nera]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10577,"Sink [Carysil] (24"" X 18"" X 9"") (S S) [Elegance Matt]","Sink [Carysil] (24"" X 18"" X 9"") (S S) [Elegance Matt]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10578,"Sink [Carysil] (24"" X 18"" X 9"") [Elegance Satin]","Sink [Carysil] (24"" X 18"" X 9"") [Elegance Satin]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10579,"Sink [Carysil] (40"" X 20"" X 9"") [Corn Flake]","Sink [Carysil] (40"" X 20"" X 9"") [Corn Flake]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10580,"Sink [Vogue] (36"" X 20"" X 9"") [Satin]","Sink [Vogue] (36"" X 20"" X 9"") [Satin]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10581,"Sink [Vogue] (36"" X 20"" X 9"") [Stainless Steel]","Sink [Vogue] (36"" X 20"" X 9"") [Stainless Steel]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10582,Sink Cock (Agate) [G0621A1],Sink Cock (Agate) [G0621A1],70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10583,Sink Cock (Agate) [G3321A1],Sink Cock (Agate) [G3321A1],70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10584,Sink Cock (Edge) [G4836A1],Sink Cock (Edge) [G4836A1],70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10585,Sink Cock [Crust] (G3121A1),Sink Cock [Crust] (G3121A1),70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10586,Sink Cock [JD] (G0221A1),Sink Cock [JD] (G0221A1),70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10587,Sink Cock [Verve Deck Mounted] (T3920A1),Sink Cock [Verve Deck Mounted] (T3920A1),70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10588,Sink cock Aligners,Sink cock Aligners,70,,I,,,prem,,,,1,5,NULL,1129,1499,0
+10589,Sink Coupling,Sink Coupling,70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10590,"Sink Magic Salsa  18"" x 16"" Carysil","Sink Magic Salsa  18"" x 16"" Carysil",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10591,"Sink SS [Carysil] (24"" X 18"" X 9"") [Elegance Satin]","Sink SS [Carysil] (24"" X 18"" X 9"") [Elegance Satin]",70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10592,"Sink Waltz 780 Carysil ""Nera ""","Sink Waltz 780 Carysil ""Nera """,70,,I,,,prem,,,,1,5,NULL,1128,1499,0
+10593,Sink(Grain Board),Sink(Grain Board),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10594,Sintex Tank Cap,Sintex Tank Cap,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10595,Sliding Rail 600mm  [SHA-CHR-1197N],Sliding Rail 600mm  [SHA-CHR-1197N],70,,I,,,prem,,,,1,5,NULL,1130,1499,0
+10596,Slimline single Flush Tank (E8090) pink,Slimline single Flush Tank (E8090) pink,70,,I,,,prem,,,,1,5,NULL,1131,1499,0
+10597,Slimline Single Flush Tank White(E8090),Slimline Single Flush Tank White(E8090),70,,I,,,prem,,,,1,5,NULL,1131,1499,0
+10598,Solution  Q bond [1 Litre],Solution  Q bond [1 Litre],70,,I,,,prem,,,,1,5,NULL,1066,1499|1506|1514,0
+10599,Solution  Q bond [100 ml],Solution  Q bond [100 ml],70,,I,,,prem,,,,1,5,NULL,1066,1499|1506,0
+10600,Solution  Q bond [250 ml],Solution  Q bond [250 ml],70,,I,,,prem,,,,1,5,NULL,1066,1514|1499,0
+10601,Solution  Q bond [500 ml],Solution  Q bond [500 ml],70,,I,,,prem,,,,1,5,NULL,1066,1506|1499|1514,0
+10602,Solution [CPVC] (1 Litre),Solution [CPVC] (1 Litre),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10603,Solution [CPVC] (100 ml ),Solution [CPVC] (100 ml ),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10604,Solution [CPVC] (118 ml),Solution [CPVC] (118 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499|1514,0
+10605,Solution [CPVC] (237 ml),Solution [CPVC] (237 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10606,Solution [CPVC] (59 ml ),Solution [CPVC] (59 ml ),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10607,Solution [PVC] (1 Litre),Solution [PVC] (1 Litre),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10608,Solution [PVC] (100 ml),Solution [PVC] (100 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10609,Solution [PVC] (118 ml),Solution [PVC] (118 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10610,Solution [PVC] (50 ml),Solution [PVC] (50 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10611,Solution [PVC] (500 ml),Solution [PVC] (500 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10612,Solution [UPVC] (118 ml),Solution [UPVC] (118 ml),70,,I,,,prem,,,,1,5,NULL,1066,1499|1514,0
+10613,Solution [UPVC] (237 ml ) -Ashirvad,Solution [UPVC] (237 ml ) -Ashirvad,70,,I,,,prem,,,,1,5,NULL,1066,1499,0
+10614,Solution Q bond [1L],Solution Q bond [1L],70,,I,,,prem,,,,1,5,NULL,1066,1499|1506,0
+10615,Spanner  16 x17,Spanner  16 x17,70,,I,,,prem,,,,1,5,NULL,1132,1499,0
+10616,Spanner  24 x27,Spanner  24 x27,70,,I,,,prem,,,,1,5,NULL,1132,1499,0
+10617,"Special clamp (1 1/2"") [GI]","Special clamp (1 1/2"") [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10618,"Special Clamp (1 1/4"") (GI)","Special Clamp (1 1/4"") (GI)",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10619,"Special Clamp (1"") [GI]","Special Clamp (1"") [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10620,"Special clamp (1/2"") [GI]","Special clamp (1/2"") [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10621,"Special Clamp (2 1/2"" ) [GI]","Special Clamp (2 1/2"" ) [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10622,"Special clamp (2"") [GI]","Special clamp (2"") [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10623,"Special Clamp (3/4"") [GI]","Special Clamp (3/4"") [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10624,"Special Clamp (4"") [GI]","Special Clamp (4"") [GI]",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10625,Spic and Spam (tap Cleaning),Spic and Spam (tap Cleaning),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10626,"Spindel (1/2"")","Spindel (1/2"")",70,,I,,,prem,,,,1,5,NULL,1133,1499,0
+10627,Spindel [Parryware],Spindel [Parryware],70,,I,,,prem,,,,1,5,NULL,1133,1499,0
+10628,Spout [Crust Bath ] (G3127A1),Spout [Crust Bath ] (G3127A1),70,,I,,,prem,,,,1,5,NULL,1134,1499,0
+10629,Spout Deck Mounted (T3653A),Spout Deck Mounted (T3653A),70,,I,,,prem,,,,1,5,NULL,1134,1499,0
+10630,Spout in  cp bath  10385(Kohler),Spout in  cp bath  10385(Kohler),70,,I,,,prem,,,,1,5,NULL,1134,1499,0
+10631,Spout With Divertor (Alpha) [G2728A1],Spout With Divertor (Alpha) [G2728A1],70,,I,,,prem,,,,1,5,NULL,1134,1499,0
+10632,SS Flush Tank White,SS Flush Tank White,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10633,Standard Shower Arm (G0132A),Standard Shower Arm (G0132A),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10634,Stop Cock  concealed  3/4 Euclid( G2362A1),Stop Cock  concealed  3/4 Euclid( G2362A1),70,,I,,,prem,,,,1,5,NULL,1135,1499,0
+10635,Stop Cock  concealed  Upper trim  Jade(G0251A1),Stop Cock  concealed  Upper trim  Jade(G0251A1),70,,I,,,prem,,,,1,5,NULL,1135,1499,0
+10636,Sumo fisher bolt set [C8152],Sumo fisher bolt set [C8152],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10637,Tag [PVC],Tag [PVC],70,,I,,,prem,,,,1,5,NULL,,1499|1504,0
+10638,Tank (Aqua) 1000 Lit.,Tank (Aqua) 1000 Lit.,70,,I,,,prem,,,,1,5,NULL,1136,1499,0
+10639,Tank (Syntex) 1000 Lit.,Tank (Syntex) 1000 Lit.,70,,I,,,prem,,,,1,5,NULL,1136,1499,0
+10640,Tank (Syntex) 1500 Lit.,Tank (Syntex) 1500 Lit.,70,,I,,,prem,,,,1,5,NULL,1136,1499,0
+10641,Tank (Syntex) 500 Lit.,Tank (Syntex) 500 Lit.,70,,I,,,prem,,,,1,5,NULL,1136,1499,0
+10642,Tank (Syntex) 750 Lit.,Tank (Syntex) 750 Lit.,70,,I,,,prem,,,,1,5,NULL,1136,1499,0
+10643,Tank Bracket,Tank Bracket,70,,I,,,prem,,,,1,5,NULL,1137,1502,0
+10644,"Tank Nipple (1 1/2"")","Tank Nipple (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1137,1499,0
+10645,"Tank Nipple (1 1/2"") (UPVC)","Tank Nipple (1 1/2"") (UPVC)",70,,I,,,prem,,,,1,5,NULL,1137,1499,0
+10646,"Tank Nipple (1"")","Tank Nipple (1"")",70,,I,,,prem,,,,1,5,NULL,1137,1499,0
+10647,"Tank Nipple (1"") (UPVC)","Tank Nipple (1"") (UPVC)",70,,I,,,prem,,,,1,5,NULL,1137,1499,0
+10648,Tap (Two Way),Tap (Two Way),70,,I,,,prem,,,,1,5,NULL,1138,1499,0
+10649,"Tap [PVC] ( 1/2 "" )","Tap [PVC] ( 1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1138,1499,0
+10650,Tap [PVC] ( Long body),Tap [PVC] ( Long body),70,,I,,,prem,,,,1,5,NULL,1138,1499,0
+10651,"Tap 1"" (ABRO)","Tap 1"" (ABRO)",70,,I,,,prem,,,,1,5,NULL,1138,1499,0
+10652,Tap Washer,Tap Washer,70,,I,,,prem,,,,1,5,NULL,1092,1499,0
+10653,"Tee  [CPVC] (1 1/2"") || (50 mm)","Tee  [CPVC] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10654,"Tee  [CPVC] (1 1/4"") || (32 mm)","Tee  [CPVC] (1 1/4"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10655,"Tee  [CPVC] (1"") || (32 mm)","Tee  [CPVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10656,"Tee  [CPVC] (4"") || (110 mm)","Tee  [CPVC] (4"") || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10657,Tee  [PVC] ( 1 1/2 x 1) ||  (50 x 32 mm),Tee  [PVC] ( 1 1/2 x 1) ||  (50 x 32 mm),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10658,Tee  [PVC] ( 1 1/4 x 1) ||  (40 x 32 mm),Tee  [PVC] ( 1 1/4 x 1) ||  (40 x 32 mm),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10659,Tee  [PVC] ( 2 x 1 1/2 ) ||  (63 x  50 mm),Tee  [PVC] ( 2 x 1 1/2 ) ||  (63 x  50 mm),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10660,Tee  [PVC] ( 2 x 1) ||  (63 x 32 mm),Tee  [PVC] ( 2 x 1) ||  (63 x 32 mm),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10661,"Tee  [PVC] (1 1/2"") || (50 mm)","Tee  [PVC] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10662,"Tee  [PVC] (1"") || (32 mm)","Tee  [PVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10663,"Tee  [PVC] (1/2"") || (13 mm)","Tee  [PVC] (1/2"") || (13 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10664,"Tee  [PVC] (1/2"") || (32 mm)","Tee  [PVC] (1/2"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10665,"Tee  [PVC] (2"") || (63 mm)","Tee  [PVC] (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10666,"Tee  [UPVC] (1"") || (32 mm)","Tee  [UPVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10667,Tee  Red  [PVC] ( 2 1/2 ) ||  (63 x 32 mm),Tee  Red  [PVC] ( 2 1/2 ) ||  (63 x 32 mm),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10668,Tee (1 x  3/4) [Pasted],Tee (1 x  3/4) [Pasted],70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10669,"Tee (10 KG) [PVC- H] (2"" ) || (63 mm)","Tee (10 KG) [PVC- H] (2"" ) || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10670,Tee (h)[PVC] ( 1 1/2),Tee (h)[PVC] ( 1 1/2),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10671,Tee (h)[PVC] (2  X 1 ),Tee (h)[PVC] (2  X 1 ),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10672,"Tee [CPVC] (1 1/2"") || (50 mm)","Tee [CPVC] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10673,"Tee [CPVC] (1"") [ASH]","Tee [CPVC] (1"") [ASH]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10674,Tee [CPVC] (3/4  x  1/2) [Brass Thread],Tee [CPVC] (3/4  x  1/2) [Brass Thread],70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10675,"Tee [CPVC] (3/4"")","Tee [CPVC] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10676,"Tee [GI]  (1 1/2"" )","Tee [GI]  (1 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10677,"Tee [GI]  (1 1/4"" )","Tee [GI]  (1 1/4"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10678,"Tee [GI]  (1"" X 1/2"" )","Tee [GI]  (1"" X 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10679,"Tee [GI]  (1/2"" )","Tee [GI]  (1/2"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10680,"Tee [GI]  (3/4"" )","Tee [GI]  (3/4"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10681,"Tee [GI]  (3/4"" X 1/2"" )","Tee [GI]  (3/4"" X 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10682,"Tee [GI] (1"" )","Tee [GI] (1"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10683,"Tee [Plain]  (4"" ) || (110 mm) (Door)","Tee [Plain]  (4"" ) || (110 mm) (Door)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10684,"Tee [PVC]  (1"" X 1/2"" )","Tee [PVC]  (1"" X 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10685,"Tee [PVC]  (4"" ) || (110 mm)","Tee [PVC]  (4"" ) || (110 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10686,"Tee [PVC]  (5"" ) || (140 mm)","Tee [PVC]  (5"" ) || (140 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10687,"Tee [PVC] (1  1/2"") || (50 mm)","Tee [PVC] (1  1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10688,"Tee [PVC] (1 1/4"") [40mm]","Tee [PVC] (1 1/4"") [40mm]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10689,"Tee [PVC] (1"" x 1/2) [Brass Thread]","Tee [PVC] (1"" x 1/2) [Brass Thread]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10690,"Tee [PVC] (1"" X 3/4"")","Tee [PVC] (1"" X 3/4"")",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10691,"Tee [PVC] (1"") || (32 mm)","Tee [PVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10692,"Tee [PVC] (1/2"") || (32 mm)","Tee [PVC] (1/2"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10693,Tee [PVC] (11/2 x 1 ),Tee [PVC] (11/2 x 1 ),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10694,"Tee [PVC] (2 1/2"" X 1 1/2"") [75 X 50]","Tee [PVC] (2 1/2"" X 1 1/2"") [75 X 50]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10695,"Tee [PVC] (2 1/2"" X 1"") [75 X 32 mm]","Tee [PVC] (2 1/2"" X 1"") [75 X 32 mm]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10696,"Tee [PVC] (2 1/2"") [75mm]","Tee [PVC] (2 1/2"") [75mm]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10697,"Tee [PVC] (2"") [10 kg] (63 mm)","Tee [PVC] (2"") [10 kg] (63 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10698,"Tee [PVC] (2"") || (63 mm)","Tee [PVC] (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10699,"Tee [PVC] (3/4"" )","Tee [PVC] (3/4"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10700,Tee [Reducing]  (32 X 25),Tee [Reducing]  (32 X 25),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10701,"Tee [SWR]  (1 1/2"" ) || (50 mm) (Door)","Tee [SWR]  (1 1/2"" ) || (50 mm) (Door)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10702,"Tee [SWR]  (2 1/2"" ) || (75 mm) (Door)","Tee [SWR]  (2 1/2"" ) || (75 mm) (Door)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10703,"Tee [SWR]  (2 1/2"" ) || (75 mm) [Plain]","Tee [SWR]  (2 1/2"" ) || (75 mm) [Plain]",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10704,"Tee [SWR]  (2"" ) || (63 mm) (Door)","Tee [SWR]  (2"" ) || (63 mm) (Door)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10705,"Tee [SWR]  (4"" ) || (110 mm) (Cross)","Tee [SWR]  (4"" ) || (110 mm) (Cross)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10706,"Tee [SWR]  (4"" ) || (110 mm) (Door)","Tee [SWR]  (4"" ) || (110 mm) (Door)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10707,"Tee [SWR]  (4"" ) || (110 mm) (Plain)","Tee [SWR]  (4"" ) || (110 mm) (Plain)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10708,"Tee [UPVC]  (1"" X 1/2"" )","Tee [UPVC]  (1"" X 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10709,"Tee [UPVC] (1 1/2"") || (50 mm)","Tee [UPVC] (1 1/2"") || (50 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10710,"Tee [UPVC] (1"") || (32 mm)","Tee [UPVC] (1"") || (32 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10711,"Tee [UPVC] (2"") || (63 mm)","Tee [UPVC] (2"") || (63 mm)",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10712,"Tee 15kg (11/2"")","Tee 15kg (11/2"")",70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10713,Tee Red  [PVC] ( 2 1/2 ) ||  (63 x 32 mm),Tee Red  [PVC] ( 2 1/2 ) ||  (63 x 32 mm),70,,I,,,prem,,,,1,5,NULL,1139,1499,0
+10714,Teflon Tape,Teflon Tape,70,,I,,,prem,,,,1,5,NULL,,1499,0
+10715,Thread Ball,Thread Ball,70,,I,,,prem,,,,1,5,NULL,,1499|1504,0
+10716,Threaded Rod (8mm X 7ft),Threaded Rod (8mm X 7ft),70,,I,,,prem,,,,1,5,NULL,1140,1499,0
+10717,Thrift Pan (C0116),Thrift Pan (C0116),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10718,Tie,Tie,70,,I,,,prem,,,,1,5,NULL,,1499|1504,0
+10719,Tie [PVC] [300mm],Tie [PVC] [300mm],70,,I,,,prem,,,,1,5,NULL,1141,1504,0
+10720,Tube Level Hose,Tube Level Hose,70,,I,,,prem,,,,1,5,NULL,,1505,0
+10721,"U clamp (1 1/2"" )","U clamp (1 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10722,"U clamp (1"" )","U clamp (1"" )",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10723,"U clamp (2 1/2"" )","U clamp (2 1/2"" )",70,,I,,,prem,,,,1,5,NULL,1041,1499|1500,0
+10724,"U clamp (2"" )","U clamp (2"" )",70,,I,,,prem,,,,1,5,NULL,1041,1500|1499,0
+10725,"U clamp (4"")","U clamp (4"")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10726,"U clamp (6"")","U clamp (6"")",70,,I,,,prem,,,,1,5,NULL,1041,1499,0
+10727,"U clamp with washer  [1 1/2"" & 2""]","U clamp with washer  [1 1/2"" & 2""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10728,"U clamp with washer  [1"" & 1 1/2"" & 2"" & 2 1/2 & 4]","U clamp with washer  [1"" & 1 1/2"" & 2"" & 2 1/2 & 4]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10729,"U clamp with washer  [1""]","U clamp with washer  [1""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10730,"U clamp with washer  [2 1/2"" & 1 1/2""]","U clamp with washer  [2 1/2"" & 1 1/2""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10731,"U clamp with washer  [2 1/2""]","U clamp with washer  [2 1/2""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501|1499,0
+10732,"U clamp with washer  [4"" & 2 1/2"" & 1""]","U clamp with washer  [4"" & 2 1/2"" & 1""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10733,"U clamp with washer  [4"" & 2 1/2""]","U clamp with washer  [4"" & 2 1/2""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10734,"U clamp with washer  [4"" & 2"" & 1""]","U clamp with washer  [4"" & 2"" & 1""]",70,,I,,,prem,,,,1,5,NULL,1041,1500|1501,0
+10735,"Union [CPVC 1""]","Union [CPVC 1""]",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10736,"Union [CPVC 3/4""]","Union [CPVC 3/4""]",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10737,"Union [CPVC] (1 1/2"")","Union [CPVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10738,"Union [GI] ( 1/2 "" )","Union [GI] ( 1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10739,"Union [GI] (3/4"")","Union [GI] (3/4"")",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10740,"Union [MS] ( 1/2 "" )","Union [MS] ( 1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10741,"Union [PVC] (1"" )","Union [PVC] (1"" )",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10742,"Union [UPVC 1""]","Union [UPVC 1""]",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10743,"Union [UPVC] (1 1/2"")","Union [UPVC] (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10744,"Union Washer ( 1/2 "" )","Union Washer ( 1/2 "" )",70,,I,,,prem,,,,1,5,NULL,1142,1499,0
+10745,Uppar Part 16316 (Kohler),Uppar Part 16316 (Kohler),70,,I,,,prem,,,,1,5,NULL,,1499,0
+10746,Urinal Spreader (Niagara) [E8113],Urinal Spreader (Niagara) [E8113],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10747,Urinal White (Niagara) [C0579],Urinal White (Niagara) [C0579],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10748,Net (2 1/2 x 3 1/2),Net (2 1/2 x 3 1/2),70,,I,,,prem,,,,1,5,NULL,1143,1499,0
+10749,"Valve [Brass] (1"")NRI","Valve [Brass] (1"")NRI",70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10750,Valve [Brass] (1/2),Valve [Brass] (1/2),70,,I,,,prem,,,,1,5,NULL,1085,1499,0
+10751,Valve Assembly [Flange type],Valve Assembly [Flange type],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10752,Verve Rimless wallhung closet- white[C02891C],Verve Rimless wallhung closet- white[C02891C],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10753,Verve wall hung white [C0295],Verve wall hung white [C0295],70,,I,,,prem,,,,1,5,NULL,,1499,0
+10754,V-Guard (VBCDM) 2.0 Hp Compressor Pump TW600,V-Guard (VBCDM) 2.0 Hp Compressor Pump TW600,70,,I,,,prem,,,,1,5,NULL,1144,1499,0
+10755,"Wall Cutter Blade 5""","Wall Cutter Blade 5""",70,,I,,,prem,,,,1,5,NULL,1053,1499,0
+10756,Wall Cutting Machine,Wall Cutting Machine,70,,I,,,prem,,,,1,5,NULL,1145,1499,0
+10757,Wall Cutting Machine  Key,Wall Cutting Machine  Key,70,,I,,,prem,,,,1,5,NULL,1145,1499,0
+10758,Wall Hung  Cistern Lid Fittings W [Flair]  [C0768],Wall Hung  Cistern Lid Fittings W [Flair]  [C0768],70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10759,Wall Hung Basin White [Duke] (C8892),Wall Hung Basin White [Duke] (C8892),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10760,Wall Hung Basin White Inslim (C882646),Wall Hung Basin White Inslim (C882646),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10761,Wall Hung Basin White Verve Nano (C0433),Wall Hung Basin White Verve Nano (C0433),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10762,Wall Hung Closet White [Flair] (C0210),Wall Hung Closet White [Flair] (C0210),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10763,Wall Hung Closet White Roca Nexo (RS346640460),Wall Hung Closet White Roca Nexo (RS346640460),70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10764,Wall Hung Extended (17662)Odeon Kohle,Wall Hung Extended (17662)Odeon Kohle,70,,I,,,prem,,,,1,5,NULL,1083,1499,0
+10765,"Wall Mixer  Adaptor (3/4""x 1/2"") (CPVC)","Wall Mixer  Adaptor (3/4""x 1/2"") (CPVC)",70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10766,Wall Mixer  Agate 3 in 1 (G0617A),Wall Mixer  Agate 3 in 1 (G0617A),70,,I,,,prem,,,,1,5,NULL,1146,1499|1504,0
+10767,Wall Mixer 3 in 1 [Ctaret] [T4617A1],Wall Mixer 3 in 1 [Ctaret] [T4617A1],70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10768,"Wall Mixer Three in One Adaptor (3/4"") [CPVC]","Wall Mixer Three in One Adaptor (3/4"") [CPVC]",70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10769,Wall Mixer Three in One Parry Alpha (G2717A1),Wall Mixer Three in One Parry Alpha (G2717A1),70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10770,Wall Mixer Three in One Parry Jade (G0217A1),Wall Mixer Three in One Parry Jade (G0217A1),70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10771,Wall Mixer Two in One Parry Jade (G0216A1),Wall Mixer Two in One Parry Jade (G0216A1),70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10772,Wall Mixer Two in One Parry Jade (G022EA1),Wall Mixer Two in One Parry Jade (G022EA1),70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10773,Wall Mixer Washer,Wall Mixer Washer,70,,I,,,prem,,,,1,5,NULL,1146,1499,0
+10774,Wash Basin  (Flair W/B 500mm White)[C0499],Wash Basin  (Flair W/B 500mm White)[C0499],70,,I,,,prem,,,,1,5,NULL,1117,1499|1502,0
+10775,Wash Basin  (Poppy Bowl Basin White)[C04851C],Wash Basin  (Poppy Bowl Basin White)[C04851C],70,,I,,,prem,,,,1,5,NULL,1117,1499|1502,0
+10776,Wash basin - GE112K-OO Struktura,Wash basin - GE112K-OO Struktura,70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10777,Wash Basin  Luna Bowl White (C848K1C),Wash Basin  Luna Bowl White (C848K1C),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10778,Wash Basin  Roca Diverta 620*440  (RS327115000),Wash Basin  Roca Diverta 620*440  (RS327115000),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10779,Wash Basin  Venice (C841L1C),Wash Basin  Venice (C841L1C),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10780,Wash Basin (Parry Flair) (18 x13),Wash Basin (Parry Flair) (18 x13),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10781,Wash Basin (Parry),Wash Basin (Parry),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10782,Wash Basin (Wall hung) [C0476- Cascade Classic White],Wash Basin (Wall hung) [C0476- Cascade Classic White],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10783,Wash Basin [Indus] (500 X 400 mm) (C0471),Wash Basin [Indus] (500 X 400 mm) (C0471),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10784,Wash Basin [Kolar] Wall Hung (450 X 325 mm) (C0490),Wash Basin [Kolar] Wall Hung (450 X 325 mm) (C0490),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10785,Wash Basin [Nubra] Wallhung White (20 x 16) [C042C1C],Wash Basin [Nubra] Wallhung White (20 x 16) [C042C1C],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10786,Wash Basin [Tapti] (450 X 325 mm) (C0490),Wash Basin [Tapti] (450 X 325 mm) (C0490),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10787,Wash Basin [Tapti] (450 X 325 mm) (C0490) [Off-White],Wash Basin [Tapti] (450 X 325 mm) (C0490) [Off-White],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10788,Wash Basin [Tapti] (450 X 325 mm) Pink,Wash Basin [Tapti] (450 X 325 mm) Pink,70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10789,Wash Basin 580 x450mm Cardiff (C0481),Wash Basin 580 x450mm Cardiff (C0481),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10790,Wash Basin Bowl Mirror with Stand,Wash Basin Bowl Mirror with Stand,70,,I,,,prem,,,,1,5,NULL,1117,1502,0
+10791,"Wash Basin Criasal (24 x18) (2"" x 1 1/2"")","Wash Basin Criasal (24 x18) (2"" x 1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10792,Wash Basin Dark Green (Oxford),Wash Basin Dark Green (Oxford),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10793,Wash Basin Deep Teal [Vallure] [C0462],Wash Basin Deep Teal [Vallure] [C0462],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10794,Wash Basin Mirror,Wash Basin Mirror,70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10795,Wash Basin Semi Pedestal -White (Roca Nexo) [RS337611000],Wash Basin Semi Pedestal -White (Roca Nexo) [RS337611000],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10796,Wash Basin Tap [J Type],Wash Basin Tap [J Type],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10797,Wash Basin White (Roca Nexo) [RS327642000],Wash Basin White (Roca Nexo) [RS327642000],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10798,Wash Basin White [Vallure] [C0462],Wash Basin White [Vallure] [C0462],70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10799,Wash Basin with Full Pedestal White Qube-x(C847N),Wash Basin with Full Pedestal White Qube-x(C847N),70,,I,,,prem,,,,1,5,NULL,1117,1499,0
+10800,Washer (65gm),Washer (65gm),70,,I,,,prem,,,,1,5,NULL,1147,1499,0
+10801,Washer [Copper],Washer [Copper],70,,I,,,prem,,,,1,5,NULL,1147,1499|1504,0
+10802,"Washer Mouth 4"" (Floor Mount)","Washer Mouth 4"" (Floor Mount)",70,,I,,,prem,,,,1,5,NULL,1147,1499,0
+10803,Washer with bolt and nut(W/M closet Tank,Washer with bolt and nut(W/M closet Tank,70,,I,,,prem,,,,1,5,NULL,1147,1499|1502,0
+10804,Washing Machine  Adoptor,Washing Machine  Adoptor,70,,I,,,prem,,,,1,5,NULL,1148,1499,0
+10805,Washing Machine S.S.Flat flange (Viking ) (12914),Washing Machine S.S.Flat flange (Viking ) (12914),70,,I,,,prem,,,,1,5,NULL,1148,1499,0
+10806,Washing Machine Tap,Washing Machine Tap,70,,I,,,prem,,,,1,5,NULL,1148,1499,0
+10807,Washing Machine Tap (Viking Nozzle Valve Tri) (10730),Washing Machine Tap (Viking Nozzle Valve Tri) (10730),70,,I,,,prem,,,,1,5,NULL,1148,1499,0
+10808,Washing Machine Tube and Nib,Washing Machine Tube and Nib,70,,I,,,prem,,,,1,5,NULL,1148,1499,0
+10809,"Waste Coupling (1 1/4"")","Waste Coupling (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10810,Waste Coupling [45432],Waste Coupling [45432],70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10811,Waste Coupling [T9911A1],Waste Coupling [T9911A1],70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10812,Waste Coupling full thread,Waste Coupling full thread,70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10813,Waste Coupling Half  thread,Waste Coupling Half  thread,70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10814,Waste Coupling Pop Up (T9953A1),Waste Coupling Pop Up (T9953A1),70,,I,,,prem,,,,1,5,NULL,1043,1499,0
+10815,"Waste Ose (1 1/2"")","Waste Ose (1 1/2"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10816,"Waste Ose (1 1/4"")","Waste Ose (1 1/4"")",70,,I,,,prem,,,,1,5,NULL,1107,1499,0
+10817,Waste Pipe (Viking 32mm) [4972],Waste Pipe (Viking 32mm) [4972],70,,I,,,prem,,,,1,5,NULL,1052,1499,0
+10818,Water Heaters 5Star 6L (parryware)[C500699],Water Heaters 5Star 6L (parryware)[C500699],70,,I,,,prem,,,,1,5,NULL,1149,1499,0
+10819,Welding Mesh (5 X 12),Welding Mesh (5 X 12),70,,I,,,prem,,,,1,5,NULL,1150,1499,0
+10820,White Cement,White Cement,70,,I,,,prem,,,,1,5,NULL,,1500,0
+10821,White Cement (5 Kg),White Cement (5 Kg),70,,I,,,prem,,,,1,5,NULL,,1500|1504,0
+10822,"Y (1 1/2"") [PVC]","Y (1 1/2"") [PVC]",70,,I,,,prem,,,,1,5,NULL,1151,1499,0
+10823,"Y (2 1/2"") [PVC]","Y (2 1/2"") [PVC]",70,,I,,,prem,,,,1,5,NULL,1151,1499,0
+10824,"Y (2 1/2"") [PVC] (Door)","Y (2 1/2"") [PVC] (Door)",70,,I,,,prem,,,,1,5,NULL,1151,1499,0
+10825,"Y (4 "") [PVC]","Y (4 "") [PVC]",70,,I,,,prem,,,,1,5,NULL,1151,1499,0
+10826,"Y (4 "") [PVC] (Door)","Y (4 "") [PVC] (Door)",70,,I,,,prem,,,,1,5,NULL,1151,1499,0
+10827,Item_1,test Description [0 ] [Some Manufacture] [565654545],77,,I,399,,Chales,,,,25,6,565654545,1152,,23
+10828,Item_2,fsdf,78,1516,I,,,Chales,,,,25,6,sdf,1153,,56
