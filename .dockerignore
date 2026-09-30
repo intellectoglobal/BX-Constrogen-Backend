@@ -1,0 +1,39 @@
+# Local environments and secrets
+env/
+venv/
+.venv/
+ENV/
+**/.env
+
+# Version-control and local tooling
+.git/
+.github/
+.kilo/
+.idea/
+
+# Python caches and test/build output
+__pycache__/
+**/__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.coverage*
+htmlcov/
+build/
+dist/
+*.egg-info/
+
+# Runtime/generated data
+media/
+staticfiles/
+db.sqlite3
+
+# Local/editor files
+*.log
+.DS_Store
+Thumbs.db
+
+.env
+**/env/
+**/venv/
+**/.venv/
