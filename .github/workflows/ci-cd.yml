@@ -7,8 +7,8 @@ on:
       - development
 
 env:
-  REGISTRY: ghcr.io
-  IMAGE_NAME: ${{ github.repository }}
+  REGISTRY: docker.io
+  IMAGE_NAME: ${{ secrets.DOCKERHUB_USERNAME }}/bx-constrogen-backend
 
 jobs:
   build:
@@ -26,18 +26,19 @@ jobs:
         restore-keys: |
           ${{ runner.os }}-pip-
 
-    - name: Log in to the Container registry
+    - name: Log in to Docker Hub
       uses: docker/login-action@v2
       with:
-        registry: ${{ env.REGISTRY }}
-        username: ${{ github.actor }}
-        password: ${{ secrets.GITHUB_TOKEN }}
+        username: ${{ secrets.DOCKERHUB_USERNAME }}
+        password: ${{ secrets.DOCKERHUB_TOKEN }}
 
     - name: Extract metadata (tags, labels) for Docker
       id: meta
       uses: docker/metadata-action@v4
       with:
-        images: ${{ env.REGISTRY }}/${{ env.IMAGE_NAME }}
+        images: ${{ env.IMAGE_NAME }}
+        tags: |
+          type=raw,value=${{ github.ref_name == 'main' && 'prod' || 'dev' }}
 
     - name: Set up QEMU
       uses: docker/setup-qemu-action@v2
@@ -47,7 +48,6 @@ jobs:
 
     - name: Build and push Docker image
       uses: docker/build-push-action@v3
-      id: docker_build
       with:
         context: .
         file: ${{ github.ref_name == 'main' && 'Dockerfile' || 'Dockerfile.dev' }}
@@ -76,26 +76,27 @@ jobs:
     - name: Deploy Docker Image to EC2
       run: |
         ssh ${{ secrets.EC2_USER }}@${{ secrets.EC2_HOST }} << EOF
-          docker login ghcr.io -u ${{ github.actor }} -p ${{ secrets.GITHUB_TOKEN }}
+          docker login -u ${{ secrets.DOCKERHUB_USERNAME }} -p ${{ secrets.DOCKERHUB_TOKEN }}
 
-          if [ "${{ github.ref_name }}" = "main" ]; then
+          TAG=${{ github.ref_name == 'main' && 'prod' || 'dev' }}
+          IMAGE=${{ env.IMAGE_NAME }}:\$TAG
+
+          if [ "\$TAG" = "prod" ]; then
             echo "Deploying to production..."
 
-            docker stop erp_api || true && docker rm erp_api || true
-
-            docker rmi ${{ secrets.PROD_DOCKER_IMAGE }} || true
-
-            docker pull ${{ secrets.PROD_DOCKER_IMAGE }}
+            docker stop bx-backend || true && docker rm bx-backend || true
+            docker rmi \$IMAGE || true
+            docker pull \$IMAGE
 
             docker run -d \
-              --name erp_api \
+              --name bx-backend \
               -p 8000:8000 \
               -e ENVIRONMENT="prod" \
               -e POSTGRES_HOST="${{ secrets.EC2_HOST }}" \
-              -e POSTGRES_USER="${{ secrets.POSTGRES_PROD_USER }}" \
-              -e POSTGRES_PASSWORD="${{ secrets.POSTGRES_PROD_PASSWORD }}" \
+              -e POSTGRES_USER="${{ secrets.POSTGRES_USER }}" \
+              -e POSTGRES_PASSWORD="${{ secrets.POSTGRES_PASSWORD }}" \
               -e POSTGRES_DB="${{ secrets.POSTGRES_PROD_DB }}" \
-              -e POSTGRES_PORT="${{ secrets.POSTGRES_PROD_PORT }}" \
+              -e POSTGRES_PORT="${{ secrets.POSTGRES_PORT }}" \
               -e SECRET_KEY="${{ secrets.SECRET_KEY }}" \
               -e JWT_SIGNING_KEY="${{ secrets.JWT_SIGNING_KEY }}" \
               -e OTP_SECRET="${{ secrets.OTP_SECRET }}" \
@@ -115,25 +116,23 @@ jobs:
               -e REDIS_PORT="${{ secrets.REDIS_PORT }}" \
               -e REDIS_USER="${{ secrets.REDIS_USER }}" \
               -e REDIS_PWD="${{ secrets.REDIS_PWD }}" \
-              ${{ secrets.PROD_DOCKER_IMAGE }}
+              \$IMAGE
           else
             echo "Deploying to development..."
 
-            docker stop erp_api_dev || true && docker rm erp_api_dev || true
-
-            docker rmi ${{ secrets.DEV_DOCKER_IMAGE }} || true
-
-            docker pull ${{ secrets.DEV_DOCKER_IMAGE }}
+            docker stop bx-backend_dev || true && docker rm bx-backend_dev || true
+            docker rmi \$IMAGE || true
+            docker pull \$IMAGE
 
             docker run -d \
-              --name erp_api_dev \
-              -p 8080:8080 \
+              --name bx-backend_dev \
+              -p 8001:8080 \
               -e ENVIRONMENT="dev" \
               -e POSTGRES_HOST="${{ secrets.EC2_HOST }}" \
-              -e POSTGRES_USER="${{ secrets.POSTGRES_DEV_USER }}" \
-              -e POSTGRES_PASSWORD="${{ secrets.POSTGRES_DEV_PASSWORD }}" \
+              -e POSTGRES_USER="${{ secrets.POSTGRES_USER }}" \
+              -e POSTGRES_PASSWORD="${{ secrets.POSTGRES_PASSWORD }}" \
               -e POSTGRES_DB="${{ secrets.POSTGRES_DEV_DB }}" \
-              -e POSTGRES_PORT="${{ secrets.POSTGRES_DEV_PORT }}" \
+              -e POSTGRES_PORT="${{ secrets.POSTGRES_PORT }}" \
               -e SECRET_KEY="${{ secrets.SECRET_KEY }}" \
               -e JWT_SIGNING_KEY="${{ secrets.JWT_SIGNING_KEY }}" \
               -e OTP_SECRET="${{ secrets.OTP_SECRET }}" \
@@ -153,6 +152,6 @@ jobs:
               -e REDIS_PORT="${{ secrets.REDIS_PORT }}" \
               -e REDIS_USER="${{ secrets.REDIS_USER }}" \
               -e REDIS_PWD="${{ secrets.REDIS_PWD }}" \
-              ${{ secrets.DEV_DOCKER_IMAGE }}
+              \$IMAGE
           fi
         EOF
