@@ -1542,7 +1542,19 @@ class ContractVoucherViewSet(viewsets.ModelViewSet):
         year = request.GET.get("year")
         month = request.GET.get("month")
 
-        if year and month:
+        contractor_name = request.GET.get("contractor_name")
+        from_date = request.GET.get("from_date")
+        to_date = request.GET.get("to_date")
+
+        if contractor_name:
+            qrySet = qrySet.filter(contractor_id__name__iexact=contractor_name)
+
+        if from_date or to_date:
+            if from_date:
+                qrySet = qrySet.filter(contract_voucher_dt__gte=from_date)
+            if to_date:
+                qrySet = qrySet.filter(contract_voucher_dt__lte=to_date)
+        elif year and month:
             qrySet = qrySet.filter(
                 contract_voucher_dt__year=year,
                 contract_voucher_dt__month=month
@@ -1896,6 +1908,17 @@ class ContractorPaymentAllViewSet(viewsets.ModelViewSet):
             company_id=companyID,
             client_id=clientID
         ).exclude(invoice_status='P')
+
+        contractor_name = request.GET.get("contractor_name")
+        from_date = request.GET.get("from_date")
+        to_date = request.GET.get("to_date")
+
+        if contractor_name:
+            querySet = querySet.filter(contractor_id__name__iexact=contractor_name)
+        if from_date:
+            querySet = querySet.filter(invoice_date__gte=from_date)
+        if to_date:
+            querySet = querySet.filter(invoice_date__lte=to_date)
 
         # print('queryset of contractorinvoice ::', querySet)
 
