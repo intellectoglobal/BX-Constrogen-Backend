@@ -532,6 +532,17 @@ class VendorPaymentAllViewSet(viewsets.ModelViewSet):
             client_id=clientID
         ).exclude(invoice_status='P')
 
+        vendor_name = request.GET.get("vendor_name")
+        from_date = request.GET.get("from_date")
+        to_date = request.GET.get("to_date")
+
+        if vendor_name:
+            querySet = querySet.filter(vend_key__name__iexact=vendor_name)
+        if from_date:
+            querySet = querySet.filter(invoicedate__gte=from_date)
+        if to_date:
+            querySet = querySet.filter(invoicedate__lte=to_date)
+
         if request.GET.get("without_pagination", False) and int(request.GET.get("without_pagination")) == 1:
             serializer = PayVendorInvoiceSerializer(querySet, many=True)
             return Response(serializer.data)
@@ -748,19 +759,30 @@ class VendorVoucherViewSet(viewsets.ModelViewSet):
             client_id=clientID
         ).order_by('-key')
 
+        year = request.GET.get("year")
+        month = request.GET.get("month")
+
+        vendor_name = request.GET.get("vendor_name")
+        from_date = request.GET.get("from_date")
+        to_date = request.GET.get("to_date")
+
+        if vendor_name:
+            qrySet = qrySet.filter(vendor_id__name__iexact=vendor_name)
+
+        if from_date or to_date:
+            if from_date:
+                qrySet = qrySet.filter(vendor_voucher_dt__gte=from_date)
+            if to_date:
+                qrySet = qrySet.filter(vendor_voucher_dt__lte=to_date)
+        elif year and month:
+            qrySet = qrySet.filter(
+                vendor_voucher_dt__year=year,
+                vendor_voucher_dt__month=month
+            )
+
         if request.GET.get("without_pagination", False) and int(request.GET.get("without_pagination")) == 1:
             serializer = VendorVoucherHdrListSerializer(qrySet, many=True)
             return Response(serializer.data)
-
-        if request.GET.get("year") and request.GET.get("month"):
-            year = request.GET.get("year")
-            month = request.GET.get("month")
-            qrySet = self.queryset.filter(
-                company_id=companyID,
-                client_id=clientID,
-                vendor_voucher_dt__year = year,
-                vendor_voucher_dt__month = month
-            ).order_by('-key')
 
         page = self.paginate_queryset(qrySet)
         if page is not None:

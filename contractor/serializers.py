@@ -220,7 +220,7 @@ class ContractVoucherDtlGetSerializer(serializers.ModelSerializer):
 
     def get_pending_amount(self, obj):
         invoice_amount = obj.invoice_id.invoice_amount if obj.invoice_id.invoice_amount is not None else 0.0
-        paid_amount = obj.paid_amount if obj.paid_amount is not None else 0.0
+        paid_amount = obj.invoice_id.paid_amount if obj.invoice_id.paid_amount is not None else 0.0
         return float(invoice_amount) - float(paid_amount)
 
 

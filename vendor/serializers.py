@@ -219,7 +219,7 @@ class VendorVoucherDtlGetSerializer(serializers.ModelSerializer):
 
     def get_pending_amount(self, obj):
         netamt = obj.invoice_id.netamt if obj.invoice_id.netamt is not None else 0.0
-        paid_amount = obj.paid_amount if obj.paid_amount is not None else 0.0
+        paid_amount = obj.invoice_id.paid_amount if obj.invoice_id.paid_amount is not None else 0.0
         
         if paid_amount == 0:
             return netamt
